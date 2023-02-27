@@ -1,0 +1,930 @@
+{
+  "spells": [
+    {
+      "air": [
+        {
+          "name": "Haste (combat spell)",
+          "mana-cost": "6",
+          "notes": "It's effect can be replaced by Slow spell. Cyra, Terek and Brissa are specialists for this spell",
+          "level": "1",
+          "skill-level": [
+            {
+              "basic": "One friendly target unit's speed is increased by three hexes per turn",
+              "advanced": "One friendly target unit's speed is increased by five hexes per turn",
+              "expert": "All friendly units' speed is increased by five hexes per turn"
+            }
+          ]
+        },
+        {
+          "name": "Magic Arrow (combat spell)",
+          "mana-cost": "5",
+          "notes": "By default, Magic Arrow is treated as an air spell, but its efficency can be increased by any elemental magic skill",
+          "level": "1",
+          "skill-level": [
+            {
+              "basic": "One enemy target unit receives ((Power x 10) + 10) damage",
+              "advanced": "One enemy target unit receives ((Power x 10) + 20) damage",
+              "expert": "One enemy target unit receives ((Power x 10) + 30) damage"
+            }
+          ]
+        },
+        {
+          "name": "View Air (adventure spell)",
+          "mana-cost": "2",
+          "notes": "N/A",
+          "level": "1",
+          "skill-level": [
+            {
+              "basic": "Displays the location of all artifacts on the view world screen",
+              "advanced": "Displays the location of all artifacts and heroes on the view world screen",
+              "expert": "Displays the location of all artifacts, heroes and towns on the view world screen"
+            }
+          ]
+        },
+        {
+          "name": "Disguise (adventure spell)",
+          "mana-cost": "4",
+          "notes": "N/A",
+          "level": "2",
+          "skill-level": [
+            {
+              "basic": "When the casting hero is right-clicked by opponents, all of the hero's creature troops are displayed as if they were composed of the most powerful creatures in the hero's army. Troop population numbers are represented normally",
+              "advanced": "Same as Basic effect except troop population quantities are represented as 0",
+              "expert": "Same as Advanced effect except all troops are represented as if populated by the most powerful creature in hero's longest owned town"
+            }
+          ]
+        },
+        {
+          "name": "Disrupting ray (combat spell)",
+          "mana-cost": "10",
+          "notes": "The effect of this spell is stackable. Aenain is specialist of this spell",
+          "level": "2",
+          "skill-level": [
+            {
+              "basic": "Reduces target enemy unit's defense rating by three",
+              "advanced": "Same as Basic effect, except defense rating is reduced by four",
+              "expert": "Same as Basic effect, except defense rating is reduced by five"
+            }
+          ]
+        },
+        {
+          "name": "Fortune (combat spell)",
+          "mana-cost": "7",
+          "notes": "Melodia and Daremyth are specialists of this spell",
+          "level": "2",
+          "skill-level": [
+            {
+              "basic": "Increases Luck of target, allied troop by one",
+              "advanced": "Increases Luck of target, allied troop by two",
+              "expert": "Increases Luck of all allied troops by two"
+            }
+          ]
+        },
+        {
+          "name": "Lighting Bolt (combat spell)",
+          "mana-cost": "10",
+          "notes": "Thunderbirds can sometimes inflict this spell. Earth Elementals are immune to this spell, while Air Elementals take double damage from this spell. An army with the hero equipped with the Pendant of Negativity artifact is immune to this spell",
+          "level": "2",
+          "skill-level": [
+            {
+              "basic": "Enemy creature receives ((Power x 25) + 10) damage",
+              "advanced": "Enemy creature receives ((Power x 25) + 20) damage",
+              "expert": "Enemy creature receives ((Power x 25) + 50) damage"
+            }
+          ]
+        },
+        {
+          "name": "Precision (combat spell)",
+          "mana-cost": "8",
+          "notes": "Zubin is a specialist for this spell",
+          "level": "2",
+          "skill-level": [
+            {
+              "basic": "One friendly troop receives a +3 attack rating bonus for ranged attacks",
+              "advanced": "One friendly troop receives a +6 attack rating bonus for ranged attacks",
+              "expert": "All friendly ranged troops receive a +6 attack rating bonus for ranged attacks"
+            }
+          ]
+        },
+        {
+          "name": "Protection from Air (combat spell)",
+          "mana-cost": "7",
+          "notes": "Storm Elementals can cast this spell",
+          "level": "2",
+          "skill-level": [
+            {
+              "basic": "Damage from Air Magic spells is reduced by 30% for target, allied troop",
+              "advanced": "Damage from Air Magic spells is reduced by 50% for target, allied troop",
+              "expert": "Damage from Air Magic spells is reduced by 50% for all allied troops"
+            }
+          ]
+        },
+        {
+          "name": "Visions (adventure spell)",
+          "mana-cost": "4",
+          "notes": "The visions spell effect lasts for one day. By default, this spell is treated as an air spell, but its efficency can be increased by any elemental magic skill",
+          "level": "2",
+          "skill-level": [
+            {
+              "basic": "Displays number of monsters in a wandering monster troop and whether or not the troop will offer to join the casting hero's army. Range is equal to Power or three, whichever is greater",
+              "advanced": "Same as Basic effect, except an enemy hero's primary skill stats, and the composition and quantity of the hero's army can be viewed. Range is (Power x 2) or three, whichever is greater",
+              "expert": "Same as Advanced effect, except an enemy town's statistics and garrison composition and quantity may be viewed. Range is (Power x 3) or three, whichever is greater"
+            }
+          ]
+        },
+        {
+          "name": "Air Shield (combat spell)",
+          "mana-cost": "12",
+          "notes": "N/A",
+          "level": "3",
+          "skill-level": [
+            {
+              "basic": "One friendly target unit takes 25% less damage from ranged attacks",
+              "advanced": "One friendly target unit takes 50% less damage from ranged attacks",
+              "expert": "All friendly troops take 50% less damage from ranged attacks"
+            }
+          ]
+        },
+        {
+          "name": "Destroy Undead (combat spell)",
+          "mana-cost": "15",
+          "notes": "An army with the hero equipped with the Pendant of Death artifact is immune to this spell",
+          "level": "3",
+          "skill-level": [
+            {
+              "basic": "All undead creature troops receive ((Power x 10) + 10) damage",
+              "advanced": "All undead creature troops receive ((Power x 10) + 20) damage",
+              "expert": "All undead creature troops receive ((Power x 10) + 50) damage"
+            }
+          ]
+        },
+        {
+          "name": "Hypnotize (combat spell)",
+          "mana-cost": "18",
+          "notes": "An army with the hero equipped with the Pendant of Free Will artifact is immune to this spell. Astral is a specialist for this spell",
+          "level": "3",
+          "skill-level": [
+            {
+              "basic": "One enemy target unit of less than ((Power x 25) + 10) Health is put under your control. Allied troops may attack hypnotized troop without fear of retaliation",
+              "advanced": "One enemy target unit of less than ((Power x 25) + 20) Health is put under your control. Allied troops may attack hypnotized troop without fear of retaliation",
+              "expert": "One enemy target unit of less than ((Power x 25) + 50) Health is put under your control. Allied troops may attack hypnotized troop without fear of retaliation"
+            }
+          ]
+        },
+        {
+          "name": "Chain Lightning (combat spell)",
+          "mana-cost": "24",
+          "notes": "Earth elementals are immune to this spell, while air elementals take double damage from this spell. An army with the hero equipped with the pendant of negativity artifact is immune to this spell. Solmyr is a specialist for this spell",
+          "level": "4",
+          "skill-level": [
+            {
+              "basic": "Lightning bolt strikes target troop for ((Power x 40) + 25) damage. Bolt then strikes closest troop for half the damage. Effect continues until 4 troops are hit",
+              "advanced": "Like Basic effect except that initial strike does ((Power x 40) + 50) damage, and bolt strikes five troops",
+              "expert": "Like Advanced effect except that initial strike does ((Power x 40) +100) damage"
+            }
+          ]
+        },
+        {
+          "name": "Counterstrike (combat spell)",
+          "mana-cost": "24",
+          "notes": "N/A",
+          "level": "4",
+          "skill-level": [
+            {
+              "basic": "One friendly target unit can retaliate against one additional attack per round",
+              "advanced": "One friendly target unit can retaliate against two additional attacks per round",
+              "expert": "All friendly troops can retaliate against two additional attacks per round"
+            }
+          ]
+        },
+        {
+          "name": "Dimension Door (adventure spell)",
+          "mana-cost": "25",
+          "notes": "N/A",
+          "level": "5",
+          "skill-level": [
+            {
+              "basic": "Teleports hero to target, unoccupied, location that is visible on the Adventure Map with the hero centered. Spell may be cast twice per day and reduces the hero's movement by three tiles for each casting. If movement is reduced to zero, the spell may not be cast",
+              "advanced": "Same as Basic Effect, except the spell may be cast three times in a day",
+              "expert": "Same as Advanced Effect, except the spell may be cast four times in a day, and movement allowance is reduced by two tiles"
+            }
+          ]
+        },
+        {
+          "name": "Fly (adventure spell)",
+          "mana-cost": "20",
+          "notes": "The effect of fly spell lasts for one day. The hero and their army can fly across water terrain, but not rock underground terrain. The hero equipped with the Angel Wings artifact has this ability",
+          "level": "5",
+          "skill-level": [
+            {
+              "basic": "Casting hero can fly over terrain obstacles to an unoccupied map location. Distance traveled may be up to 60% of normal movement",
+              "advanced": "Same as Basic effect, except the hero may fly up to 80% of normal movement",
+              "expert": "Same as Basic effect, except the hero may fly up to 100% of normal movement"
+            }
+          ]
+        },
+        {
+          "name": "Magic Mirror (combat spell)",
+          "mana-cost": "25",
+          "notes": "Faerie Dragons have this ability",
+          "level": "5",
+          "skill-level": [
+            {
+              "basic": "One friendly target unit has a 20% chance of redirecting a hostile spell to a random enemy troop",
+              "advanced": "One friendly target unit has a 30% chance of redirecting a hostile spell to a random enemy troop",
+              "expert": "One friendly target unit has a 40% chance of redirecting a hostile spell to a random enemy troop"
+            }
+          ]
+        },
+        {
+          "name": "Summon Air Elemental (combat spell)",
+          "mana-cost": "25",
+          "notes": "N/A",
+          "level": "5",
+          "skill-level": [
+            {
+              "basic": "A troop containing (Power x 2) air elementals appears on the side of the casting player. Only one type of elemental can be summoned",
+              "advanced": "Same as Basic effect, except that (Power x 3) air elementals are summoned",
+              "expert": "Same as Basic effect, except that (Power x 4) air elementals are summoned"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "water": [
+        {
+          "name": "Bless (combat spell)",
+          "mana-cost": "5",
+          "notes": "This spell does not affect undead creatures. It can be replaced by Curse spell. Adela is a specialist for this spell",
+          "level": "1",
+          "skill-level": [
+            {
+              "basic": "One friendly target unit inflicts maximum damage when it attacks",
+              "advanced": "One friendly target unit inflicts maximum damage +1 when it attacks",
+              "expert": "All friendly units' inflict maximum damage +1 when they attack"
+            }
+          ]
+        },
+        {
+          "name": "Bless (combat spell)",
+          "mana-cost": "5",
+          "notes": "This spell does not affect undead creatures. Adela is a specialist for this spell",
+          "level": "1",
+          "skill-level": [
+            {
+              "basic": "One friendly target unit inflicts maximum damage when it attacks",
+              "advanced": "One friendly target unit inflicts maximum damage +1 when it attacks",
+              "expert": "All friendly units' inflict maximum damage +1 when they attack"
+            }
+          ]
+        },
+        {
+          "name": "Cure (combat spell)",
+          "mana-cost": "5",
+          "notes": "Uland is a specialist for this spell",
+          "level": "1",
+          "skill-level": [
+            {
+              "basic": "Removes all negative spell effects from target, allied troop and heals it for ((Power x 5) + 10) health points",
+              "advanced": "Removes all negative spell effects from target, allied troop and heals it for ((Power x 5) + 20) health points",
+              "expert": "Removes all negative spell effects from all allied troops and heals each for ((Power x 5) + 30) health points"
+            }
+          ]
+        },
+        {
+          "name": "Dispel (combat spell)",
+          "mana-cost": "5",
+          "notes": "Uland is a specialist for this spell",
+          "level": "1",
+          "skill-level": [
+            {
+              "basic": "Removes all negative spell effects from target, allied troop and heals it for ((Power x 5) + 10) health points",
+              "advanced": "Removes all negative spell effects from target, allied troop and heals it for ((Power x 5) + 20) health points",
+              "expert": "Removes all negative spell effects from all allied troops and heals each for ((Power x 5) + 30) health points"
+            }
+          ]
+        },
+        {
+          "name": "Protection from Water (combat spell)",
+          "mana-cost": "5",
+          "notes": "Ice Elementals can cast this spell",
+          "level": "1",
+          "skill-level": [
+            {
+              "basic": "Damage from Water Magic spells is reduced by 30% for target, allied troop",
+              "advanced": "Damage from Water Magic spells is reduced by 50% for target, allied troop",
+              "expert": "Damage from Water Magic spells is reduced by 50% for all allied troops"
+            }
+          ]
+        },
+        {
+          "name": "Summon Boat (adventure spell)",
+          "mana-cost": "6",
+          "notes": "N/A",
+          "level": "1",
+          "skill-level": [
+            {
+              "basic": "Summons one of your hero's boats to their current location. If none of those boats are available, then one of your other heroes' boats is summoned. Spell has a 50% chance of working. The spell fails if there are no unoccupied boats available",
+              "advanced": "Same as Basic effect, except that if no boats are available, a new one is created. The spell has a 75% chance of working. There are a maximum of sixty-four boats allowed on the Adventure Map at one time. The spell fails if all are occupied",
+              "expert": "Same as Advanced effect, except that the spell has a 100% chance of working (unless all sixty-four boats are occupied)"
+            }
+          ]
+        },
+        {
+          "name": "Ice Bolt (combat spell)",
+          "mana-cost": "8",
+          "notes": "Alagar is a specialist for this spell",
+          "level": "2",
+          "skill-level": [
+            {
+              "basic": "One enemy target unit receives ((Power x 20) + 10) damage",
+              "advanced": "One enemy target unit receives ((Power x 20) + 20) damage",
+              "expert": "One enemy target unit receives ((Power x 20) + 50) damage"
+            }
+          ]
+        },
+        {
+          "name": "Remove Obstacle (combat spell)",
+          "mana-cost": "7",
+          "notes": "N/A",
+          "level": "2",
+          "skill-level": [
+            {
+              "basic": "Removes one, non-magic obstacle from the battlefield. Integrated obstacles, such as cliffs are not affected",
+              "advanced": "Same as Basic effect, except Fire Walls may also be removed",
+              "expert": "Same as Advanced effect, except all, non-integrated obstacles can be removed"
+            }
+          ]
+        },
+        {
+          "name": "Scuttle Boat (adventure spell)",
+          "mana-cost": "8",
+          "notes": "N/A",
+          "level": "2",
+          "skill-level": [
+            {
+              "basic": "Spell has 50% chance of destroying a boat, unless occupied",
+              "advanced": "Spell has a 75% chance of destroying a boat, unless occupied",
+              "expert": "Spell destroys a boat, unless occupied"
+            }
+          ]
+        },
+        {
+          "name": "Weakness (combat spell)",
+          "mana-cost": "8",
+          "notes": "Weakness is inflicted by Dragon Flies. Its effect can be replaced by Bloodlust spell. The hero equipped with the Armor of the Damned artifact casts this spell at all enemy units at the beginning of the combat (even if they haven't learned the spell). Cuthbert and Mirlanda are specialists for this spell",
+          "level": "2",
+          "skill-level": [
+            {
+              "basic": "One enemy target unit's attack rating is reduced by three",
+              "advanced": "Same as Basic effect, except attack rating is reduced by six",
+              "expert": "All enemy units' attack ratings are reduced by six"
+            }
+          ]
+        },
+        {
+          "name": "Forgetfulness (combat spell)",
+          "mana-cost": "12",
+          "notes": "An army with the hero equipped with the Pendant of Total Recall artifact is immune to this spell",
+          "level": "3",
+          "skill-level": [
+            {
+              "basic": "Half of the creatures in target, enemy troop, with ranged attack forget to shoot",
+              "advanced": "Target, enemy troop with ranged attack cannot use its ranged attack",
+              "expert": "All enemy troops with ranged attacks cannot use their ranged attacks"
+            }
+          ]
+        },
+        {
+          "name": "Frost Ring (combat spell)",
+          "mana-cost": "12",
+          "notes": "Adelaide is a specialist for this spell",
+          "level": "3",
+          "skill-level": [
+            {
+              "basic": "Troops in hexes surrounding target hex receive ((Power x 10) + 15) in damage. Target hex is unaffected",
+              "advanced": "Same as Basic effect, except damage is ((Power x 10) + 30)",
+              "expert": "Same as Basic effect, except damage is ((Power x 10) + 60)"
+            }
+          ]
+        },
+        {
+          "name": "Mirth (combat spell)",
+          "mana-cost": "12",
+          "notes": "Its effect can be replaced by Sorrow spell",
+          "level": "3",
+          "skill-level": [
+            {
+              "basic": "One friendly target unit's morale is increased by one",
+              "advanced": "One friendly target unit's morale is increased by two",
+              "expert": "All friendly units' morale is increased by two"
+            }
+          ]
+        },
+        {
+          "name": "Teleport (combat spell)",
+          "mana-cost": "15",
+          "notes": "N/A",
+          "level": "3",
+          "skill-level": [
+            {
+              "basic": "Target, friendly troop instantly moves to an unoccupied target hex. Troop cannot teleport over walls or moats",
+              "advanced": "Same as Basic effect, except troop can teleport over walls",
+              "expert": "Troop can move to any unoccupied hex"
+            }
+          ]
+        },
+        {
+          "name": "Clone (combat spell)",
+          "mana-cost": "24",
+          "notes": "N/A",
+          "level": "4",
+          "skill-level": [
+            {
+              "basic": "Creates a duplicate of target, friendly troop level 1-5. The duplicate can attack but is dispelled if it receives any damage",
+              "advanced": "Same as Basic effect, except the duplicate may be of a level 1-6 troop",
+              "expert": "Same as Basic effect, except the duplicate may be of a level 1-7 troop"
+            }
+          ]
+        },
+        {
+          "name": "Prayer (combat spell)",
+          "mana-cost": "16",
+          "notes": "This spell does not affect undead creatures. The hero equipped with the Angelic Alliance artifact casts this spell at all friendly units at the beginning of the combat (even if they haven't learned the spell), but only for good and neutral-aligned creatures. Loynis is a specialist for this spell",
+          "level": "4",
+          "skill-level": [
+            {
+              "basic": "Creates a duplicate of target, friendly troop level 1-5. The duplicate can attack but is dispelled if it receives any damage",
+              "advanced": "Same as Basic effect, except the duplicate may be of a level 1-6 troop",
+              "expert": "Same as Basic effect, except the duplicate may be of a level 1-7 troop"
+            }
+          ]
+        },
+        {
+          "name": "Water Walk (adventure spell)",
+          "mana-cost": "12",
+          "notes": "The hero equipped with Boots of Levitation or Angel Wings artifact has this ability",
+          "level": "4",
+          "skill-level": [
+            {
+              "basic": "The casting hero may follow a movement path across water, provided the end destination is an unoccupied location on land. Water movement may be up to 60% of the hero's normal movement",
+              "advanced": "Same as Basic effect, except that water movement may be up to 80% of the hero's normal movement",
+              "expert": "Same as Basic effect, except that water movement may be made at the hero's full, normal movement"
+            }
+          ]
+        },
+        {
+          "name": "Summon Water Elemental (combat spell)",
+          "mana-cost": "25",
+          "notes": "N/A",
+          "level": "5",
+          "skill-level": [
+            {
+              "basic": "A troop containing (Power x 2) water elementals appears on the side of the casting player. Only one type of elemental can be summoned",
+              "advanced": "Same as Basic effect, except that (Power x 3) water elementals are summoned",
+              "expert": "Same as Basic effect, except that (Power x 4) water elementals are summoned"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "earth": [
+        {
+          "name": "Shield (combat spell)",
+          "mana-cost": "5",
+          "notes": "N/A",
+          "level": "1",
+          "skill-level": [
+            {
+              "basic": "One friendly target unit receives 15% less damage from Hand-to-hand combat",
+              "advanced": "One friendly target unit receives 30% less damage from Hand-to-hand combat",
+              "expert": "All friendly units' receive 30% less damage from Hand-to-hand combat"
+            }
+          ]
+        },
+        {
+          "name": "Slow (combat spell)",
+          "mana-cost": "6",
+          "notes": "Its effect can be replaced by Haste spell. The hero equipped with the Armor of the Damned artifact casts this spell at all enemy units at the beginning of the combat (even if they haven't learned the spell)",
+          "level": "1",
+          "skill-level": [
+            {
+              "basic": "One enemy target's speed is reduced to 25% of normal",
+              "advanced": "One enemy target's speed is reduced to 50% of normal",
+              "expert": "All enemy units' speed are reduced to 50% of normal"
+            }
+          ]
+        },
+        {
+          "name": "Stone Skin (combat spell)",
+          "mana-cost": "5",
+          "notes": "Darkstorm, Merist and Labetha are specialists for this spells",
+          "level": "1",
+          "skill-level": [
+            {
+              "basic": "One enemy target's speed is reduced to 25% of normal",
+              "advanced": "One enemy target's speed is reduced to 50% of normal",
+              "expert": "All enemy units' speed is reduced to 50% of normal"
+            }
+          ]
+        },
+        {
+          "name": "View Earth (adventure spell)",
+          "mana-cost": "2",
+          "notes": "N/A",
+          "level": "1",
+          "skill-level": [
+            {
+              "basic": "Displays the location of all loose resources on the view world screen",
+              "advanced": "Displays the location of all mines and loose resources on the view world screen",
+              "expert": "Displays the entire terrain, all mines and loose resources on the view world screen"
+            }
+          ]
+        },
+        {
+          "name": "Death Ripple (combat spell)",
+          "mana-cost": "10",
+          "notes": "An army with the hero equipped with the Pendant of Life artifact is immune to this spell. Septienna is a specialist for this spell",
+          "level": "2",
+          "skill-level": [
+            {
+              "basic": "All non-undead troops take ((Power x 5) + 10) damage",
+              "advanced": "All non-undead troops take ((Power x 5) + 20) damage",
+              "expert": "All non-undead troops take ((Power x 5) + 30) damage"
+            }
+          ]
+        },
+        {
+          "name": "Quicksand (combat spell)",
+          "mana-cost": "8",
+          "notes": "N/A",
+          "level": "2",
+          "skill-level": [
+            {
+              "basic": "Quicksand pits are placed in four random hexes. They are invisible to creatures unless they are on native terrain. Troops stepping on pit hexes have their movement halted for the current round. Once a pit is stepped on, it is revealed to all",
+              "advanced": "Same as Basic effect, except that six pits are placed",
+              "expert": "Same as Basic efect, except that eight pits are placed"
+            }
+          ]
+        },
+        {
+          "name": "Animate Dead (combat spell)",
+          "mana-cost": "15",
+          "notes": "Revived creatures from animate dead spell remain after combat ends. Thant is a specialist for this spell",
+          "level": "3",
+          "skill-level": [
+            {
+              "basic": "Reanimates ((Power x 50) + 30) health points worth of killed undead creatures in target, allied troop",
+              "advanced": "Reanimates ((Power x 50) + 30) health points worth of killed undead creatures in target, allied troop",
+              "expert": "Reanimates ((Power x 50) + 160) health points worth of killed undead creatures in target, allied troop"
+            }
+          ]
+        },
+        {
+          "name": "Anti-magic (combat spell)",
+          "mana-cost": "15",
+          "notes": "N/A",
+          "level": "3",
+          "skill-level": [
+            {
+              "basic": "One friendly target unit can only be affected by level 4 or 5 spells",
+              "advanced": "One friendly target unit can only be affected by level 4 or 5 spells",
+              "expert": "One friendly target unit is immune to spell effects"
+            }
+          ]
+        },
+        {
+          "name": "Earthquake (combat spell)",
+          "mana-cost": "20",
+          "notes": "N/A",
+          "level": "3",
+          "skill-level": [
+            {
+              "basic": "Does one point of damage to two, random castle walls during siege combat",
+              "advanced": "Does one point of damage to three, random castle walls during siege combat",
+              "expert": "Does one point of damage to four, random castle walls during siege combat"
+            }
+          ]
+        },
+        {
+          "name": "Force Field (combat spell)",
+          "mana-cost": "12",
+          "notes": "Flying units can fly past a force field",
+          "level": "3",
+          "skill-level": [
+            {
+              "basic": "A two hex wide force wall is created at target hex. Movement through these hexes is blocked",
+              "advanced": "Same as Basic effect, except the force wall is three hexes wide",
+              "expert": "Same as Advanced effect"
+            }
+          ]
+        },
+        {
+          "name": "Protection from Earth (combat spell)",
+          "mana-cost": "12",
+          "notes": "Magma Elementals can cast this spell",
+          "level": "3",
+          "skill-level": [
+            {
+              "basic": "Damage from Earth Magic spells is reduced by 30% for target, allied troop",
+              "advanced": "Damage from Earth Magic spells is reduced by 50% for target, allied troop",
+              "expert": "Damage from Earth Magic spells is reduced by 50% for all allied troops"
+            }
+          ]
+        },
+        {
+          "name": "Meteor Shower (combat spell)",
+          "mana-cost": "16",
+          "notes": "Air Elementals and Storm Elementals are immune to Meteor Shower, while Earth Elementals and Magma Elementals take double damage from this spell. Aislinn and Deemer are specialists for this spell",
+          "level": "4",
+          "skill-level": [
+            {
+              "basic": "Troops in target hex and adjacent hexes take ((Power x 25) + 25) damage",
+              "advanced": "Troops in target hex and adjacent hexes take ((Power x 25) + 50) damage",
+              "expert": "Troops in target hex and adjacent hexes take ((Power x 25) + 100) damage"
+            }
+          ]
+        },
+        {
+          "name": "Resurrection (combat spell)",
+          "mana-cost": "20",
+          "notes": "Mechanical and elemental creatures, as well as Stone Gargoyles and Obsidian Gargoylles cannot be targeted by this effect. Alamar and Jeddite are specialists for this spell",
+          "level": "4",
+          "skill-level": [
+            {
+              "basic": "One friendly target unit with dead creatures has ((Power x 50) + 40) health worth of creatures restored to life for the duration of the current battle",
+              "advanced": "Same as Basic effect, except that ((Power x 50) +80) health worth of creatures are restored permanently",
+              "expert": "Same as Advanced effect, except that (Power x 50 + 160) health worth of creatures are restored"
+            }
+          ]
+        },
+        {
+          "name": "Sorrow (combat spell)",
+          "mana-cost": "16",
+          "notes": "Its effect can be replaced by Mirth spell",
+          "level": "4",
+          "skill-level": [
+            {
+              "basic": "One enemy targeted unit's morale rating is reduced by one",
+              "advanced": "One enemy targeted unit's morale rating is reduced by two",
+              "expert": "All enemy troops' morale ratings are reduced by two"
+            }
+          ]
+        },
+        {
+          "name": "Town Portal (adventure spell)",
+          "mana-cost": "16",
+          "notes": "If the hero has allied factions, they can use Town Portal to their towns as well",
+          "level": "4",
+          "skill-level": [
+            {
+              "basic": "Casting hero is teleported to the nearest allied town. 300 movement points are expended when the spell is cast",
+              "advanced": "Casting hero may teleport to any allied town with no visiting hero. 300 movement points are expended when the spell is cast",
+              "expert": "Same as Advanced effect, except that movement point cost is 200"
+            }
+          ]
+        },
+        {
+          "name": "Implosion (combat spell)",
+          "mana-cost": "30",
+          "notes": "N/A",
+          "level": "5",
+          "skill-level": [
+            {
+              "basic": "One enemy target unit receives ((Power x 75) + 100) damage",
+              "advanced": "One enemy target unit receives ((Power x 75) + 200) damage",
+              "expert": "One enemy target unit receives ((Power x 75) + 300) damage"
+            }
+          ]
+        },
+        {
+          "name": "Summon Earth Elemental (combat spell)",
+          "mana-cost": "25",
+          "notes": "N/A",
+          "level": "5",
+          "skill-level": [
+            {
+              "basic": "A troop containing (Power x 2) earth elementals appears on the side of the casting player. Only one type of elemental can be summoned",
+              "advanced": "Same as Basic effect, except that (Power x 3) earth elementals are summoned",
+              "expert": "Same as Basic effect, except that (Power x 4) earth elementals are summoned"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "fire": [
+        {
+          "name": "Bloodlust (combat spell)",
+          "mana-cost": "5",
+          "notes": "This spell can be cast by Ogre Magi. Ash and Inteus are specialists for this spell",
+          "level": "1",
+          "skill-level": [
+            {
+              "basic": "One friendly target unit receives a +3 attack rating bonus for hand-to-hand attacks",
+              "advanced": "One friendly target unit receives a +6 attack rating bonus for hand-to-hand attacks",
+              "expert": "All friendly units receives a +6 attack rating bonus for hand-to-hand attacks"
+            }
+          ]
+        },
+        {
+          "name": "Curse (combat spell)",
+          "mana-cost": "5",
+          "notes": "Curse can sometimes be inflicted by Black Knights, Dread Knights and Mummies. It can be replaced by Bless spell. An army with the hero equipped with the Pendant of Holiness artifact is immune to this spell. The hero equipped with the Armor of the Damned artifact casts this spell at all enemy units at the beginning of the combat (even if they haven't learned the spell)",
+          "level": "1",
+          "skill-level": [
+            {
+              "basic": "One enemy target unit inflicts minimum damage when it attacks",
+              "advanced": "One enemy target unit inflicts ((80% of their minimum damage) - 1) when it attacks",
+              "expert": "All enemy units inflict ((80% of their minimum damage) - 1) when they attack"
+            }
+          ]
+        },
+        {
+          "name": "Protection from Fire (combat spell)",
+          "mana-cost": "5",
+          "notes": "Energy Elementals can cast this spell",
+          "level": "1",
+          "skill-level": [
+            {
+              "basic": "Damage from Fire Magic spells is reduced by 30% for target, allied troop",
+              "advanced": "Damage from Fire Magic spells is reduced by 50% for target, allied troop",
+              "expert": "Damage from Fire Magic spells is reduced by 50% for all allied troops"
+            }
+          ]
+        },
+        {
+          "name": "Blind (combat spell)",
+          "mana-cost": "10",
+          "notes": "Blind can sometimes be inflicted by Unicorns and War Unicorns. An army with the hero equipped with the Pendant of Second Sight artifact is immune to this spell. Undead and mechanical units are immune to this spell",
+          "level": "2",
+          "skill-level": [
+            {
+              "basic": "One enemy target unit is frozen until they are attacked. Deactivating attack is retaliated at 50% of base attack rating",
+              "advanced": "One enemy target unit is frozen until they are attacked. Deactivating attack is retaliated at 25% of base attack rating",
+              "expert": "One enemy target unit is frozen until they are attacked. Deactivating attack is not retaliated"
+            }
+          ]
+        },
+        {
+          "name": "Fire Wall (combat spell)",
+          "mana-cost": "8",
+          "notes": "Casting Remove Obstacle spell at advanced or higher level removes fire wall. Flying units passing through are immune to this spell, unless they land on it. This spell lasts for two rounds. Luna is a specialist for this spell, for the spell's damage is doubled",
+          "level": "2",
+          "skill-level": [
+            {
+              "basic": "A two hex wide wall of fire is produced at target hex. A troop passing through these hexes takes ((Power x 10) + 10) damage",
+              "advanced": "Same as Basic effect, except that wall of fire is three hexes wide and damage is ((Power x 10) +20)",
+              "expert": "Same as Advanced effect, except that damage is ((Power x 10) + 50)"
+            }
+          ]
+        },
+        {
+          "name": "Fireball (combat spell)",
+          "mana-cost": "15",
+          "notes": "Xarfax is a specialist for this spell",
+          "level": "3",
+          "skill-level": [
+            {
+              "basic": "Troops in target hex and its surrounding hexes take ((Power x 10) + 15) damage",
+              "advanced": "Same as Basic effect, except that damage is ((Power x 10) + 30)",
+              "expert": "Same as Basic effect, except that damage is ((Power x 10) + 60)"
+            }
+          ]
+        },
+        {
+          "name": "Land Mine (combat spell)",
+          "mana-cost": "18",
+          "notes": "Land mines are placed as a moat during a siege on a Tower citadel or castle, and are removed once triggered. Using dispel spell at Expert level removes this spell",
+          "level": "3",
+          "skill-level": [
+            {
+              "basic": "Landmines are placed in four random hexes on the battlefield. A troop stepping on a mine takes ((Power x 10) + 25) damage. Enemy creatures battling on their native terrain can see the mines and can cross them safely. To all others they are invisible",
+              "advanced": "Same as Basic effect, except that six mines are placed, and damage is ((Power x 10) + 50)",
+              "expert": "Same as Basic effect, except that six mines are placed, and damage is ((Power x 10) + 100)"
+            }
+          ]
+        },
+        {
+          "name": "Misfortune (combat spell)",
+          "mana-cost": "12",
+          "notes": "The hero equipped with the Armor of the Damned artifact casts this spell at all enemy units at the beginning of the combat (even if they haven't learned the spell)",
+          "level": "3",
+          "skill-level": [
+            {
+              "basic": "One enemy target unit's luck rating is reduced by one",
+              "advanced": "One enemy target unit's luck rating is reduced by two",
+              "expert": "All enemy units' luck rating are reduced by two"
+            }
+          ]
+        },
+        {
+          "name": "Armageddon (combat spell)",
+          "mana-cost": "24",
+          "notes": "Earth Elementals and Magma Elementals are immune to this spell. A hero with Armageddon's Blade artifact can cast this spell, where it only affects enemy units",
+          "level": "4",
+          "skill-level": [
+            {
+              "basic": "All troops take ((Power x 50) + 30) points of damage",
+              "advanced": "All troops take ((Power x 50) + 60) points of damage",
+              "expert": "All troops take ((Power x 50) + 120) points of damage"
+            }
+          ]
+        },
+        {
+          "name": "Berserk (combat spell)",
+          "mana-cost": "24",
+          "notes": "An army with the hero equipped with the Pendant of Dispassion artifact is immune to this spell",
+          "level": "4",
+          "skill-level": [
+            {
+              "basic": "Target attacks nearest troop. All creatures in a 1 hex radius affected",
+              "advanced": "Target attacks nearest troop. All creatures in a 2 hex radius (7 hexes total) affected",
+              "expert": "Target attacks nearest troop. All creatures in a 3 hex radius (19 hexes total) affected"
+            }
+          ]
+        },
+        {
+          "name": "Fire Shield (combat spell)",
+          "mana-cost": "16",
+          "notes": "Efreet Sultans have this ability",
+          "level": "4",
+          "skill-level": [
+            {
+              "basic": "20% of hand-to-hand damage inflicted on target, allied troop is counter-inflicted on attackers of the troop",
+              "advanced": "Same as Basic effect except that 25% of damage is counter-inflicted",
+              "expert": "Same as Basic effect except that 30% of damage is counter-inflicted"
+            }
+          ]
+        },
+        {
+          "name": "Frenzy (combat spell)",
+          "mana-cost": "16",
+          "notes": "N/A",
+          "level": "4",
+          "skill-level": [
+            {
+              "basic": "One friendly unit's attack rating is increased by 100% of the troop's defense rating, and its defense rating is reduced to zero",
+              "advanced": "Same as Basic effect, except attack rating is increased to 150% of the troop's defense rating",
+              "expert": "Same as Advanced effect, except attack rating is increased to 200% of the troop's defense rating"
+            }
+          ]
+        },
+        {
+          "name": "Inferno (combat spell)",
+          "mana-cost": "16",
+          "notes": "Xyron is a specialist for this spell",
+          "level": "4",
+          "skill-level": [
+            {
+              "basic": "Strikes target hex, and all hexes within two hexes for ((Power x 10) + 20) damage",
+              "advanced": "Same as Basic effect, except that damage is ((Power x 10) + 40)",
+              "expert": "Same as Basic effect, except that damage is ((Power x 10) + 80)"
+            }
+          ]
+        },
+        {
+          "name": "Slayer (combat spell)",
+          "mana-cost": "16",
+          "notes": "Coronius is a specialist for this spell",
+          "level": "4",
+          "skill-level": [
+            {
+              "basic": "One friendly target unit's attack rating is increased by eight against behemoths, dragons, and hydras",
+              "advanced": "Same as Basic effect, except that attack bonus also affects devils and angels",
+              "expert": "Same as Advanced effect, except attack bonus also affects titans"
+            }
+          ]
+        },
+        {
+          "name": "Sacrifice (combat spell)",
+          "mana-cost": "25",
+          "notes": "N/A",
+          "level": "5",
+          "skill-level": [
+            {
+              "basic": "Target, non-undead troop is sacrificed (destroyed). Then another target troop has ((Power + destroyed unit's creature base Health + 3) x # of creatures sacrificed) in health total of creatures returned to life",
+              "advanced": "Same as Basic effect, except that health total of creatures resurrected is ((Power + destroyed unit's creature base Health + 6) x # of creatures sacrificed)",
+              "expert": "Same as Basic effect, except that health total of creatures resurrected is ((Power + destroyed unit's creature base Health + 10) x # of creatures sacrificed)"
+            }
+          ]
+        },
+        {
+          "name": "Summon Fire Elemental (combat spell)",
+          "mana-cost": "25",
+          "notes": "N/A",
+          "level": "5",
+          "skill-level": [
+            {
+              "basic": "A troop containing (Power x 2) fire elementals appears on the side of the casting player. Only one type of elemental can be summoned",
+              "advanced": "Same as Basic effect, except that (Power x 3) fire elementals are summoned",
+              "expert": "Same as Basic effect, except that (Power x 4) fire elementals are summoned"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
