@@ -2,7 +2,7 @@
   "units": [
     {
       "name": "Pikeman",
-      "town": "Castle",
+      "faction": "Castle",
       "tier": "1",
       "upgraded": "no",
       "attack-type": "melee",
@@ -18,7 +18,7 @@
     },
     {
       "name": "Halberdier",
-      "town": "Castle",
+      "faction": "Castle",
       "tier": "1",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -34,7 +34,7 @@
     },
     {
       "name": "Archer",
-      "town": "Castle",
+      "faction": "Castle",
       "tier": "2",
       "upgraded": "no",
       "attack-type": "ranged",
@@ -50,7 +50,7 @@
     },
     {
       "name": "Marksman",
-      "town": "Castle",
+      "faction": "Castle",
       "tier": "2",
       "upgraded": "yes",
       "attack-type": "ranged",
@@ -66,7 +66,7 @@
     },
     {
       "name": "Griffin",
-      "town": "Castle",
+      "faction": "Castle",
       "tier": "3",
       "upgraded": "no",
       "attack-type": "melee",
@@ -82,7 +82,7 @@
     },
     {
       "name": "Royal Griffin",
-      "town": "Castle",
+      "faction": "Castle",
       "tier": "3",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -98,7 +98,7 @@
     },
     {
       "name": "Swordsman",
-      "town": "Castle",
+      "faction": "Castle",
       "tier": "4",
       "upgraded": "no",
       "attack-type": "melee",
@@ -114,7 +114,7 @@
     },
     {
       "name": "Crusader",
-      "town": "Castle",
+      "faction": "Castle",
       "tier": "4",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -130,7 +130,7 @@
     },
     {
       "name": "Monk",
-      "town": "Castle",
+      "faction": "Castle",
       "tier": "5",
       "upgraded": "no",
       "attack-type": "ranged",
@@ -146,7 +146,7 @@
     },
     {
       "name": "Zealot",
-      "town": "Castle",
+      "faction": "Castle",
       "tier": "5",
       "upgraded": "yes",
       "attack-type": "ranged",
@@ -162,7 +162,7 @@
     },
     {
       "name": "Cavalier",
-      "town": "Castle",
+      "faction": "Castle",
       "tier": "6",
       "upgraded": "no",
       "attack-type": "melee",
@@ -178,7 +178,7 @@
     },
     {
       "name": "Champion",
-      "town": "Castle",
+      "faction": "Castle",
       "tier": "6",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -194,7 +194,7 @@
     },
     {
       "name": "Angel",
-      "town": "Castle",
+      "faction": "Castle",
       "tier": "7",
       "upgraded": "no",
       "attack-type": "melee",
@@ -210,7 +210,7 @@
     },
     {
       "name": "Archangel",
-      "town": "Castle",
+      "faction": "Castle",
       "tier": "7",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -226,7 +226,7 @@
     },
     {
       "name": "Centaur",
-      "town": "Rampart",
+      "faction": "Rampart",
       "tier": "1",
       "upgraded": "no",
       "attack-type": "melee",
@@ -242,7 +242,7 @@
     },
     {
       "name": "Centaur Captain",
-      "town": "Rampart",
+      "faction": "Rampart",
       "tier": "1",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -258,7 +258,7 @@
     },
     {
       "name": "Dwarf",
-      "town": "Rampart",
+      "faction": "Rampart",
       "tier": "2",
       "upgraded": "no",
       "attack-type": "melee",
@@ -274,7 +274,7 @@
     },
     {
       "name": "Battle Dwarf",
-      "town": "Rampart",
+      "faction": "Rampart",
       "tier": "2",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -290,7 +290,7 @@
     },
     {
       "name": "Wood Elf",
-      "town": "Rampart",
+      "faction": "Rampart",
       "tier": "3",
       "upgraded": "no",
       "attack-type": "ranged",
@@ -306,7 +306,7 @@
     },
     {
       "name": "Grand Elf",
-      "town": "Rampart",
+      "faction": "Rampart",
       "tier": "3",
       "upgraded": "yes",
       "attack-type": "ranged",
@@ -322,7 +322,7 @@
     },
     {
       "name": "Pegasus",
-      "town": "Rampart",
+      "faction": "Rampart",
       "tier": "4",
       "upgraded": "no",
       "attack-type": "melee",
@@ -338,7 +338,7 @@
     },
     {
       "name": "Silver Pegasus",
-      "town": "Rampart",
+      "faction": "Rampart",
       "tier": "4",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -354,7 +354,7 @@
     },
     {
       "name": "Dendroid Guard",
-      "town": "Rampart",
+      "faction": "Rampart",
       "tier": "5",
       "upgraded": "no",
       "attack-type": "melee",
@@ -370,7 +370,7 @@
     },
     {
       "name": "Dendroid Soldier",
-      "town": "Rampart",
+      "faction": "Rampart",
       "tier": "5",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -386,7 +386,7 @@
     },
     {
       "name": "Unicorn",
-      "town": "Rampart",
+      "faction": "Rampart",
       "tier": "6",
       "upgraded": "no",
       "attack-type": "melee",
@@ -402,7 +402,7 @@
     },
     {
       "name": "War Unicorn",
-      "town": "Rampart",
+      "faction": "Rampart",
       "tier": "6",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -418,7 +418,7 @@
     },
     {
       "name": "Green Dragon",
-      "town": "Rampart",
+      "faction": "Rampart",
       "tier": "7",
       "upgraded": "no",
       "attack-type": "melee",
@@ -434,7 +434,7 @@
     },
     {
       "name": "Gold Dragon",
-      "town": "Rampart",
+      "faction": "Rampart",
       "tier": "7",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -450,7 +450,7 @@
     },
     {
       "name": "Gremlin",
-      "town": "Tower",
+      "faction": "Tower",
       "tier": "1",
       "upgraded": "no",
       "attack-type": "melee",
@@ -466,7 +466,7 @@
     },
     {
       "name": "Master Gremlin",
-      "town": "Tower",
+      "faction": "Tower",
       "tier": "1",
       "upgraded": "yes",
       "attack-type": "ranged",
@@ -482,7 +482,7 @@
     },
     {
       "name": "Stone Gargoyle",
-      "town": "Tower",
+      "faction": "Tower",
       "tier": "2",
       "upgraded": "no",
       "attack-type": "melee",
@@ -498,7 +498,7 @@
     },
     {
       "name": "Obsidian Gargoyle",
-      "town": "Tower",
+      "faction": "Tower",
       "tier": "2",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -514,7 +514,7 @@
     },
     {
       "name": "Stone Golem",
-      "town": "Tower",
+      "faction": "Tower",
       "tier": "3",
       "upgraded": "no",
       "attack-type": "melee",
@@ -530,7 +530,7 @@
     },
     {
       "name": "Iron Golem",
-      "town": "Tower",
+      "faction": "Tower",
       "tier": "3",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -546,7 +546,7 @@
     },
     {
       "name": "Mage",
-      "town": "Tower",
+      "faction": "Tower",
       "tier": "4",
       "upgraded": "no",
       "attack-type": "ranged",
@@ -562,7 +562,7 @@
     },
     {
       "name": "Archmage",
-      "town": "Tower",
+      "faction": "Tower",
       "tier": "4",
       "upgraded": "yes",
       "attack-type": "ranged",
@@ -578,7 +578,7 @@
     },
     {
       "name": "Genie",
-      "town": "Tower",
+      "faction": "Tower",
       "tier": "5",
       "upgraded": "no",
       "attack-type": "melee",
@@ -594,7 +594,7 @@
     },
     {
       "name": "Master Genie",
-      "town": "Tower",
+      "faction": "Tower",
       "tier": "5",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -610,7 +610,7 @@
     },
     {
       "name": "Naga",
-      "town": "Tower",
+      "faction": "Tower",
       "tier": "6",
       "upgraded": "no",
       "attack-type": "melee",
@@ -626,7 +626,7 @@
     },
     {
       "name": "Naga Queen",
-      "town": "Tower",
+      "faction": "Tower",
       "tier": "6",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -642,7 +642,7 @@
     },
     {
       "name": "Giant",
-      "town": "Tower",
+      "faction": "Tower",
       "tier": "7",
       "upgraded": "no",
       "attack-type": "melee",
@@ -658,7 +658,7 @@
     },
     {
       "name": "Titan",
-      "town": "Tower",
+      "faction": "Tower",
       "tier": "7",
       "upgraded": "yes",
       "attack-type": "ranged",
@@ -674,7 +674,7 @@
     },
     {
       "name": "Imp",
-      "town": "Inferno",
+      "faction": "Inferno",
       "tier": "1",
       "upgraded": "no",
       "attack-type": "melee",
@@ -690,7 +690,7 @@
     },
     {
       "name": "Familiar",
-      "town": "Inferno",
+      "faction": "Inferno",
       "tier": "1",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -706,7 +706,7 @@
     },
     {
       "name": "Gog",
-      "town": "Inferno",
+      "faction": "Inferno",
       "tier": "2",
       "upgraded": "no",
       "attack-type": "ranged",
@@ -722,7 +722,7 @@
     },
     {
       "name": "Magog",
-      "town": "Inferno",
+      "faction": "Inferno",
       "tier": "3",
       "upgraded": "yes",
       "attack-type": "ranged",
@@ -738,7 +738,7 @@
     },
     {
       "name": "Hell Hound",
-      "town": "Inferno",
+      "faction": "Inferno",
       "tier": "3",
       "upgraded": "no",
       "attack-type": "melee",
@@ -754,7 +754,7 @@
     },
     {
       "name": "Cerberus",
-      "town": "Inferno",
+      "faction": "Inferno",
       "tier": "3",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -770,7 +770,7 @@
     },
     {
       "name": "Demon",
-      "town": "Inferno",
+      "faction": "Inferno",
       "tier": "4",
       "upgraded": "no",
       "attack-type": "melee",
@@ -786,7 +786,7 @@
     },
     {
       "name": "Horned Demon",
-      "town": "Inferno",
+      "faction": "Inferno",
       "tier": "4",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -802,7 +802,7 @@
     },
     {
       "name": "Pit Fiend",
-      "town": "Inferno",
+      "faction": "Inferno",
       "tier": "5",
       "upgraded": "no",
       "attack-type": "melee",
@@ -818,7 +818,7 @@
     },
     {
       "name": "Pit Lord",
-      "town": "Inferno",
+      "faction": "Inferno",
       "tier": "5",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -834,7 +834,7 @@
     },
     {
       "name": "Efreet",
-      "town": "Inferno",
+      "faction": "Inferno",
       "tier": "6",
       "upgraded": "no",
       "attack-type": "melee",
@@ -850,7 +850,7 @@
     },
     {
       "name": "Efreet Sultans",
-      "town": "Inferno",
+      "faction": "Inferno",
       "tier": "6",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -866,7 +866,7 @@
     },
     {
       "name": "Devil",
-      "town": "Inferno",
+      "faction": "Inferno",
       "tier": "7",
       "upgraded": "no",
       "attack-type": "melee",
@@ -882,7 +882,7 @@
     },
     {
       "name": "Archdevil",
-      "town": "Inferno",
+      "faction": "Inferno",
       "tier": "7",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -898,7 +898,7 @@
     },
     {
       "name": "Skeleton",
-      "town": "Necropolis",
+      "faction": "Necropolis",
       "tier": "1",
       "upgraded": "no",
       "attack-type": "melee",
@@ -914,7 +914,7 @@
     },
     {
       "name": "Skeleton Warrior",
-      "town": "Necropolis",
+      "faction": "Necropolis",
       "tier": "1",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -930,7 +930,7 @@
     },
     {
       "name": "Walking Dead",
-      "town": "Necropolis",
+      "faction": "Necropolis",
       "tier": "2",
       "upgraded": "no",
       "attack-type": "melee",
@@ -946,7 +946,7 @@
     },
     {
       "name": "Zombie",
-      "town": "Necropolis",
+      "faction": "Necropolis",
       "tier": "2",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -962,7 +962,7 @@
     },
     {
       "name": "Wight",
-      "town": "Necropolis",
+      "faction": "Necropolis",
       "tier": "3",
       "upgraded": "no",
       "attack-type": "melee",
@@ -978,7 +978,7 @@
     },
     {
       "name": "Wraith",
-      "town": "Necropolis",
+      "faction": "Necropolis",
       "tier": "3",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -994,7 +994,7 @@
     },
     {
       "name": "Vampire",
-      "town": "Necropolis",
+      "faction": "Necropolis",
       "tier": "4",
       "upgraded": "no",
       "attack-type": "melee",
@@ -1010,7 +1010,7 @@
     },
     {
       "name": "Vampire Lord",
-      "town": "Necropolis",
+      "faction": "Necropolis",
       "tier": "4",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -1026,7 +1026,7 @@
     },
     {
       "name": "Lich",
-      "town": "Necropolis",
+      "faction": "Necropolis",
       "tier": "5",
       "upgraded": "no",
       "attack-type": "ranged",
@@ -1042,7 +1042,7 @@
     },
     {
       "name": "Power Lich",
-      "town": "Necropolis",
+      "faction": "Necropolis",
       "tier": "5",
       "upgraded": "yes",
       "attack-type": "ranged",
@@ -1058,7 +1058,7 @@
     },
     {
       "name": "Black Knight",
-      "town": "Necropolis",
+      "faction": "Necropolis",
       "tier": "6",
       "upgraded": "no",
       "attack-type": "melee",
@@ -1074,7 +1074,7 @@
     },
     {
       "name": "Dread Knight",
-      "town": "Necropolis",
+      "faction": "Necropolis",
       "tier": "6",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -1090,7 +1090,7 @@
     },
     {
       "name": "Bone Dragon",
-      "town": "Necropolis",
+      "faction": "Necropolis",
       "tier": "7",
       "upgraded": "no",
       "attack-type": "melee",
@@ -1106,7 +1106,7 @@
     },
     {
       "name": "Ghost Dragon",
-      "town": "Necropolis",
+      "faction": "Necropolis",
       "tier": "7",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -1122,7 +1122,7 @@
     },
     {
       "name": "Troglodyte",
-      "town": "Dungeon",
+      "faction": "Dungeon",
       "tier": "1",
       "upgraded": "no",
       "attack-type": "melee",
@@ -1138,7 +1138,7 @@
     },
     {
       "name": "Infernal Troglodyte",
-      "town": "Dungeon",
+      "faction": "Dungeon",
       "tier": "1",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -1154,7 +1154,7 @@
     },
     {
       "name": "Harpy",
-      "town": "Dungeon",
+      "faction": "Dungeon",
       "tier": "2",
       "upgraded": "no",
       "attack-type": "melee",
@@ -1170,7 +1170,7 @@
     },
     {
       "name": "Harpy Hag",
-      "town": "Dungeon",
+      "faction": "Dungeon",
       "tier": "2",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -1186,7 +1186,7 @@
     },
     {
       "name": "Beholder",
-      "town": "Dungeon",
+      "faction": "Dungeon",
       "tier": "3",
       "upgraded": "no",
       "attack-type": "ranged",
@@ -1202,7 +1202,7 @@
     },
     {
       "name": "Evil Eye",
-      "town": "Dungeon",
+      "faction": "Dungeon",
       "tier": "3",
       "upgraded": "yes",
       "attack-type": "ranged",
@@ -1218,7 +1218,7 @@
     },
     {
       "name": "Medusa",
-      "town": "Dungeon",
+      "faction": "Dungeon",
       "tier": "4",
       "upgraded": "no",
       "attack-type": "ranged",
@@ -1234,7 +1234,7 @@
     },
     {
       "name": "Medusa Queen",
-      "town": "Dungeon",
+      "faction": "Dungeon",
       "tier": "4",
       "upgraded": "yes",
       "attack-type": "ranged",
@@ -1250,7 +1250,7 @@
     },
     {
       "name": "Minotaur",
-      "town": "Dungeon",
+      "faction": "Dungeon",
       "tier": "5",
       "upgraded": "no",
       "attack-type": "melee",
@@ -1266,7 +1266,7 @@
     },
     {
       "name": "Minotaur King",
-      "town": "Dungeon",
+      "faction": "Dungeon",
       "tier": "5",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -1282,7 +1282,7 @@
     },
     {
       "name": "Manticore",
-      "town": "Dungeon",
+      "faction": "Dungeon",
       "tier": "6",
       "upgraded": "no",
       "attack-type": "melee",
@@ -1298,7 +1298,7 @@
     },
     {
       "name": "Scorpicore",
-      "town": "Dungeon",
+      "faction": "Dungeon",
       "tier": "6",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -1314,7 +1314,7 @@
     },
     {
       "name": "Red Dragon",
-      "town": "Dungeon",
+      "faction": "Dungeon",
       "tier": "7",
       "upgraded": "no",
       "attack-type": "melee",
@@ -1330,7 +1330,7 @@
     },
     {
       "name": "Black Dragon",
-      "town": "Dungeon",
+      "faction": "Dungeon",
       "tier": "7",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -1346,7 +1346,7 @@
     },
     {
       "name": "Goblin",
-      "town": "Stronghold",
+      "faction": "Stronghold",
       "tier": "1",
       "upgraded": "no",
       "attack-type": "melee",
@@ -1362,7 +1362,7 @@
     },
     {
       "name": "Hobgoblin",
-      "town": "Stronghold",
+      "faction": "Stronghold",
       "tier": "1",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -1378,7 +1378,7 @@
     },
     {
       "name": "Wolf Rider",
-      "town": "Stronghold",
+      "faction": "Stronghold",
       "tier": "2",
       "upgraded": "no",
       "attack-type": "melee",
@@ -1394,7 +1394,7 @@
     },
     {
       "name": "Wolf Raider",
-      "town": "Stronghold",
+      "faction": "Stronghold",
       "tier": "2",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -1410,7 +1410,7 @@
     },
     {
       "name": "Orc",
-      "town": "Stronghold",
+      "faction": "Stronghold",
       "tier": "3",
       "upgraded": "no",
       "attack-type": "ranged",
@@ -1426,7 +1426,7 @@
     },
     {
       "name": "Orc Chieftain",
-      "town": "Stronghold",
+      "faction": "Stronghold",
       "tier": "3",
       "upgraded": "yes",
       "attack-type": "ranged",
@@ -1442,7 +1442,7 @@
     },
     {
       "name": "Ogre",
-      "town": "Stronghold",
+      "faction": "Stronghold",
       "tier": "4",
       "upgraded": "no",
       "attack-type": "melee",
@@ -1458,7 +1458,7 @@
     },
     {
       "name": "Ogre Mage",
-      "town": "Stronghold",
+      "faction": "Stronghold",
       "tier": "4",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -1474,7 +1474,7 @@
     },
     {
       "name": "Roc",
-      "town": "Stronghold",
+      "faction": "Stronghold",
       "tier": "5",
       "upgraded": "no",
       "attack-type": "melee",
@@ -1490,7 +1490,7 @@
     },
     {
       "name": "Thunderbird",
-      "town": "Stronghold",
+      "faction": "Stronghold",
       "tier": "5",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -1506,7 +1506,7 @@
     },
     {
       "name": "Cyclops",
-      "town": "Stronghold",
+      "faction": "Stronghold",
       "tier": "6",
       "upgraded": "no",
       "attack-type": "ranged",
@@ -1522,7 +1522,7 @@
     },
     {
       "name": "Cyclops King",
-      "town": "Stronghold",
+      "faction": "Stronghold",
       "tier": "6",
       "upgraded": "yes",
       "attack-type": "ranged",
@@ -1538,7 +1538,7 @@
     },
     {
       "name": "Behemoth",
-      "town": "Stronghold",
+      "faction": "Stronghold",
       "tier": "7",
       "upgraded": "no",
       "attack-type": "melee",
@@ -1554,7 +1554,7 @@
     },
     {
       "name": "Ancient Behemoth",
-      "town": "Stronghold",
+      "faction": "Stronghold",
       "tier": "7",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -1570,7 +1570,7 @@
     },
     {
       "name": "Gnoll",
-      "town": "Fortress",
+      "faction": "Fortress",
       "tier": "1",
       "upgraded": "no",
       "attack-type": "melee",
@@ -1586,7 +1586,7 @@
     },
     {
       "name": "Gnoll Marauder",
-      "town": "Fortress",
+      "faction": "Fortress",
       "tier": "1",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -1602,7 +1602,7 @@
     },
     {
       "name": "Lizardman",
-      "town": "Fortress",
+      "faction": "Fortress",
       "tier": "2",
       "upgraded": "no",
       "attack-type": "ranged",
@@ -1618,7 +1618,7 @@
     },
     {
       "name": "Lizard Warrior",
-      "town": "Fortress",
+      "faction": "Fortress",
       "tier": "2",
       "upgraded": "yes",
       "attack-type": "ranged",
@@ -1634,7 +1634,7 @@
     },
     {
       "name": "Serpent Fly",
-      "town": "Fortress",
+      "faction": "Fortress",
       "tier": "3",
       "upgraded": "no",
       "attack-type": "melee",
@@ -1650,7 +1650,7 @@
     },
     {
       "name": "Dragon Fly",
-      "town": "Fortress",
+      "faction": "Fortress",
       "tier": "3",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -1666,7 +1666,7 @@
     },
     {
       "name": "Basilisk",
-      "town": "Fortress",
+      "faction": "Fortress",
       "tier": "4",
       "upgraded": "no",
       "attack-type": "melee",
@@ -1682,7 +1682,7 @@
     },
     {
       "name": "Greater Basilisk",
-      "town": "Fortress",
+      "faction": "Fortress",
       "tier": "4",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -1698,7 +1698,7 @@
     },
     {
       "name": "Gorgon",
-      "town": "Fortress",
+      "faction": "Fortress",
       "tier": "5",
       "upgraded": "no",
       "attack-type": "melee",
@@ -1714,7 +1714,7 @@
     },
     {
       "name": "Mighty Gorgon",
-      "town": "Fortress",
+      "faction": "Fortress",
       "tier": "5",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -1730,7 +1730,7 @@
     },
     {
       "name": "Wyvern",
-      "town": "Fortress",
+      "faction": "Fortress",
       "tier": "6",
       "upgraded": "no",
       "attack-type": "melee",
@@ -1746,7 +1746,7 @@
     },
     {
       "name": "Wyvern Monarch",
-      "town": "Fortress",
+      "faction": "Fortress",
       "tier": "6",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -1762,7 +1762,7 @@
     },
     {
       "name": "Hydra",
-      "town": "Fortress",
+      "faction": "Fortress",
       "tier": "7",
       "upgraded": "no",
       "attack-type": "melee",
@@ -1778,7 +1778,7 @@
     },
     {
       "name": "Chaos Hydra",
-      "town": "Fortress",
+      "faction": "Fortress",
       "tier": "7",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -1794,7 +1794,7 @@
     },
     {
       "name": "Pixie",
-      "town": "Conflux",
+      "faction": "Conflux",
       "tier": "1",
       "upgraded": "no",
       "attack-type": "melee",
@@ -1810,7 +1810,7 @@
     },
     {
       "name": "Sprite",
-      "town": "Conflux",
+      "faction": "Conflux",
       "tier": "1",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -1826,7 +1826,7 @@
     },
     {
       "name": "Air Elemental",
-      "town": "Conflux",
+      "faction": "Conflux",
       "tier": "2",
       "upgraded": "no",
       "attack-type": "melee",
@@ -1842,7 +1842,7 @@
     },
     {
       "name": "Storm Elemental",
-      "town": "Conflux",
+      "faction": "Conflux",
       "tier": "2",
       "upgraded": "yes",
       "attack-type": "ranged",
@@ -1858,7 +1858,7 @@
     },
     {
       "name": "Water Elemental",
-      "town": "Conflux",
+      "faction": "Conflux",
       "tier": "3",
       "upgraded": "no",
       "attack-type": "melee",
@@ -1874,7 +1874,7 @@
     },
     {
       "name": "Ice Elemental",
-      "town": "Conflux",
+      "faction": "Conflux",
       "tier": "1",
       "upgraded": "yes",
       "attack-type": "ranged",
@@ -1890,7 +1890,7 @@
     },
     {
       "name": "Fire Elemental",
-      "town": "Conflux",
+      "faction": "Conflux",
       "tier": "4",
       "upgraded": "no",
       "attack-type": "melee",
@@ -1906,7 +1906,7 @@
     },
     {
       "name": "Energy Elemental",
-      "town": "Conflux",
+      "faction": "Conflux",
       "tier": "4",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -1922,7 +1922,7 @@
     },
     {
       "name": "Earth Elemental",
-      "town": "Conflux",
+      "faction": "Conflux",
       "tier": "5",
       "upgraded": "no",
       "attack-type": "melee",
@@ -1938,7 +1938,7 @@
     },
     {
       "name": "Magma Elemental",
-      "town": "Conflux",
+      "faction": "Conflux",
       "tier": "5",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -1954,7 +1954,7 @@
     },
     {
       "name": "Psychic Elemental",
-      "town": "Conflux",
+      "faction": "Conflux",
       "tier": "6",
       "upgraded": "no",
       "attack-type": "melee",
@@ -1970,7 +1970,7 @@
     },
     {
       "name": "Magic Elemental",
-      "town": "Conflux",
+      "faction": "Conflux",
       "tier": "6",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -1986,7 +1986,7 @@
     },
     {
       "name": "Firebird",
-      "town": "Conflux",
+      "faction": "Conflux",
       "tier": "7",
       "upgraded": "no",
       "attack-type": "melee",
@@ -2002,7 +2002,7 @@
     },
     {
       "name": "Phoenix",
-      "town": "Conflux",
+      "faction": "Conflux",
       "tier": "7",
       "upgraded": "yes",
       "attack-type": "melee",
@@ -2018,7 +2018,7 @@
     },
     {
       "name": "Peasant",
-      "town": "None",
+      "faction": "None",
       "tier": "1",
       "upgraded": "no",
       "attack-type": "melee",
@@ -2034,7 +2034,7 @@
     },
     {
       "name": "Halfling",
-      "town": "None",
+      "faction": "None",
       "tier": "1",
       "upgraded": "no",
       "attack-type": "ranged",
@@ -2050,7 +2050,7 @@
     },
     {
       "name": "Rogue",
-      "town": "None",
+      "faction": "None",
       "tier": "2",
       "upgraded": "no",
       "attack-type": "melee",
@@ -2066,7 +2066,7 @@
     },
     {
       "name": "Boar",
-      "town": "None",
+      "faction": "None",
       "tier": "2",
       "upgraded": "no",
       "attack-type": "melee",
@@ -2082,7 +2082,7 @@
     },
     {
       "name": "Mummy",
-      "town": "None",
+      "faction": "None",
       "tier": "3",
       "upgraded": "no",
       "attack-type": "melee",
@@ -2098,7 +2098,7 @@
     },
     {
       "name": "Nomad",
-      "town": "None",
+      "faction": "None",
       "tier": "3",
       "upgraded": "no",
       "attack-type": "melee",
@@ -2114,7 +2114,7 @@
     },
     {
       "name": "Sharpshooter",
-      "town": "None",
+      "faction": "None",
       "tier": "4",
       "upgraded": "no",
       "attack-type": "ranged",
@@ -2130,7 +2130,7 @@
     },
     {
       "name": "Troll",
-      "town": "None",
+      "faction": "None",
       "tier": "5",
       "upgraded": "no",
       "attack-type": "melee",
@@ -2146,7 +2146,7 @@
     },
     {
       "name": "Gold Golem",
-      "town": "None",
+      "faction": "None",
       "tier": "5",
       "upgraded": "no",
       "attack-type": "melee",
@@ -2162,7 +2162,7 @@
     },
     {
       "name": "Diamond Golem",
-      "town": "None",
+      "faction": "None",
       "tier": "6",
       "upgraded": "no",
       "attack-type": "melee",
@@ -2178,7 +2178,7 @@
     },
     {
       "name": "Enchanter",
-      "town": "None",
+      "faction": "None",
       "tier": "6",
       "upgraded": "no",
       "attack-type": "ranged",
@@ -2194,7 +2194,7 @@
     },
     {
       "name": "Faerie Dragon",
-      "town": "None",
+      "faction": "None",
       "tier": "7",
       "upgraded": "no",
       "attack-type": "melee",
@@ -2210,7 +2210,7 @@
     },
     {
       "name": "Rust Dragon",
-      "town": "None",
+      "faction": "None",
       "tier": "7",
       "upgraded": "no",
       "attack-type": "melee",
@@ -2226,7 +2226,7 @@
     },
     {
       "name": "Crystal Dragon",
-      "town": "None",
+      "faction": "None",
       "tier": "7",
       "upgraded": "no",
       "attack-type": "melee",
@@ -2242,7 +2242,7 @@
     },
     {
       "name": "Azure Dragon",
-      "town": "None",
+      "faction": "None",
       "tier": "7",
       "upgraded": "no",
       "attack-type": "melee",
