@@ -1,1048 +1,1157 @@
 {
   "heroes": [
     {
-      "castle": [
-        {
-          "name": "Sir Christian",
-          "race": "Human",
-          "gender": "Male",
-          "class": "Knight",
-          "trait": "Ballista - Increases the Attack and Defense skill of any Ballista for each level attained after 4th level"
-        },
-        {
-          "name": "Sir Mullich",
-          "race": "Human",
-          "gender": "Male",
-          "class": "Knight",
-          "trait": "Speed - All creatures receive +2 speed"
-        },
-        {
-          "name": "Edric",
-          "race": "Human",
-          "gender": "Male",
-          "class": "Knight",
-          "trait": "Griffins - Increases the Attack and Defense skills of any Griffins or Royal Griffins for each level attained after 3rd level"
-        },
-        {
-          "name": "Orrin",
-          "race": "Human",
-          "gender": "Male",
-          "class": "Knight",
-          "trait": "Archery - Receives a 5% per level bonus to Archery skill percentage"
-        },
-        {
-          "name": "Orrin",
-          "race": "Human",
-          "gender": "Male",
-          "class": "Knight",
-          "trait": "Archery - Receives a 5% per level bonus to Archery skill percentage"
-        },
-        {
-          "name": "Sorsha",
-          "race": "Human",
-          "gender": "Female",
-          "class": "Knight",
-          "trait": "Swordsmen - Increases the Attack and Defense skills of any Swordsmen or Crusaders for each level attained after 4th level"
-        },
-        {
-          "name": "Sylvia",
-          "race": "Human",
-          "gender": "Female",
-          "class": "Knight",
-          "trait": "Navigation - Receives a 5% per level bonus to Navigation skill percentage"
-        },
-        {
-          "name": "Tyris",
-          "race": "Human",
-          "gender": "Female",
-          "class": "Knight",
-          "trait": "Cavaliers - Increases the Attack and Defense skills of any Cavaliers or Champions for each level attained after 6th level"
-        },
-        {
-          "name": "Valeska",
-          "race": "Human",
-          "gender": "Female",
-          "class": "Knight",
-          "trait": "Archers - Increases the Attack and Defense skills of any Archers or Marksmen for each level attained after 2th level"
-        },
-        {
-          "name": "Adela",
-          "race": "Human",
-          "gender": "Female",
-          "class": "Cleric",
-          "trait": "Bless - Casts Bless with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        },
-        {
-          "name": "Adela",
-          "race": "Human",
-          "gender": "Female",
-          "class": "Cleric",
-          "trait": "Frost Ring - Casts Frost Ring with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        },
-        {
-          "name": "Caitlin",
-          "race": "Human",
-          "gender": "Female",
-          "class": "Cleric",
-          "trait": "+350 gold"
-        },
-        {
-          "name": "Cuthbert",
-          "race": "Human",
-          "gender": "Male",
-          "class": "Cleric",
-          "trait": "Weakness - Casts Weakness with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        },
-        {
-          "name": "Ingham",
-          "race": "Human",
-          "gender": "Male",
-          "class": "Cleric",
-          "trait": "Monks - Increases the Attack and Defense skills of any Monks or Zealots for each level attained after 5th level"
-        },
-        {
-          "name": "Loynis",
-          "race": "Human",
-          "gender": "Male",
-          "class": "Cleric",
-          "trait": "Prayer - Casts Prayer with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        },
-        {
-          "name": "Rion",
-          "race": "Human",
-          "gender": "Male",
-          "class": "Cleric",
-          "trait": "First Aid - Receives a 5% per level bonus to First Aid skill"
-        },
-        {
-          "name": "Sanya",
-          "race": "Human",
-          "gender": "Female",
-          "class": "Cleric",
-          "trait": "Eagle Eye - Receives a 5% per level bonus to Eagle Eye skill percentage"
-        }
-      ]
+      "name": "Sir Christian",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Knight",
+      "faction": "Castle",
+      "trait": "Ballista - Increases the Attack and Defense skill of any Ballista for each level attained after 4th level"
     },
     {
-      "rampart": [
-        {
-          "name": "Clancy",
-          "race": "Dwarf",
-          "gender": "Male",
-          "class": "Ranger",
-          "trait": "Unicorns - Increases the Attack and Defense skills of any Unicorns or War Unicorns for each level attained after 6th level"
-        },
-        {
-          "name": "Ivor",
-          "race": "Elf",
-          "gender": "Male",
-          "class": "Ranger",
-          "trait": "Elves - Increases the Attack and Defense skills of any Wood Elves or Grand Elves for each level attained after 3th level"
-        },
-        {
-          "name": "Jenova",
-          "race": "Elf",
-          "gender": "Female",
-          "class": "Ranger",
-          "trait": "+350 gold"
-        },
-        {
-          "name": "Kyrre",
-          "race": "Elf",
-          "gender": "Female",
-          "class": "Ranger",
-          "trait": "Logistics - Receives a 5% per level bonus to Logistics skill percentage"
-        },
-        {
-          "name": "Mephala",
-          "race": "Elf",
-          "gender": "Female",
-          "class": "Ranger",
-          "trait": "Armorer - Receives a 5% per level bonus to Armorer skill percentage"
-        },
-        {
-          "name": "Ryland",
-          "race": "Human",
-          "gender": "Male",
-          "class": "Ranger",
-          "trait": "Eagle Eye - Receives a 5% per level bonus to Eagle Eye skill percentage"
-        },
-        {
-          "name": "Thorgrim",
-          "race": "Dwarf",
-          "gender": "Male",
-          "class": "Ranger",
-          "trait": "Resistance - Receives a 5% per level bonus to Resistance skill percentage"
-        },
-        {
-          "name": "Ufretin",
-          "race": "Dwarf",
-          "gender": "Male",
-          "class": "Ranger",
-          "trait": "Dwarves - Increases the Attack and Defense skills of any Dwarves or Battle Dwarves for each level attained after 2nd level"
-        },
-        {
-          "name": "Aeris",
-          "race": "Elf",
-          "gender": "Male",
-          "class": "Druid",
-          "trait": "Pegasi - Increases the Attack and Defense skills of any Pegasi or Silver Pegasi for each level attained after 4th level"
-        },
-        {
-          "name": "Alagar",
-          "race": "Human",
-          "gender": "Male",
-          "class": "Druid",
-          "trait": "Ice Bolt - Casts Ice Bolt with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        },
-        {
-          "name": "Coronius",
-          "race": "Human",
-          "gender": "Male",
-          "class": "Druid",
-          "trait": "Slayer - Casts Slayer with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        },
-        {
-          "name": "Elleshar",
-          "race": "Elf",
-          "gender": "Male",
-          "class": "Druid",
-          "trait": "Intelligence - Receives a 5% per level bonus to Intelligence skill percentage"
-        },
-        {
-          "name": "Gem",
-          "race": "Human",
-          "gender": "Female",
-          "class": "Druid",
-          "trait": "First Aid - Receives a 5% per level bonus to First Aid skill"
-        },
-        {
-          "name": "Malcom",
-          "race": "Dwarf",
-          "gender": "Male",
-          "class": "Druid",
-          "trait": "Eagle Eye - Receives a 5% per level bonus to Eagle Eye skill percentage"
-        },
-        {
-          "name": "Melodia",
-          "race": "Elf",
-          "gender": "Female",
-          "class": "Druid",
-          "trait": "Fortune - Casts Fortune with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        },
-        {
-          "name": "Uland",
-          "race": "Dwarf",
-          "gender": "Male",
-          "class": "Druid",
-          "trait": "Cure - Casts Cure with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        }
-      ]
+      "name": "Sir Mullich",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Knight",
+      "faction": "Castle",
+      "trait": "Speed - All creatures receive +2 speed"
     },
     {
-      "tower": [
-        {
-          "name": "Fafner",
-          "race": "Genie",
-          "gender": "Male",
-          "class": "Alchemist",
-          "trait": "Nagas - Increases the Attack and Defense skills of any Nagas or Naga Queens for each level attained after 6th level"
-        },
-        {
-          "name": "Iona",
-          "race": "Genie",
-          "gender": "Female",
-          "class": "Alchemist",
-          "trait": "Genies - Increases the Attack and Defense skills of any Genies or Master Genies for each level attained after 5th level"
-        },
-        {
-          "name": "Josephine",
-          "race": "Human",
-          "gender": "Female",
-          "class": "Alchemist",
-          "trait": "Golems - Increases the Attack and Defense skills of any Stone or Iron Golems for each level attained after 3rd level"
-        },
-        {
-          "name": "Neela",
-          "race": "Genie",
-          "gender": "Female",
-          "class": "Alchemist",
-          "trait": "Armorer - Receives a 5% per level bonus to Armorer skill percentage"
-        },
-        {
-          "name": "Piquedram",
-          "race": "Human",
-          "gender": "Male",
-          "class": "Alchemist",
-          "trait": "Gargoyles - Increases the Attack and Defense skills of any Stone or Obsidian Gargoyles for each level attained after 2nd level"
-        },
-        {
-          "name": "Rissa",
-          "race": "Human",
-          "gender": "Female",
-          "class": "Alchemist",
-          "trait": "+1 mercury"
-        },
-        {
-          "name": "Thane",
-          "race": "Genie",
-          "gender": "Male",
-          "class": "Alchemist",
-          "trait": "Genies - Increases the Attack and Defense skills of any Genies or Master Genies for each level attained after 5th level"
-        },
-        {
-          "name": "Torosar",
-          "race": "Human",
-          "gender": "Male",
-          "class": "Alchemist",
-          "trait": "Ballista - Increases the Attack and Defense skill of any Ballista for each level attained after 4th level"
-        },
-        {
-          "name": "Aine",
-          "race": "Genie",
-          "gender": "Female",
-          "class": "Wizard",
-          "trait": "+350 gold"
-        },
-        {
-          "name": "Astral",
-          "race": "Human",
-          "gender": "Male",
-          "class": "Wizard",
-          "trait": "Hypnotize - Casts Hypnotize with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        },
-        {
-          "name": "Cyra",
-          "race": "Human",
-          "gender": "Female",
-          "class": "Wizard",
-          "trait": "Haste - Casts Haste with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        },
-        {
-          "name": "Daremyth",
-          "race": "Genie",
-          "gender": "Female",
-          "class": "Wizard",
-          "trait": "Fortune - Casts Fortune with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        },
-        {
-          "name": "Halon",
-          "race": "Genie",
-          "gender": "Male",
-          "class": "Wizard",
-          "trait": "Mysticism - Receives a 5% per level bonus to Mysticism skill percentage"
-        },
-        {
-          "name": "Serena",
-          "race": "Human",
-          "gender": "Female",
-          "class": "Wizard",
-          "trait": "Eagle Eye - Receives a 5% per level bonus to Eagle Eye skill percentage"
-        },
-        {
-          "name": "Solmyr",
-          "race": "Genie",
-          "gender": "Male",
-          "class": "Wizard",
-          "trait": "Chain Lightning - Casts Chain Lightning with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        },
-        {
-          "name": "Theodorus",
-          "race": "Human",
-          "gender": "Male",
-          "class": "Wizard",
-          "trait": "Mages - Increases the Attack and Defense skills of any Mages or Archmages for each level attained after 4th level"
-        }
-      ]
+      "name": "Edric",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Knight",
+      "faction": "Castle",
+      "trait": "Griffins - Increases the Attack and Defense skills of any Griffins or Royal Griffins for each level attained after 3rd level"
     },
     {
-      "inferno": [
-        {
-          "name": "Calh",
-          "race": "Kreegan",
-          "gender": "Male",
-          "class": "Demoniac",
-          "trait": "Gogs - Increases the Attack and Defense skills of any Gogs or Magogs for each level attained after 2nd level"
-        },
-        {
-          "name": "Fiona",
-          "race": "Human",
-          "gender": "Female",
-          "class": "Demoniac",
-          "trait": "Hell Hounds - Increases the Attack and Defense skills of any Hell Hounds or Cerberi for each level attained after 3rd level"
-        },
-        {
-          "name": "Ignatius",
-          "race": "Human",
-          "gender": "Male",
-          "class": "Demoniac",
-          "trait": "Imps - Increases the Attack and Defense skills of any Imps or Familiars for each level attained after 1st level"
-        },
-        {
-          "name": "Marius",
-          "race": "Kreegan",
-          "gender": "Female",
-          "class": "Demoniac",
-          "trait": "Demons - Increases the Attack and Defense skills of any Demons or Horned Demons for each level attained after 4th level"
-        },
-        {
-          "name": "Nymus",
-          "race": "Kreegan",
-          "gender": "Female",
-          "class": "Demoniac",
-          "trait": "Pit Fiends - Increases the Attack and Defense skills of any Pit Fiends or Lords for each level attained after 5th level"
-        },
-        {
-          "name": "Octavia",
-          "race": "Kreegan",
-          "gender": "Female",
-          "class": "Demoniac",
-          "trait": "+350 gold"
-        },
-        {
-          "name": "Pyre",
-          "race": "Human",
-          "gender": "Female",
-          "class": "Demoniac",
-          "trait": "Ballista - Increases the Attack and Defense skill of any Ballista for each level attained after 4th level"
-        },
-        {
-          "name": "Rashka",
-          "race": "Kreegan",
-          "gender": "Male",
-          "class": "Demoniac",
-          "trait": "Efreets - Increases the Attack and Defense skills of any Efreet or Efreet Sultans for each level attained after 6th level"
-        },
-        {
-          "name": "Ash",
-          "race": "Kreegan",
-          "gender": "Female",
-          "class": "Heretic",
-          "trait": "Bloodlust - Casts Bloodlust with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        },
-        {
-          "name": "Axsis",
-          "race": "Kreegan",
-          "gender": "Male",
-          "class": "Heretic",
-          "trait": "Mysticism - Receives a 5% per level bonus to Mysticism skill percentage"
-        },
-        {
-          "name": "Ayden",
-          "race": "Human",
-          "gender": "Male",
-          "class": "Heretic",
-          "trait": "Intelligence - Receives a 5% per level bonus to Intelligence skill percentage"
-        },
-        {
-          "name": "Calid",
-          "race": "Kreegan",
-          "gender": "Male",
-          "class": "Heretic",
-          "trait": "+1 sulfur"
-        },
-        {
-          "name": "Olema",
-          "race": "Human",
-          "gender": "Female",
-          "class": "Heretic",
-          "trait": "Weakness - Casts Weakness with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        },
-        {
-          "name": "Xarfax",
-          "race": "Human",
-          "gender": "Male",
-          "class": "Heretic",
-          "trait": "Fireball - Casts Fireball with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        },
-        {
-          "name": "Xyron",
-          "race": "Efreet",
-          "gender": "Male",
-          "class": "Heretic",
-          "trait": "Inferno - Casts Inferno with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        },
-        {
-          "name": "Zydar",
-          "race": "Efreet",
-          "gender": "Male",
-          "class": "Heretic",
-          "trait": "Sorcery - Receives a 5% per level bonus to Sorcery skill percentage"
-        }
-      ]
+      "name": "Orrin",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Knight",
+      "faction": "Castle",
+      "trait": "Archery - Receives a 5% per level bonus to Archery skill percentage"
     },
     {
-      "necropolis": [
-        {
-          "name": "Charna",
-          "race": "Human",
-          "gender": "Female",
-          "class": "Death Knight",
-          "trait": "Wights - Increases the Attack and Defense skills of any Wights or Wraiths for each level attained after 3rd level"
-        },
-        {
-          "name": "Clavius",
-          "race": "Undead",
-          "gender": "Male",
-          "class": "Death Knight",
-          "trait": "+350 gold"
-        },
-        {
-          "name": "Galthran",
-          "race": "Vampire",
-          "gender": "Male",
-          "class": "Death Knight",
-          "trait": "Skeletons - Increases the Attack and Defense skills of any Skeletons or Skeleton Warriors for each level attained after 1st level"
-        },
-        {
-          "name": "Isra",
-          "race": "Undead",
-          "gender": "Female",
-          "class": "Death Knight",
-          "trait": "Necromancy - Receives a 5% per level bonus to Necromancy skill percentage"
-        },
-        {
-          "name": "Moander",
-          "race": "Lich",
-          "gender": "Male",
-          "class": "Death Knight",
-          "trait": "Liches - Increases the Attack and Defense skills of any Liches or Power Liches for each level attained after 5th level"
-        },
-        {
-          "name": "Straker",
-          "race": "Undead",
-          "gender": "Male",
-          "class": "Death Knight",
-          "trait": "Walking Dead - Increases the Attack and Defense skills of any Walking Dead or Zombies for each level attained after 2nd level"
-        },
-        {
-          "name": "Tamika",
-          "race": "Vampire",
-          "gender": "Female",
-          "class": "Death Knight",
-          "trait": "Black Knights - Increases the Attack and Defense skills of any Black Knights or Dread Knights for each level attained after 6th level"
-        },
-        {
-          "name": "Vokial",
-          "race": "Vampire",
-          "gender": "Male",
-          "class": "Death Knight",
-          "trait": "Vampires - Increases the Attack and Defense skills of any Vampires or Vampire Lords for each level attained after 4th level"
-        },
-        {
-          "name": "Aislinn",
-          "race": "Undead",
-          "gender": "Male",
-          "class": "Necromancer",
-          "trait": "Meteor Shower - Casts Meteor Shower with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        },
-        {
-          "name": "Nagash",
-          "race": "Lich",
-          "gender": "Male",
-          "class": "Necromancer",
-          "trait": "+350 gold"
-        },
-        {
-          "name": "Nimbus",
-          "race": "Human",
-          "gender": "Male",
-          "class": "Necromancer",
-          "trait": "Eagle Eye - Receives a 5% per level bonus to Eagle Eye skill percentage"
-        },
-        {
-          "name": "Septienna",
-          "race": "Human",
-          "gender": "Female",
-          "class": "Necromancer",
-          "trait": "Death Ripple - Casts Death Ripple with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        },
-        {
-          "name": "Thant",
-          "race": "Vampire",
-          "gender": "Male",
-          "class": "Necromancer",
-          "trait": "Animate Dead - Casts Animate Dead with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        },
-        {
-          "name": "Vidomina",
-          "race": "Human",
-          "gender": "Female",
-          "class": "Necromancer",
-          "trait": "Necromancy - Receives a 5% per level bonus to Necromancy skill percentage"
-        },
-        {
-          "name": "Xsi",
-          "race": "Lich",
-          "gender": "Female",
-          "class": "Necromancer",
-          "trait": "Stone Skin - Casts Stone Skin with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        }
-      ]
+      "name": "Orrin",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Knight",
+      "faction": "Castle",
+      "trait": "Archery - Receives a 5% per level bonus to Archery skill percentage"
     },
     {
-      "dungeon": [
-        {
-          "name": "Ajit",
-          "race": "Human",
-          "gender": "Male",
-          "class": "Overlord",
-          "trait": "Beholders - Increases the Attack and Defense skills of any Beholders or Evil Eyes for each level attained after 2nd level"
-        },
-        {
-          "name": "Arlach",
-          "race": "Troglodyte",
-          "gender": "Male",
-          "class": "Overlord",
-          "trait": "Ballista - Increases the Attack and Defense skill of any Ballista for each level attained after 4th level"
-        },
-        {
-          "name": "Dace",
-          "race": "Minotaur",
-          "gender": "Male",
-          "class": "Overlord",
-          "trait": "Minotaurs - Increases the Attack and Defense skills of any Minotaur or Minotaur Kings for each level attained after 5th level"
-        },
-        {
-          "name": "Damacon",
-          "race": "Troglodyte",
-          "gender": "Male",
-          "class": "Overlord",
-          "trait": "+350 gold"
-        },
-        {
-          "name": "Gunnar",
-          "race": "Minotaur",
-          "gender": "Male",
-          "class": "Overlord",
-          "trait": "Logistics - Receives a 5% per level bonus to Logistics skill percentage"
-        },
-        {
-          "name": "Lorelei",
-          "race": "Human",
-          "gender": "Female",
-          "class": "Overlord",
-          "trait": "Harpies - Increases the Attack and Defense skills of any Harpies or Harpy Hags for each level attained after 2nd level"
-        },
-        {
-          "name": "Shakti",
-          "race": "Troglodyte",
-          "gender": "Male",
-          "class": "Overlord",
-          "trait": "Troglodytes - Increases the Attack and Defense skills of any Troglodytes or Infernal Troglodytes for each level attained after 1st level"
-        },
-        {
-          "name": "Synca",
-          "race": "Human",
-          "gender": "Female",
-          "class": "Overlord",
-          "trait": "Manticores - Increases the Attack and Defense skills of any Manticores or Scorpicores for each level attained after 6th level"
-        },
-        {
-          "name": "Alamar",
-          "race": "Human",
-          "gender": "Male",
-          "class": "Warlock",
-          "trait": "Resurrection - Casts Resurrection with increased effect, based on his level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        },
-        {
-          "name": "Darkstorm",
-          "race": "Minotaur",
-          "gender": "Male",
-          "class": "Warlock",
-          "trait": "Stone Skin - Casts Stone Skin with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        },
-        {
-          "name": "Deemer",
-          "race": "Minotaur",
-          "gender": "Male",
-          "class": "Warlock",
-          "trait": "Meteor Shower - Casts Meteor Shower with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        },
-        {
-          "name": "Geon",
-          "race": "Troglodyte",
-          "gender": "Male",
-          "class": "Warlock",
-          "trait": "Eagle Eye - Receives a 5% per level bonus to Eagle Eye skill percentage"
-        },
-        {
-          "name": "Jaegar",
-          "race": "Troglodyte",
-          "gender": "Male",
-          "class": "Warlock",
-          "trait": "Mysticism - Receives a 5% per level bonus to Mysticism skill percentage"
-        },
-        {
-          "name": "Jeddite",
-          "race": "Human",
-          "gender": "Male",
-          "class": "Warlock",
-          "trait": "Resurrection - Casts Resurrection with increased effect, based on his level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        },
-        {
-          "name": "Malekith",
-          "race": "Minotaur",
-          "gender": "Male",
-          "class": "Warlock",
-          "trait": "Sorcery - Receives a 5% per level bonus to Sorcery skill percentage"
-        },
-        {
-          "name": "Sephinroth",
-          "race": "Human",
-          "gender": "Female",
-          "class": "Warlock",
-          "trait": "+1 crystal"
-        }
-      ]
+      "name": "Sorsha",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Knight",
+      "faction": "Castle",
+      "trait": "Swordsmen - Increases the Attack and Defense skills of any Swordsmen or Crusaders for each level attained after 4th level"
     },
     {
-      "stronghold": [
-        {
-          "name": "Crag Hack",
-          "race": "Human",
-          "gender": "Male",
-          "class": "Barbarian",
-          "trait": "Offence - Receives a 5% per level bonus to Offense skill percentage"
-        },
-        {
-          "name": "Gretchin",
-          "race": "Goblin",
-          "gender": "Female",
-          "class": "Barbarian",
-          "trait": "Goblins - Increases the Attack and Defense skills of any Goblins or Hobgoblins for each level attained after 1st level"
-        },
-        {
-          "name": "Gurnisson",
-          "race": "Goblin",
-          "gender": "Male",
-          "class": "Barbarian",
-          "trait": "Ballista - Increases the Attack and Defense skill of any Ballista for each level attained after 4th level"
-        },
-        {
-          "name": "Jabarkas",
-          "race": "Ogre",
-          "gender": "Male",
-          "class": "Barbarian",
-          "trait": "Orcs - Increases the Attack and Defense skills of any Orcs or Orc Chieftains for each level attained after 3rd level"
-        },
-        {
-          "name": "Krellion",
-          "race": "Ogre",
-          "gender": "Male",
-          "class": "Barbarian",
-          "trait": "Ogres - Increases the Attack and Defense skills of any Ogres or Ogre Magi for each level attained after 4th level"
-        },
-        {
-          "name": "Shiva",
-          "race": "Human",
-          "gender": "Female",
-          "class": "Barbarian",
-          "trait": "Rocs - Increases the Attack and Defense skills of any Rocs or Thunderbirds for each level attained after 5th level"
-        },
-        {
-          "name": "Tyraxor",
-          "race": "Genie",
-          "gender": "Male",
-          "class": "Barbarian",
-          "trait": "Wolf Riders - Increases the Attack and Defense skills of any Wolf Riders or Raiders for each level attained after 2nd level"
-        },
-        {
-          "name": "Yog",
-          "race": "Human/Genie",
-          "gender": "Male",
-          "class": "Barbarian",
-          "trait": "Cyclopes - Increases the Attack and Defense skills of any Cyclopses or Cyclops Lords for each level attained after 6th level"
-        },
-        {
-          "name": "Dessa",
-          "race": "Goblin",
-          "gender": "Male",
-          "class": "Battle Mage",
-          "trait": "Logistics - Receives a 5% per level bonus to Logistics skill percentage"
-        },
-        {
-          "name": "Gird",
-          "race": "Human",
-          "gender": "Female",
-          "class": "Battle Mage",
-          "trait": "Sorcery - Receives a 5% per level bonus to Sorcery skill percentage"
-        },
-        {
-          "name": "Gundula",
-          "race": "Ogre",
-          "gender": "Female",
-          "class": "Battle Mage",
-          "trait": "Offence - Receives a 5% per level bonus to Offense skill percentage"
-        },
-        {
-          "name": "Oris",
-          "race": "Human",
-          "gender": "Female",
-          "class": "Battle Mage",
-          "trait": "Eagle Eye - Receives a 5% per level bonus to Eagle Eye skill percentage"
-        },
-        {
-          "name": "Saurug",
-          "race": "Ogre",
-          "gender": "Male",
-          "class": "Battle Mage",
-          "trait": "+1 gem"
-        },
-        {
-          "name": "Terek",
-          "race": "Human",
-          "gender": "Male",
-          "class": "Battle Mage",
-          "trait": "Haste - Casts Haste with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        },
-        {
-          "name": "Vey",
-          "race": "Ogre",
-          "gender": "Male",
-          "class": "Battle Mage",
-          "trait": "Ogres - Increases the Attack and Defense skills of any Ogres or Ogre Magi for each level attained after 4th level"
-        },
-        {
-          "name": "Zubin",
-          "race": "Goblin",
-          "gender": "Male",
-          "class": "Battle Mage",
-          "trait": "Precision - Casts Precision with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        }
-      ]
+      "name": "Sylvia",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Knight",
+      "faction": "Castle",
+      "trait": "Navigation - Receives a 5% per level bonus to Navigation skill percentage"
     },
     {
-      "fortress": [
-        {
-          "name": "Alkin",
-          "race": "Gnoll",
-          "gender": "Male",
-          "class": "Beastmaster",
-          "trait": "Gorgons - Increases the Attack and Defense skills of any Gorgons or Mighty Gorgons for each level attained after 5th level"
-        },
-        {
-          "name": "Broghild",
-          "race": "Lizardman",
-          "gender": "Male",
-          "class": "Beastmaster",
-          "trait": "Wyverns - Increases the Attack and Defense skills of any Wyverns or Wyvern Monarchs for each level attained after 6th level"
-        },
-        {
-          "name": "Bron",
-          "race": "Human",
-          "gender": "Male",
-          "class": "Beastmaster",
-          "trait": "Basilisks - Increases the Attack and Defense skills of any Basilisks or Greater Basilisks for each level attained after 4th level"
-        },
-        {
-          "name": "Drakon",
-          "race": "Gnoll",
-          "gender": "Male",
-          "class": "Beastmaster",
-          "trait": "Gnolls - Increases the Attack and Defense skills of any Gnolls or Gnoll Marauders for each level attained after 1st level"
-        },
-        {
-          "name": "Gerwulf",
-          "race": "Human",
-          "gender": "Male",
-          "class": "Beastmaster",
-          "trait": "Ballista - Increases the Attack and Defense skill of any Ballista for each level attained after 4th level"
-        },
-        {
-          "name": "Korbac",
-          "race": "Lizardman",
-          "gender": "Male",
-          "class": "Beastmaster",
-          "trait": "Serpent Flies - Increases the Attack and Defense skills of any Serpent or Dragon Flies for each level attained after 3rd level"
-        },
-        {
-          "name": "Tazar",
-          "race": "Human",
-          "gender": "Male",
-          "class": "Beastmaster",
-          "trait": "Armorer - Receives a 5% per level bonus to Armorer skill percentage"
-        },
-        {
-          "name": "Wystan",
-          "race": "Lizardman",
-          "gender": "Male",
-          "class": "Beastmaster",
-          "trait": "Lizardmen - Increases the Attack and Defense skills of any Lizardmen or Lizard Warriors for each level attained after 2nd level"
-        },
-        {
-          "name": "Andra",
-          "race": "Human",
-          "gender": "Female",
-          "class": "Witch",
-          "trait": "Intelligence - Receives a 5% per level bonus to Intelligence skill percentage"
-        },
-        {
-          "name": "Merist",
-          "race": "Gnoll",
-          "gender": "Female",
-          "class": "Witch",
-          "trait": "Stone Skin - Casts Stone Skin with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        },
-        {
-          "name": "Mirlanda",
-          "race": "Human",
-          "gender": "Female",
-          "class": "Witch",
-          "trait": "Weakness - Casts Weakness with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        },
-        {
-          "name": "Rosic",
-          "race": "Gnoll",
-          "gender": "Female",
-          "class": "Witch",
-          "trait": "Mysticism - Receives a 5% per level bonus to Mysticism skill percentage"
-        },
-        {
-          "name": "Styg",
-          "race": "Lizardman",
-          "gender": "Female",
-          "class": "Witch",
-          "trait": "Sorcery - Receives a 5% per level bonus to Sorcery skill percentage"
-        },
-        {
-          "name": "Tiva",
-          "race": "Gnoll",
-          "gender": "Female",
-          "class": "Witch",
-          "trait": "Eagle Eye - Receives a 5% per level bonus to Eagle Eye skill percentage"
-        },
-        {
-          "name": "Verdish",
-          "race": "Human",
-          "gender": "Female",
-          "class": "Witch",
-          "trait": "First Aid - Receives a 5% per level bonus to First Aid skill"
-        },
-        {
-          "name": "Voy",
-          "race": "Lizardman",
-          "gender": "Female",
-          "class": "Witch",
-          "trait": "Navigation - Receives a 5% per level bonus to Navigation skill percentage"
-        }
-      ]
+      "name": "Tyris",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Knight",
+      "faction": "Castle",
+      "trait": "Cavaliers - Increases the Attack and Defense skills of any Cavaliers or Champions for each level attained after 6th level"
     },
     {
-      "conflux": [
-        {
-          "name": "Erdamon",
-          "race": "Magma Elemental",
-          "gender": "Male",
-          "class": "Planeswalker",
-          "trait": "Earth Elementals - Increases the Attack and Defense skills of any Earth Elementals or Magma Elementals for each level attained after 5th level"
-        },
-        {
-          "name": "Fiur",
-          "race": "Energy Elemental",
-          "gender": "Male",
-          "class": "Planeswalker",
-          "trait": "Fire Elementals - Increases the Attack and Defense skills of any Fire Elementals or Energy Elementals for each level attained after 4th level"
-        },
-        {
-          "name": "Ignissa",
-          "race": "Fire Elemental",
-          "gender": "Female",
-          "class": "Planeswalker",
-          "trait": "Fire Elementals - Increases the Attack and Defense skills of any Fire Elementals or Energy Elementals for each level attained after 4th level"
-        },
-        {
-          "name": "Kalt",
-          "race": "Ice Elemental",
-          "gender": "Male",
-          "class": "Planeswalker",
-          "trait": "Water Elementals - Increases the Attack and Defense skills of any Water Elementals or Ice Elementals for each level attained after 3rd level"
-        },
-        {
-          "name": "Lacus",
-          "race": "Water Elemental",
-          "gender": "Female",
-          "class": "Planeswalker",
-          "trait": "Water Elementals - Increases the Attack and Defense skills of any Water Elementals or Ice Elementals for each level attained after 3rd level"
-        },
-        {
-          "name": "Monere",
-          "race": "Magic Elemental",
-          "gender": "Male",
-          "class": "Planeswalker",
-          "trait": "Psychic Elementals - Increases the Attack and Defense skills of any Psychic Elementals or Magic Elementals for each level attained after 6th level"
-        },
-        {
-          "name": "Pasis",
-          "race": "Psychic Elemental",
-          "gender": "Female",
-          "class": "Planeswalker",
-          "trait": "Psychic Elementals - Increases the Attack and Defense skills of any Psychic Elementals or Magic Elementals for each level attained after 6th level"
-        },
-        {
-          "name": "Thunar",
-          "race": "Earth Elemental",
-          "gender": "Female",
-          "class": "Planeswalker",
-          "trait": "Earth Elementals - Increases the Attack and Defense skills of any Earth Elementals or Magma Elementals for each level attained after 5th level"
-        },
-        {
-          "name": "Aenain",
-          "race": "Genie",
-          "gender": "Male",
-          "class": "Elementalist",
-          "trait": "Disrupting Ray - Casts Disrupting Ray with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        },
-        {
-          "name": "Brissa",
-          "race": "Genie",
-          "gender": "Female",
-          "class": "Elementalist",
-          "trait": "Haste - Casts Haste with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        },
-        {
-          "name": "Ciele",
-          "race": "Elf",
-          "gender": "Female",
-          "class": "Elementalist",
-          "trait": "Magic Arrow - Casts Magic Arrow with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        },
-        {
-          "name": "Gelare",
-          "race": "Elf",
-          "gender": "Male",
-          "class": "Elementalist",
-          "trait": "+350 gold"
-        },
-        {
-          "name": "Grindan",
-          "race": "Dwarf",
-          "gender": "Male",
-          "class": "Elementalist",
-          "trait": "+350 gold"
-        },
-        {
-          "name": "Inteus",
-          "race": "Human",
-          "gender": "Male",
-          "class": "Elementalist",
-          "trait": "Bloodlust - Casts Bloodlust with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        },
-        {
-          "name": "Labetha",
-          "race": "Human",
-          "gender": "Female",
-          "class": "Elementalist",
-          "trait": "Stone Skin - Casts Stone Skin with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        },
-        {
-          "name": "Luna",
-          "race": "Human",
-          "gender": "Female",
-          "class": "Elementalist",
-          "trait": "Fire Wall - Casts Fire Wall with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
-        }
-      ]
+      "name": "Valeska",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Knight",
+      "faction": "Castle",
+      "trait": "Archers - Increases the Attack and Defense skills of any Archers or Marksmen for each level attained after 2th level"
+    },
+    {
+      "name": "Adela",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Cleric",
+      "faction": "Castle",
+      "trait": "Bless - Casts Bless with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Adela",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Cleric",
+      "faction": "Castle",
+      "trait": "Frost Ring - Casts Frost Ring with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Caitlin",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Cleric",
+      "faction": "Castle",
+      "trait": "+350 gold"
+    },
+    {
+      "name": "Cuthbert",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Cleric",
+      "faction": "Castle",
+      "trait": "Weakness - Casts Weakness with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Ingham",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Cleric",
+      "faction": "Castle",
+      "trait": "Monks - Increases the Attack and Defense skills of any Monks or Zealots for each level attained after 5th level"
+    },
+    {
+      "name": "Loynis",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Cleric",
+      "faction": "Castle",
+      "trait": "Prayer - Casts Prayer with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Rion",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Cleric",
+      "faction": "Castle",
+      "trait": "First Aid - Receives a 5% per level bonus to First Aid skill"
+    },
+    {
+      "name": "Sanya",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Cleric",
+      "faction": "Castle",
+      "trait": "Eagle Eye - Receives a 5% per level bonus to Eagle Eye skill percentage"
+    },
+
+    {
+      "name": "Clancy",
+      "race": "Dwarf",
+      "gender": "Male",
+      "class": "Ranger",
+      "faction": "Rampart",
+      "trait": "Unicorns - Increases the Attack and Defense skills of any Unicorns or War Unicorns for each level attained after 6th level"
+    },
+    {
+      "name": "Ivor",
+      "race": "Elf",
+      "gender": "Male",
+      "class": "Ranger",
+      "faction": "Rampart",
+      "trait": "Elves - Increases the Attack and Defense skills of any Wood Elves or Grand Elves for each level attained after 3th level"
+    },
+    {
+      "name": "Jenova",
+      "race": "Elf",
+      "gender": "Female",
+      "class": "Ranger",
+      "faction": "Rampart",
+      "trait": "+350 gold"
+    },
+    {
+      "name": "Kyrre",
+      "race": "Elf",
+      "gender": "Female",
+      "class": "Ranger",
+      "faction": "Rampart",
+      "trait": "Logistics - Receives a 5% per level bonus to Logistics skill percentage"
+    },
+    {
+      "name": "Mephala",
+      "race": "Elf",
+      "gender": "Female",
+      "class": "Ranger",
+      "faction": "Rampart",
+      "trait": "Armorer - Receives a 5% per level bonus to Armorer skill percentage"
+    },
+    {
+      "name": "Ryland",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Ranger",
+      "faction": "Rampart",
+      "trait": "Eagle Eye - Receives a 5% per level bonus to Eagle Eye skill percentage"
+    },
+    {
+      "name": "Thorgrim",
+      "race": "Dwarf",
+      "gender": "Male",
+      "class": "Ranger",
+      "faction": "Rampart",
+      "trait": "Resistance - Receives a 5% per level bonus to Resistance skill percentage"
+    },
+    {
+      "name": "Ufretin",
+      "race": "Dwarf",
+      "gender": "Male",
+      "class": "Ranger",
+      "faction": "Rampart",
+      "trait": "Dwarves - Increases the Attack and Defense skills of any Dwarves or Battle Dwarves for each level attained after 2nd level"
+    },
+    {
+      "name": "Aeris",
+      "race": "Elf",
+      "gender": "Male",
+      "class": "Druid",
+      "faction": "Rampart",
+      "trait": "Pegasi - Increases the Attack and Defense skills of any Pegasi or Silver Pegasi for each level attained after 4th level"
+    },
+    {
+      "name": "Alagar",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Druid",
+      "faction": "Rampart",
+      "trait": "Ice Bolt - Casts Ice Bolt with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Coronius",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Druid",
+      "faction": "Rampart",
+      "trait": "Slayer - Casts Slayer with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Elleshar",
+      "race": "Elf",
+      "gender": "Male",
+      "class": "Druid",
+      "faction": "Rampart",
+      "trait": "Intelligence - Receives a 5% per level bonus to Intelligence skill percentage"
+    },
+    {
+      "name": "Gem",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Druid",
+      "faction": "Rampart",
+      "trait": "First Aid - Receives a 5% per level bonus to First Aid skill"
+    },
+    {
+      "name": "Malcom",
+      "race": "Dwarf",
+      "gender": "Male",
+      "class": "Druid",
+      "faction": "Rampart",
+      "trait": "Eagle Eye - Receives a 5% per level bonus to Eagle Eye skill percentage"
+    },
+    {
+      "name": "Melodia",
+      "race": "Elf",
+      "gender": "Female",
+      "class": "Druid",
+      "faction": "Rampart",
+      "trait": "Fortune - Casts Fortune with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Uland",
+      "race": "Dwarf",
+      "gender": "Male",
+      "class": "Druid",
+      "faction": "Rampart",
+      "trait": "Cure - Casts Cure with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Fafner",
+      "race": "Genie",
+      "gender": "Male",
+      "faction": "Tower",
+      "class": "Alchemist",
+      "trait": "Nagas - Increases the Attack and Defense skills of any Nagas or Naga Queens for each level attained after 6th level"
+    },
+    {
+      "name": "Iona",
+      "race": "Genie",
+      "gender": "Female",
+      "faction": "Tower",
+      "class": "Alchemist",
+      "trait": "Genies - Increases the Attack and Defense skills of any Genies or Master Genies for each level attained after 5th level"
+    },
+    {
+      "name": "Josephine",
+      "race": "Human",
+      "gender": "Female",
+      "faction": "Tower",
+      "class": "Alchemist",
+      "trait": "Golems - Increases the Attack and Defense skills of any Stone or Iron Golems for each level attained after 3rd level"
+    },
+    {
+      "name": "Neela",
+      "race": "Genie",
+      "gender": "Female",
+      "faction": "Tower",
+      "class": "Alchemist",
+      "trait": "Armorer - Receives a 5% per level bonus to Armorer skill percentage"
+    },
+    {
+      "name": "Piquedram",
+      "race": "Human",
+      "gender": "Male",
+      "faction": "Tower",
+      "class": "Alchemist",
+      "trait": "Gargoyles - Increases the Attack and Defense skills of any Stone or Obsidian Gargoyles for each level attained after 2nd level"
+    },
+    {
+      "name": "Rissa",
+      "race": "Human",
+      "gender": "Female",
+      "faction": "Tower",
+      "class": "Alchemist",
+      "trait": "+1 mercury"
+    },
+    {
+      "name": "Thane",
+      "race": "Genie",
+      "gender": "Male",
+      "faction": "Tower",
+      "class": "Alchemist",
+      "trait": "Genies - Increases the Attack and Defense skills of any Genies or Master Genies for each level attained after 5th level"
+    },
+    {
+      "name": "Torosar",
+      "race": "Human",
+      "gender": "Male",
+      "faction": "Tower",
+      "class": "Alchemist",
+      "trait": "Ballista - Increases the Attack and Defense skill of any Ballista for each level attained after 4th level"
+    },
+    {
+      "name": "Aine",
+      "race": "Genie",
+      "gender": "Female",
+      "faction": "Tower",
+      "class": "Wizard",
+      "trait": "+350 gold"
+    },
+    {
+      "name": "Astral",
+      "race": "Human",
+      "gender": "Male",
+      "faction": "Tower",
+      "class": "Wizard",
+      "trait": "Hypnotize - Casts Hypnotize with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Cyra",
+      "race": "Human",
+      "gender": "Female",
+      "faction": "Tower",
+      "class": "Wizard",
+      "trait": "Haste - Casts Haste with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Daremyth",
+      "race": "Genie",
+      "gender": "Female",
+      "faction": "Tower",
+      "class": "Wizard",
+      "trait": "Fortune - Casts Fortune with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Halon",
+      "race": "Genie",
+      "gender": "Male",
+      "faction": "Tower",
+      "class": "Wizard",
+      "trait": "Mysticism - Receives a 5% per level bonus to Mysticism skill percentage"
+    },
+    {
+      "name": "Serena",
+      "race": "Human",
+      "gender": "Female",
+      "faction": "Tower",
+      "class": "Wizard",
+      "trait": "Eagle Eye - Receives a 5% per level bonus to Eagle Eye skill percentage"
+    },
+    {
+      "name": "Solmyr",
+      "race": "Genie",
+      "gender": "Male",
+      "faction": "Tower",
+      "class": "Wizard",
+      "trait": "Chain Lightning - Casts Chain Lightning with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Theodorus",
+      "race": "Human",
+      "gender": "Male",
+      "faction": "Tower",
+      "class": "Wizard",
+      "trait": "Mages - Increases the Attack and Defense skills of any Mages or Archmages for each level attained after 4th level"
+    },
+    {
+      "name": "Calh",
+      "race": "Kreegan",
+      "gender": "Male",
+      "faction": "Inferno",
+      "class": "Demoniac",
+      "trait": "Gogs - Increases the Attack and Defense skills of any Gogs or Magogs for each level attained after 2nd level"
+    },
+    {
+      "name": "Fiona",
+      "race": "Human",
+      "gender": "Female",
+      "faction": "Inferno",
+      "class": "Demoniac",
+      "trait": "Hell Hounds - Increases the Attack and Defense skills of any Hell Hounds or Cerberi for each level attained after 3rd level"
+    },
+    {
+      "name": "Ignatius",
+      "race": "Human",
+      "gender": "Male",
+      "faction": "Inferno",
+      "class": "Demoniac",
+      "trait": "Imps - Increases the Attack and Defense skills of any Imps or Familiars for each level attained after 1st level"
+    },
+    {
+      "name": "Marius",
+      "race": "Kreegan",
+      "gender": "Female",
+      "faction": "Inferno",
+      "class": "Demoniac",
+      "trait": "Demons - Increases the Attack and Defense skills of any Demons or Horned Demons for each level attained after 4th level"
+    },
+    {
+      "name": "Nymus",
+      "race": "Kreegan",
+      "gender": "Female",
+      "faction": "Inferno",
+      "class": "Demoniac",
+      "trait": "Pit Fiends - Increases the Attack and Defense skills of any Pit Fiends or Lords for each level attained after 5th level"
+    },
+    {
+      "name": "Octavia",
+      "race": "Kreegan",
+      "gender": "Female",
+      "faction": "Inferno",
+      "class": "Demoniac",
+      "trait": "+350 gold"
+    },
+    {
+      "name": "Pyre",
+      "race": "Human",
+      "gender": "Female",
+      "faction": "Inferno",
+      "class": "Demoniac",
+      "trait": "Ballista - Increases the Attack and Defense skill of any Ballista for each level attained after 4th level"
+    },
+    {
+      "name": "Rashka",
+      "race": "Kreegan",
+      "gender": "Male",
+      "faction": "Inferno",
+      "class": "Demoniac",
+      "trait": "Efreets - Increases the Attack and Defense skills of any Efreet or Efreet Sultans for each level attained after 6th level"
+    },
+    {
+      "name": "Ash",
+      "race": "Kreegan",
+      "gender": "Female",
+      "faction": "Inferno",
+      "class": "Heretic",
+      "trait": "Bloodlust - Casts Bloodlust with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Axsis",
+      "race": "Kreegan",
+      "gender": "Male",
+      "faction": "Inferno",
+      "class": "Heretic",
+      "trait": "Mysticism - Receives a 5% per level bonus to Mysticism skill percentage"
+    },
+    {
+      "name": "Ayden",
+      "race": "Human",
+      "gender": "Male",
+      "faction": "Inferno",
+      "class": "Heretic",
+      "trait": "Intelligence - Receives a 5% per level bonus to Intelligence skill percentage"
+    },
+    {
+      "name": "Calid",
+      "race": "Kreegan",
+      "gender": "Male",
+      "faction": "Inferno",
+      "class": "Heretic",
+      "trait": "+1 sulfur"
+    },
+    {
+      "name": "Olema",
+      "race": "Human",
+      "gender": "Female",
+      "faction": "Inferno",
+      "class": "Heretic",
+      "trait": "Weakness - Casts Weakness with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Xarfax",
+      "race": "Human",
+      "gender": "Male",
+      "faction": "Inferno",
+      "class": "Heretic",
+      "trait": "Fireball - Casts Fireball with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Xyron",
+      "race": "Efreet",
+      "gender": "Male",
+      "faction": "Inferno",
+      "class": "Heretic",
+      "trait": "Inferno - Casts Inferno with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Zydar",
+      "race": "Efreet",
+      "gender": "Male",
+      "faction": "Inferno",
+      "class": "Heretic",
+      "trait": "Sorcery - Receives a 5% per level bonus to Sorcery skill percentage"
+    },
+    {
+      "name": "Charna",
+      "race": "Human",
+      "gender": "Female",
+      "faction": "Necropolis",
+      "class": "Death Knight",
+      "trait": "Wights - Increases the Attack and Defense skills of any Wights or Wraiths for each level attained after 3rd level"
+    },
+    {
+      "name": "Clavius",
+      "race": "Undead",
+      "gender": "Male",
+      "faction": "Necropolis",
+      "class": "Death Knight",
+      "trait": "+350 gold"
+    },
+    {
+      "name": "Galthran",
+      "race": "Vampire",
+      "gender": "Male",
+      "faction": "Necropolis",
+      "class": "Death Knight",
+      "trait": "Skeletons - Increases the Attack and Defense skills of any Skeletons or Skeleton Warriors for each level attained after 1st level"
+    },
+    {
+      "name": "Isra",
+      "race": "Undead",
+      "gender": "Female",
+      "faction": "Necropolis",
+      "class": "Death Knight",
+      "trait": "Necromancy - Receives a 5% per level bonus to Necromancy skill percentage"
+    },
+    {
+      "name": "Moander",
+      "race": "Lich",
+      "gender": "Male",
+      "faction": "Necropolis",
+      "class": "Death Knight",
+      "trait": "Liches - Increases the Attack and Defense skills of any Liches or Power Liches for each level attained after 5th level"
+    },
+    {
+      "name": "Straker",
+      "race": "Undead",
+      "gender": "Male",
+      "faction": "Necropolis",
+      "class": "Death Knight",
+      "trait": "Walking Dead - Increases the Attack and Defense skills of any Walking Dead or Zombies for each level attained after 2nd level"
+    },
+    {
+      "name": "Tamika",
+      "race": "Vampire",
+      "gender": "Female",
+      "faction": "Necropolis",
+      "class": "Death Knight",
+      "trait": "Black Knights - Increases the Attack and Defense skills of any Black Knights or Dread Knights for each level attained after 6th level"
+    },
+    {
+      "name": "Vokial",
+      "race": "Vampire",
+      "gender": "Male",
+      "faction": "Necropolis",
+      "class": "Death Knight",
+      "trait": "Vampires - Increases the Attack and Defense skills of any Vampires or Vampire Lords for each level attained after 4th level"
+    },
+    {
+      "name": "Aislinn",
+      "race": "Undead",
+      "gender": "Male",
+      "faction": "Necropolis",
+      "class": "Necromancer",
+      "trait": "Meteor Shower - Casts Meteor Shower with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Nagash",
+      "race": "Lich",
+      "gender": "Male",
+      "faction": "Necropolis",
+      "class": "Necromancer",
+      "trait": "+350 gold"
+    },
+    {
+      "name": "Nimbus",
+      "race": "Human",
+      "gender": "Male",
+      "faction": "Necropolis",
+      "class": "Necromancer",
+      "trait": "Eagle Eye - Receives a 5% per level bonus to Eagle Eye skill percentage"
+    },
+    {
+      "name": "Septienna",
+      "race": "Human",
+      "gender": "Female",
+      "faction": "Necropolis",
+      "class": "Necromancer",
+      "trait": "Death Ripple - Casts Death Ripple with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Thant",
+      "race": "Vampire",
+      "gender": "Male",
+      "faction": "Necropolis",
+      "class": "Necromancer",
+      "trait": "Animate Dead - Casts Animate Dead with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Vidomina",
+      "race": "Human",
+      "gender": "Female",
+      "faction": "Necropolis",
+      "class": "Necromancer",
+      "trait": "Necromancy - Receives a 5% per level bonus to Necromancy skill percentage"
+    },
+    {
+      "name": "Xsi",
+      "race": "Lich",
+      "gender": "Female",
+      "faction": "Necropolis",
+      "class": "Necromancer",
+      "trait": "Stone Skin - Casts Stone Skin with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Ajit",
+      "race": "Human",
+      "gender": "Male",
+      "faction": "Dungeon",
+      "class": "Overlord",
+      "trait": "Beholders - Increases the Attack and Defense skills of any Beholders or Evil Eyes for each level attained after 2nd level"
+    },
+    {
+      "name": "Arlach",
+      "race": "Troglodyte",
+      "gender": "Male",
+      "faction": "Dungeon",
+      "class": "Overlord",
+      "trait": "Ballista - Increases the Attack and Defense skill of any Ballista for each level attained after 4th level"
+    },
+    {
+      "name": "Dace",
+      "race": "Minotaur",
+      "gender": "Male",
+      "faction": "Dungeon",
+      "class": "Overlord",
+      "trait": "Minotaurs - Increases the Attack and Defense skills of any Minotaur or Minotaur Kings for each level attained after 5th level"
+    },
+    {
+      "name": "Damacon",
+      "race": "Troglodyte",
+      "gender": "Male",
+      "faction": "Dungeon",
+      "class": "Overlord",
+      "trait": "+350 gold"
+    },
+    {
+      "name": "Gunnar",
+      "race": "Minotaur",
+      "gender": "Male",
+      "faction": "Dungeon",
+      "class": "Overlord",
+      "trait": "Logistics - Receives a 5% per level bonus to Logistics skill percentage"
+    },
+    {
+      "name": "Lorelei",
+      "race": "Human",
+      "gender": "Female",
+      "faction": "Dungeon",
+      "class": "Overlord",
+      "trait": "Harpies - Increases the Attack and Defense skills of any Harpies or Harpy Hags for each level attained after 2nd level"
+    },
+    {
+      "name": "Shakti",
+      "race": "Troglodyte",
+      "gender": "Male",
+      "faction": "Dungeon",
+      "class": "Overlord",
+      "trait": "Troglodytes - Increases the Attack and Defense skills of any Troglodytes or Infernal Troglodytes for each level attained after 1st level"
+    },
+    {
+      "name": "Synca",
+      "race": "Human",
+      "gender": "Female",
+      "faction": "Dungeon",
+      "class": "Overlord",
+      "trait": "Manticores - Increases the Attack and Defense skills of any Manticores or Scorpicores for each level attained after 6th level"
+    },
+    {
+      "name": "Alamar",
+      "race": "Human",
+      "gender": "Male",
+      "faction": "Dungeon",
+      "class": "Warlock",
+      "trait": "Resurrection - Casts Resurrection with increased effect, based on his level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Darkstorm",
+      "race": "Minotaur",
+      "gender": "Male",
+      "faction": "Dungeon",
+      "class": "Warlock",
+      "trait": "Stone Skin - Casts Stone Skin with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Deemer",
+      "race": "Minotaur",
+      "gender": "Male",
+      "faction": "Dungeon",
+      "class": "Warlock",
+      "trait": "Meteor Shower - Casts Meteor Shower with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Geon",
+      "race": "Troglodyte",
+      "gender": "Male",
+      "faction": "Dungeon",
+      "class": "Warlock",
+      "trait": "Eagle Eye - Receives a 5% per level bonus to Eagle Eye skill percentage"
+    },
+    {
+      "name": "Jaegar",
+      "race": "Troglodyte",
+      "gender": "Male",
+      "faction": "Dungeon",
+      "class": "Warlock",
+      "trait": "Mysticism - Receives a 5% per level bonus to Mysticism skill percentage"
+    },
+    {
+      "name": "Jeddite",
+      "race": "Human",
+      "gender": "Male",
+      "faction": "Dungeon",
+      "class": "Warlock",
+      "trait": "Resurrection - Casts Resurrection with increased effect, based on his level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Malekith",
+      "race": "Minotaur",
+      "gender": "Male",
+      "faction": "Dungeon",
+      "class": "Warlock",
+      "trait": "Sorcery - Receives a 5% per level bonus to Sorcery skill percentage"
+    },
+    {
+      "name": "Sephinroth",
+      "race": "Human",
+      "gender": "Female",
+      "faction": "Dungeon",
+      "class": "Warlock",
+      "trait": "+1 crystal"
+    },
+    {
+      "name": "Crag Hack",
+      "race": "Human",
+      "gender": "Male",
+      "faction": "Stronghold",
+      "class": "Barbarian",
+      "trait": "Offence - Receives a 5% per level bonus to Offense skill percentage"
+    },
+    {
+      "name": "Gretchin",
+      "race": "Goblin",
+      "gender": "Female",
+      "faction": "Stronghold",
+      "class": "Barbarian",
+      "trait": "Goblins - Increases the Attack and Defense skills of any Goblins or Hobgoblins for each level attained after 1st level"
+    },
+    {
+      "name": "Gurnisson",
+      "race": "Goblin",
+      "gender": "Male",
+      "faction": "Stronghold",
+      "class": "Barbarian",
+      "trait": "Ballista - Increases the Attack and Defense skill of any Ballista for each level attained after 4th level"
+    },
+    {
+      "name": "Jabarkas",
+      "race": "Ogre",
+      "gender": "Male",
+      "faction": "Stronghold",
+      "class": "Barbarian",
+      "trait": "Orcs - Increases the Attack and Defense skills of any Orcs or Orc Chieftains for each level attained after 3rd level"
+    },
+    {
+      "name": "Krellion",
+      "race": "Ogre",
+      "gender": "Male",
+      "faction": "Stronghold",
+      "class": "Barbarian",
+      "trait": "Ogres - Increases the Attack and Defense skills of any Ogres or Ogre Magi for each level attained after 4th level"
+    },
+    {
+      "name": "Shiva",
+      "race": "Human",
+      "gender": "Female",
+      "faction": "Stronghold",
+      "class": "Barbarian",
+      "trait": "Rocs - Increases the Attack and Defense skills of any Rocs or Thunderbirds for each level attained after 5th level"
+    },
+    {
+      "name": "Tyraxor",
+      "race": "Genie",
+      "gender": "Male",
+      "faction": "Stronghold",
+      "class": "Barbarian",
+      "trait": "Wolf Riders - Increases the Attack and Defense skills of any Wolf Riders or Raiders for each level attained after 2nd level"
+    },
+    {
+      "name": "Yog",
+      "race": "Human/Genie",
+      "gender": "Male",
+      "faction": "Stronghold",
+      "class": "Barbarian",
+      "trait": "Cyclopes - Increases the Attack and Defense skills of any Cyclopses or Cyclops Lords for each level attained after 6th level"
+    },
+    {
+      "name": "Dessa",
+      "race": "Goblin",
+      "gender": "Male",
+      "faction": "Stronghold",
+      "class": "Battle Mage",
+      "trait": "Logistics - Receives a 5% per level bonus to Logistics skill percentage"
+    },
+    {
+      "name": "Gird",
+      "race": "Human",
+      "gender": "Female",
+      "faction": "Stronghold",
+      "class": "Battle Mage",
+      "trait": "Sorcery - Receives a 5% per level bonus to Sorcery skill percentage"
+    },
+    {
+      "name": "Gundula",
+      "race": "Ogre",
+      "gender": "Female",
+      "faction": "Stronghold",
+      "class": "Battle Mage",
+      "trait": "Offence - Receives a 5% per level bonus to Offense skill percentage"
+    },
+    {
+      "name": "Oris",
+      "race": "Human",
+      "gender": "Female",
+      "faction": "Stronghold",
+      "class": "Battle Mage",
+      "trait": "Eagle Eye - Receives a 5% per level bonus to Eagle Eye skill percentage"
+    },
+    {
+      "name": "Saurug",
+      "race": "Ogre",
+      "gender": "Male",
+      "faction": "Stronghold",
+      "class": "Battle Mage",
+      "trait": "+1 gem"
+    },
+    {
+      "name": "Terek",
+      "race": "Human",
+      "gender": "Male",
+      "faction": "Stronghold",
+      "class": "Battle Mage",
+      "trait": "Haste - Casts Haste with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Vey",
+      "race": "Ogre",
+      "gender": "Male",
+      "faction": "Stronghold",
+      "class": "Battle Mage",
+      "trait": "Ogres - Increases the Attack and Defense skills of any Ogres or Ogre Magi for each level attained after 4th level"
+    },
+    {
+      "name": "Zubin",
+      "race": "Goblin",
+      "gender": "Male",
+      "faction": "Stronghold",
+      "class": "Battle Mage",
+      "trait": "Precision - Casts Precision with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Alkin",
+      "race": "Gnoll",
+      "gender": "Male",
+      "faction": "Fortress",
+      "class": "Beastmaster",
+      "trait": "Gorgons - Increases the Attack and Defense skills of any Gorgons or Mighty Gorgons for each level attained after 5th level"
+    },
+    {
+      "name": "Broghild",
+      "race": "Lizardman",
+      "gender": "Male",
+      "faction": "Fortress",
+      "class": "Beastmaster",
+      "trait": "Wyverns - Increases the Attack and Defense skills of any Wyverns or Wyvern Monarchs for each level attained after 6th level"
+    },
+    {
+      "name": "Bron",
+      "race": "Human",
+      "gender": "Male",
+      "faction": "Fortress",
+      "class": "Beastmaster",
+      "trait": "Basilisks - Increases the Attack and Defense skills of any Basilisks or Greater Basilisks for each level attained after 4th level"
+    },
+    {
+      "name": "Drakon",
+      "race": "Gnoll",
+      "gender": "Male",
+      "faction": "Fortress",
+      "class": "Beastmaster",
+      "trait": "Gnolls - Increases the Attack and Defense skills of any Gnolls or Gnoll Marauders for each level attained after 1st level"
+    },
+    {
+      "name": "Gerwulf",
+      "race": "Human",
+      "gender": "Male",
+      "faction": "Fortress",
+      "class": "Beastmaster",
+      "trait": "Ballista - Increases the Attack and Defense skill of any Ballista for each level attained after 4th level"
+    },
+    {
+      "name": "Korbac",
+      "race": "Lizardman",
+      "gender": "Male",
+      "faction": "Fortress",
+      "class": "Beastmaster",
+      "trait": "Serpent Flies - Increases the Attack and Defense skills of any Serpent or Dragon Flies for each level attained after 3rd level"
+    },
+    {
+      "name": "Tazar",
+      "race": "Human",
+      "gender": "Male",
+      "faction": "Fortress",
+      "class": "Beastmaster",
+      "trait": "Armorer - Receives a 5% per level bonus to Armorer skill percentage"
+    },
+    {
+      "name": "Wystan",
+      "race": "Lizardman",
+      "gender": "Male",
+      "faction": "Fortress",
+      "class": "Beastmaster",
+      "trait": "Lizardmen - Increases the Attack and Defense skills of any Lizardmen or Lizard Warriors for each level attained after 2nd level"
+    },
+    {
+      "name": "Andra",
+      "race": "Human",
+      "gender": "Female",
+      "faction": "Fortress",
+      "class": "Witch",
+      "trait": "Intelligence - Receives a 5% per level bonus to Intelligence skill percentage"
+    },
+    {
+      "name": "Merist",
+      "race": "Gnoll",
+      "gender": "Female",
+      "faction": "Fortress",
+      "class": "Witch",
+      "trait": "Stone Skin - Casts Stone Skin with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Mirlanda",
+      "race": "Human",
+      "gender": "Female",
+      "faction": "Fortress",
+      "class": "Witch",
+      "trait": "Weakness - Casts Weakness with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Rosic",
+      "race": "Gnoll",
+      "gender": "Female",
+      "faction": "Fortress",
+      "class": "Witch",
+      "trait": "Mysticism - Receives a 5% per level bonus to Mysticism skill percentage"
+    },
+    {
+      "name": "Styg",
+      "race": "Lizardman",
+      "gender": "Female",
+      "faction": "Fortress",
+      "class": "Witch",
+      "trait": "Sorcery - Receives a 5% per level bonus to Sorcery skill percentage"
+    },
+    {
+      "name": "Tiva",
+      "race": "Gnoll",
+      "gender": "Female",
+      "faction": "Fortress",
+      "class": "Witch",
+      "trait": "Eagle Eye - Receives a 5% per level bonus to Eagle Eye skill percentage"
+    },
+    {
+      "name": "Verdish",
+      "race": "Human",
+      "gender": "Female",
+      "faction": "Fortress",
+      "class": "Witch",
+      "trait": "First Aid - Receives a 5% per level bonus to First Aid skill"
+    },
+    {
+      "name": "Voy",
+      "race": "Lizardman",
+      "gender": "Female",
+      "faction": "Fortress",
+      "class": "Witch",
+      "trait": "Navigation - Receives a 5% per level bonus to Navigation skill percentage"
+    },
+    {
+      "name": "Erdamon",
+      "race": "Magma Elemental",
+      "gender": "Male",
+      "faction": "Conflux",
+      "class": "Planeswalker",
+      "trait": "Earth Elementals - Increases the Attack and Defense skills of any Earth Elementals or Magma Elementals for each level attained after 5th level"
+    },
+    {
+      "name": "Fiur",
+      "race": "Energy Elemental",
+      "gender": "Male",
+      "faction": "Conflux",
+      "class": "Planeswalker",
+      "trait": "Fire Elementals - Increases the Attack and Defense skills of any Fire Elementals or Energy Elementals for each level attained after 4th level"
+    },
+    {
+      "name": "Ignissa",
+      "race": "Fire Elemental",
+      "gender": "Female",
+      "faction": "Conflux",
+      "class": "Planeswalker",
+      "trait": "Fire Elementals - Increases the Attack and Defense skills of any Fire Elementals or Energy Elementals for each level attained after 4th level"
+    },
+    {
+      "name": "Kalt",
+      "race": "Ice Elemental",
+      "gender": "Male",
+      "faction": "Conflux",
+      "class": "Planeswalker",
+      "trait": "Water Elementals - Increases the Attack and Defense skills of any Water Elementals or Ice Elementals for each level attained after 3rd level"
+    },
+    {
+      "name": "Lacus",
+      "race": "Water Elemental",
+      "gender": "Female",
+      "faction": "Conflux",
+      "class": "Planeswalker",
+      "trait": "Water Elementals - Increases the Attack and Defense skills of any Water Elementals or Ice Elementals for each level attained after 3rd level"
+    },
+    {
+      "name": "Monere",
+      "race": "Magic Elemental",
+      "gender": "Male",
+      "faction": "Conflux",
+      "class": "Planeswalker",
+      "trait": "Psychic Elementals - Increases the Attack and Defense skills of any Psychic Elementals or Magic Elementals for each level attained after 6th level"
+    },
+    {
+      "name": "Pasis",
+      "race": "Psychic Elemental",
+      "gender": "Female",
+      "faction": "Conflux",
+      "class": "Planeswalker",
+      "trait": "Psychic Elementals - Increases the Attack and Defense skills of any Psychic Elementals or Magic Elementals for each level attained after 6th level"
+    },
+    {
+      "name": "Thunar",
+      "race": "Earth Elemental",
+      "gender": "Female",
+      "faction": "Conflux",
+      "class": "Planeswalker",
+      "trait": "Earth Elementals - Increases the Attack and Defense skills of any Earth Elementals or Magma Elementals for each level attained after 5th level"
+    },
+    {
+      "name": "Aenain",
+      "race": "Genie",
+      "gender": "Male",
+      "faction": "Conflux",
+      "class": "Elementalist",
+      "trait": "Disrupting Ray - Casts Disrupting Ray with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Brissa",
+      "race": "Genie",
+      "gender": "Female",
+      "faction": "Conflux",
+      "class": "Elementalist",
+      "trait": "Haste - Casts Haste with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Ciele",
+      "race": "Elf",
+      "gender": "Female",
+      "faction": "Conflux",
+      "class": "Elementalist",
+      "trait": "Magic Arrow - Casts Magic Arrow with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Gelare",
+      "race": "Elf",
+      "gender": "Male",
+      "faction": "Conflux",
+      "class": "Elementalist",
+      "trait": "+350 gold"
+    },
+    {
+      "name": "Grindan",
+      "race": "Dwarf",
+      "gender": "Male",
+      "faction": "Conflux",
+      "class": "Elementalist",
+      "trait": "+350 gold"
+    },
+    {
+      "name": "Inteus",
+      "race": "Human",
+      "gender": "Male",
+      "faction": "Conflux",
+      "class": "Elementalist",
+      "trait": "Bloodlust - Casts Bloodlust with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Labetha",
+      "race": "Human",
+      "gender": "Female",
+      "faction": "Conflux",
+      "class": "Elementalist",
+      "trait": "Stone Skin - Casts Stone Skin with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Luna",
+      "race": "Human",
+      "gender": "Female",
+      "faction": "Conflux",
+      "class": "Elementalist",
+      "trait": "Fire Wall - Casts Fire Wall with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
     }
   ]
 }
