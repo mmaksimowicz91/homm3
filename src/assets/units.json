@@ -686,7 +686,7 @@
       "damage": "1-2",
       "speed": "5",
       "growth": "15",
-      "special": ""
+      "special": "None"
     },
     {
       "name": "Familiar",
