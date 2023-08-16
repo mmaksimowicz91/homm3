@@ -1,0 +1,116 @@
+{
+  "heroes": [
+    {
+      "name": "Calh",
+      "race": "Kreegan",
+      "gender": "Male",
+      "class": "Demoniac",
+      "trait": "Gogs - Increases the Attack and Defense skills of any Gogs or Magogs for each level attained after 2nd level"
+    },
+    {
+      "name": "Fiona",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Demoniac",
+      "trait": "Hell Hounds - Increases the Attack and Defense skills of any Hell Hounds or Cerberi for each level attained after 3rd level"
+    },
+    {
+      "name": "Ignatius",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Demoniac",
+      "trait": "Imps - Increases the Attack and Defense skills of any Imps or Familiars for each level attained after 1st level"
+    },
+    {
+      "name": "Marius",
+      "race": "Kreegan",
+      "gender": "Female",
+      "class": "Demoniac",
+      "trait": "Demons - Increases the Attack and Defense skills of any Demons or Horned Demons for each level attained after 4th level"
+    },
+    {
+      "name": "Nymus",
+      "race": "Kreegan",
+      "gender": "Female",
+      "class": "Demoniac",
+      "trait": "Pit Fiends - Increases the Attack and Defense skills of any Pit Fiends or Lords for each level attained after 5th level"
+    },
+    {
+      "name": "Octavia",
+      "race": "Kreegan",
+      "gender": "Female",
+      "class": "Demoniac",
+      "trait": "+350 gold"
+    },
+    {
+      "name": "Pyre",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Demoniac",
+      "trait": "Ballista - Increases the Attack and Defense skill of any Ballista for each level attained after 4th level"
+    },
+    {
+      "name": "Rashka",
+      "race": "Kreegan",
+      "gender": "Male",
+      "class": "Demoniac",
+      "trait": "Efreets - Increases the Attack and Defense skills of any Efreet or Efreet Sultans for each level attained after 6th level"
+    },
+    {
+      "name": "Ash",
+      "race": "Kreegan",
+      "gender": "Female",
+      "class": "Heretic",
+      "trait": "Bloodlust - Casts Bloodlust with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Axsis",
+      "race": "Kreegan",
+      "gender": "Male",
+      "class": "Heretic",
+      "trait": "Mysticism - Receives a 5% per level bonus to Mysticism skill percentage"
+    },
+    {
+      "name": "Ayden",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Heretic",
+      "trait": "Intelligence - Receives a 5% per level bonus to Intelligence skill percentage"
+    },
+    {
+      "name": "Calid",
+      "race": "Kreegan",
+      "gender": "Male",
+      "class": "Heretic",
+      "trait": "+1 sulfur"
+    },
+    {
+      "name": "Olema",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Heretic",
+      "trait": "Weakness - Casts Weakness with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Xarfax",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Heretic",
+      "trait": "Fireball - Casts Fireball with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Xyron",
+      "race": "Efreet",
+      "gender": "Male",
+      "class": "Heretic",
+      "trait": "Inferno - Casts Inferno with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Zydar",
+      "race": "Efreet",
+      "gender": "Male",
+      "class": "Heretic",
+      "trait": "Sorcery - Receives a 5% per level bonus to Sorcery skill percentage"
+    }
+  ]
+}

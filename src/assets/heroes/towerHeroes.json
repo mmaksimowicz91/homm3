@@ -1,0 +1,116 @@
+{
+  "heroes": [
+    {
+      "name": "Fafner",
+      "race": "Genie",
+      "gender": "Male",
+      "class": "Alchemist",
+      "trait": "Nagas - Increases the Attack and Defense skills of any Nagas or Naga Queens for each level attained after 6th level"
+    },
+    {
+      "name": "Iona",
+      "race": "Genie",
+      "gender": "Female",
+      "class": "Alchemist",
+      "trait": "Genies - Increases the Attack and Defense skills of any Genies or Master Genies for each level attained after 5th level"
+    },
+    {
+      "name": "Josephine",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Alchemist",
+      "trait": "Golems - Increases the Attack and Defense skills of any Stone or Iron Golems for each level attained after 3rd level"
+    },
+    {
+      "name": "Neela",
+      "race": "Genie",
+      "gender": "Female",
+      "class": "Alchemist",
+      "trait": "Armorer - Receives a 5% per level bonus to Armorer skill percentage"
+    },
+    {
+      "name": "Piquedram",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Alchemist",
+      "trait": "Gargoyles - Increases the Attack and Defense skills of any Stone or Obsidian Gargoyles for each level attained after 2nd level"
+    },
+    {
+      "name": "Rissa",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Alchemist",
+      "trait": "+1 mercury"
+    },
+    {
+      "name": "Thane",
+      "race": "Genie",
+      "gender": "Male",
+      "class": "Alchemist",
+      "trait": "Genies - Increases the Attack and Defense skills of any Genies or Master Genies for each level attained after 5th level"
+    },
+    {
+      "name": "Torosar",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Alchemist",
+      "trait": "Ballista - Increases the Attack and Defense skill of any Ballista for each level attained after 4th level"
+    },
+    {
+      "name": "Aine",
+      "race": "Genie",
+      "gender": "Female",
+      "class": "Wizard",
+      "trait": "+350 gold"
+    },
+    {
+      "name": "Astral",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Wizard",
+      "trait": "Hypnotize - Casts Hypnotize with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Cyra",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Wizard",
+      "trait": "Haste - Casts Haste with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Daremyth",
+      "race": "Genie",
+      "gender": "Female",
+      "class": "Wizard",
+      "trait": "Fortune - Casts Fortune with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Halon",
+      "race": "Genie",
+      "gender": "Male",
+      "class": "Wizard",
+      "trait": "Mysticism - Receives a 5% per level bonus to Mysticism skill percentage"
+    },
+    {
+      "name": "Serena",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Wizard",
+      "trait": "Eagle Eye - Receives a 5% per level bonus to Eagle Eye skill percentage"
+    },
+    {
+      "name": "Solmyr",
+      "race": "Genie",
+      "gender": "Male",
+      "class": "Wizard",
+      "trait": "Chain Lightning - Casts Chain Lightning with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Theodorus",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Wizard",
+      "trait": "Mages - Increases the Attack and Defense skills of any Mages or Archmages for each level attained after 4th level"
+    }
+  ]
+}

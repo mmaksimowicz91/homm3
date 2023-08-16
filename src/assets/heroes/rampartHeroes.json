@@ -1,0 +1,116 @@
+{
+  "heroes": [
+    {
+      "name": "Clancy",
+      "race": "Dwarf",
+      "gender": "Male",
+      "class": "Ranger",
+      "trait": "Unicorns - Increases the Attack and Defense skills of any Unicorns or War Unicorns for each level attained after 6th level"
+    },
+    {
+      "name": "Ivor",
+      "race": "Elf",
+      "gender": "Male",
+      "class": "Ranger",
+      "trait": "Elves - Increases the Attack and Defense skills of any Wood Elves or Grand Elves for each level attained after 3th level"
+    },
+    {
+      "name": "Jenova",
+      "race": "Elf",
+      "gender": "Female",
+      "class": "Ranger",
+      "trait": "+350 gold"
+    },
+    {
+      "name": "Kyrre",
+      "race": "Elf",
+      "gender": "Female",
+      "class": "Ranger",
+      "trait": "Logistics - Receives a 5% per level bonus to Logistics skill percentage"
+    },
+    {
+      "name": "Mephala",
+      "race": "Elf",
+      "gender": "Female",
+      "class": "Ranger",
+      "trait": "Armorer - Receives a 5% per level bonus to Armorer skill percentage"
+    },
+    {
+      "name": "Ryland",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Ranger",
+      "trait": "Eagle Eye - Receives a 5% per level bonus to Eagle Eye skill percentage"
+    },
+    {
+      "name": "Thorgrim",
+      "race": "Dwarf",
+      "gender": "Male",
+      "class": "Ranger",
+      "trait": "Resistance - Receives a 5% per level bonus to Resistance skill percentage"
+    },
+    {
+      "name": "Ufretin",
+      "race": "Dwarf",
+      "gender": "Male",
+      "class": "Ranger",
+      "trait": "Dwarves - Increases the Attack and Defense skills of any Dwarves or Battle Dwarves for each level attained after 2nd level"
+    },
+    {
+      "name": "Aeris",
+      "race": "Elf",
+      "gender": "Male",
+      "class": "Druid",
+      "trait": "Pegasi - Increases the Attack and Defense skills of any Pegasi or Silver Pegasi for each level attained after 4th level"
+    },
+    {
+      "name": "Alagar",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Druid",
+      "trait": "Ice Bolt - Casts Ice Bolt with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Coronius",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Druid",
+      "trait": "Slayer - Casts Slayer with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Elleshar",
+      "race": "Elf",
+      "gender": "Male",
+      "class": "Druid",
+      "trait": "Intelligence - Receives a 5% per level bonus to Intelligence skill percentage"
+    },
+    {
+      "name": "Gem",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Druid",
+      "trait": "First Aid - Receives a 5% per level bonus to First Aid skill"
+    },
+    {
+      "name": "Malcom",
+      "race": "Dwarf",
+      "gender": "Male",
+      "class": "Druid",
+      "trait": "Eagle Eye - Receives a 5% per level bonus to Eagle Eye skill percentage"
+    },
+    {
+      "name": "Melodia",
+      "race": "Elf",
+      "gender": "Female",
+      "class": "Druid",
+      "trait": "Fortune - Casts Fortune with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Uland",
+      "race": "Dwarf",
+      "gender": "Male",
+      "class": "Druid",
+      "trait": "Cure - Casts Cure with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    }
+  ]
+}

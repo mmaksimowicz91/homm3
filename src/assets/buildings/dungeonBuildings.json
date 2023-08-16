@@ -1,5 +1,5 @@
 {
-  "castle": [
+  "buildings": [
     {
       "structure": "Village Hall",
       "cost": "N/A",
@@ -49,12 +49,6 @@
       "benefits": "Increasing the morale of troops defending the city by 1; allows the player to recruit heroes for 2500 gold; when the hero surrenders or retreats, they can be recruited in the tavern; hero can visit the thieves guild, which provides information about other players."
     },
     {
-      "structure": "Brotherhood of the Sword",
-      "cost": "5 wood, 500 gold",
-      "requirements": "Tavern",
-      "benefits": "Increasing the morale of troops defending the city by 2"
-    },
-    {
       "structure": "Blacksmith",
       "cost": "5 wood, 1000 gold",
       "requirements": "none",
@@ -70,7 +64,7 @@
       "structure": "Resource Silo",
       "cost": "5 ore, 5000 gold",
       "requirements": "Marketplace",
-      "benefits": "Producing additional resources per day (1 wood, 1 ore)"
+      "benefits": "Producing additional resources per day (1 sulfur)"
     },
     {
       "structure": "Mage Guild Level 1",
@@ -103,112 +97,124 @@
       "benefits": "One level 5 spell becomes available for heroes to learn"
     },
     {
-      "structure": "Shipyard",
-      "cost": "20 wood, 2000 gold",
+      "structure": "Portal of Summoning",
+      "cost": "5 ore, 2500 gold",
       "requirements": "none",
-      "benefits": "Allows to build boats (10 wood, 1000 gold); can only be built if town is adjacent to water"
+      "benefits": "Allows you to recruit creatures from an externall flagged dwelling"
     },
     {
-      "structure": "Stables",
-      "cost": "10 wood, 2000 gold",
-      "requirements": "Barracks",
-      "benefits": "Gives visiting heroes +400 movement points per day for the rest of the week"
-    },
-    {
-      "structure": "Griffin Bastion",
+      "structure": "Mushroom Rings",
       "cost": "1000 gold",
-      "requirements": "Griffin Tower",
-      "benefits": "Increases the growth of Griffins/Royal Griffins by 3 per week"
+      "requirements": "Warren",
+      "benefits": "Increases the growth of Troglodytes/Infernal Troglodytes by 7 per week"
     },
     {
-      "structure": "Guardhouse",
-      "cost": "10 ore, 500 gold",
+      "structure": "Artifact Merchant",
+      "cost": "10000 gold",
+      "requirements": "Marketplace",
+      "benefits": "Player can buy artifacts for a nominal fee"
+    },
+    {
+      "structure": "Battle Scholar Academy",
+      "cost": "5 wood, 5 ore, 1000 gold",
+      "requirements": "none",
+      "benefits": "Gives visiting hero +1000 experience (once)"
+    },
+    {
+      "structure": "Mana Vortex",
+      "cost": "1000 gold",
+      "requirements": "Mage Guild Level 1",
+      "benefits": "Doubles mana points of visiting hero for the rest of the week"
+    },
+    {
+      "structure": "Warren",
+      "cost": "10 wood, 1000 gold",
       "requirements": "Fort",
-      "benefits": "Allows you to recruit Pikemen"
+      "benefits": "Allows you to recruit Troglodytes"
     },
     {
-      "structure": "Upg. Guardhouse",
-      "cost": "5 ore, 1000 gold",
-      "requirements": "Guardhouse",
-      "benefits": "Allows you to recruit Halberdiers"
+      "structure": "Upg. Warren",
+      "cost": "5 wood, 1000 gold",
+      "requirements": "Warren",
+      "benefits": "Allows you to recruit Infernal Troglodytes"
     },
     {
-      "structure": "Archers' Tower",
-      "cost": "5 wood, 5 ore, 1000 gold",
-      "requirements": "Guardhouse",
-      "benefits": "Allows you to recruit Archers"
+      "structure": "Harpy Loft",
+      "cost": "1000 gold",
+      "requirements": "Warren",
+      "benefits": "Allows you to recruit Herpies"
     },
     {
-      "structure": "Upg. Archers' Tower",
-      "cost": "5 wood, 5 ore, 1000 gold",
-      "requirements": "Archers' Tower",
-      "benefits": "Allows you to recruit Marksmen"
+      "structure": "Upg. Harpy Loft",
+      "cost": "2 sulfur, 2 crystal, 1000 gold",
+      "requirements": "Harpy Loft",
+      "benefits": "Allows you to recruit Harpy Hags"
     },
     {
-      "structure": "Griffin Tower",
-      "cost": "5 ore, 1000 gold",
-      "requirements": "Barracks",
-      "benefits": "Allows you to recruit Griffins"
+      "structure": "Pillar of Eyes",
+      "cost": "1 wood, 1 ore, 1 mercury, 1 sulfur, 1 crystal, 1 gem, 1000 gold",
+      "requirements": "Warren",
+      "benefits": "Allows you to recruit Beholders"
     },
     {
-      "structure": "Upg. Griffin Tower",
-      "cost": "5 ore, 1000 gold",
-      "requirements": "Griffin Tower",
-      "benefits": "Allows you to recruit Royal Griffins"
+      "structure": "Upg. Pillar of Eyes",
+      "cost": "1 wood, 1 ore, 1 mercury, 1 sulfur, 1 crystal, 1 gem, 1000 gold",
+      "requirements": "Pillar of Eyes",
+      "benefits": "Allows you to recruit Evil Eyes"
     },
     {
-      "structure": "Barracks",
-      "cost": "5 ore, 2000 gold",
-      "requirements": "Guardhouse, Blacksmith",
-      "benefits": "Allows you to recruit Swordsmen"
+      "structure": "Chapel of Stilled Voices",
+      "cost": "5 wood, 10 ore, 2000 gold",
+      "requirements": "Harpy Loft, Pillar of Eyes",
+      "benefits": "Allows you to recruit Medusae"
     },
     {
-      "structure": "Upg. Barracks",
-      "cost": "5 ore, 5 crystal, 2000 gold",
-      "requirements": "Barracks",
-      "benefits": "Allows you to recruit Crusaders"
+      "structure": "Upg. Chapel of Stilled Voices",
+      "cost": "5 wood, 1500 gold",
+      "requirements": "Chapel of Stilled Voices",
+      "benefits": "Allows you to recruit Medusa Queens"
     },
     {
-      "structure": "Monastery",
-      "cost": "5 wood, 5 ore, 2 mercury, 2 sulfur, 2 crystal, 2 gem, 3000 gold",
-      "requirements": "Mage Guild Level 1, Barracks",
-      "benefits": "Allows you to recruit Monks"
+      "structure": "Labirynth",
+      "cost": "10 wood, 10 ore, 4000 gold",
+      "requirements": "Chapel of Stilled Voices",
+      "benefits": "Allows you to recruit Minotaurs"
     },
     {
-      "structure": "Upg. Monastery",
-      "cost": "2 wood, 2 ore, 2 mercury, 2 sulfur, 2 crystal, 2 gem, 1000 gold",
-      "requirements": "Monastery",
-      "benefits": "Allows you to recruit Zealots"
+      "structure": "Upg. Labirynth",
+      "cost": "5 wood, 5 ore, 3000 gold",
+      "requirements": "Labirynth",
+      "benefits": "Allows you to recruit Minotaur Kings"
     },
     {
-      "structure": "Training Grounds",
-      "cost": "20 wood, 5000 gold",
-      "requirements": "Stables, Barracks",
-      "benefits": "Allows you to recruit Cavaliers"
+      "structure": "Manticore Lair",
+      "cost": "5 wood, 5 ore, 5 mercury, 5 sulfur, 5000 gold",
+      "requirements": "Chapel of Stilled Voices",
+      "benefits": "Allows you to recruit Manticores"
     },
     {
-      "structure": "Upg. Training Grounds",
-      "cost": "10 wood, 3000 gold",
-      "requirements": "Training Grounds",
-      "benefits": "Allows you to recruit Champions"
+      "structure": "Upg. Manticore Lair",
+      "cost": "5 wood, 5 ore, 5 mercury, 5 sulfur, 3000 gold",
+      "requirements": "Manticore Lair",
+      "benefits": "Allows you to recruit Scorpicores"
     },
     {
-      "structure": "Portal of Glory",
-      "cost": "10 mercury, 10 sulfur, 10 crystal, 10 gem, 20000 gold",
-      "requirements": "Monastery",
-      "benefits": "Allows you to recruit Angels"
+      "structure": "Dragon Cave",
+      "cost": "15 wood, 15 ore, 20 sulfur, 15000 gold",
+      "requirements": "Mage Guild Level 2, Labirynth, Manticore Lair",
+      "benefits": "Allows you to recruit Red Dragons"
     },
     {
-      "structure": "Upg. Portal of Glory",
-      "cost": "10 mercury, 10 sulfur, 10 crystal, 10 gem, 20000 gold",
-      "requirements": "Portal of Glory",
-      "benefits": "Allows you to recruit Archangels"
+      "structure": "Upg. Dragon Cave",
+      "cost": "15 wood, 15 ore, 20 sulfur, 15000 gold",
+      "requirements": "Mage Guild Level 3, Dragon Cave",
+      "benefits": "Allows you to recruit Black Dragons"
     },
     {
-      "structure": "Collosus",
+      "structure": "Guardian of Earth",
       "cost": "Grail",
       "requirements": "none",
-      "benefits": "Grail building. Gives +2 morale to all player's heroes, provides additional 5000 gold per day, increases +50% units growth"
+      "benefits": "Grail building. Gives +12 Power to any defending hero, provides additional 5000 gold per day, increases +50% units growth"
     }
   ]
 }

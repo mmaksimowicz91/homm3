@@ -1,0 +1,116 @@
+{
+  "heroes": [
+    {
+      "name": "Ajit",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Overlord",
+      "trait": "Beholders - Increases the Attack and Defense skills of any Beholders or Evil Eyes for each level attained after 2nd level"
+    },
+    {
+      "name": "Arlach",
+      "race": "Troglodyte",
+      "gender": "Male",
+      "class": "Overlord",
+      "trait": "Ballista - Increases the Attack and Defense skill of any Ballista for each level attained after 4th level"
+    },
+    {
+      "name": "Dace",
+      "race": "Minotaur",
+      "gender": "Male",
+      "class": "Overlord",
+      "trait": "Minotaurs - Increases the Attack and Defense skills of any Minotaur or Minotaur Kings for each level attained after 5th level"
+    },
+    {
+      "name": "Damacon",
+      "race": "Troglodyte",
+      "gender": "Male",
+      "class": "Overlord",
+      "trait": "+350 gold"
+    },
+    {
+      "name": "Gunnar",
+      "race": "Minotaur",
+      "gender": "Male",
+      "class": "Overlord",
+      "trait": "Logistics - Receives a 5% per level bonus to Logistics skill percentage"
+    },
+    {
+      "name": "Lorelei",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Overlord",
+      "trait": "Harpies - Increases the Attack and Defense skills of any Harpies or Harpy Hags for each level attained after 2nd level"
+    },
+    {
+      "name": "Shakti",
+      "race": "Troglodyte",
+      "gender": "Male",
+      "class": "Overlord",
+      "trait": "Troglodytes - Increases the Attack and Defense skills of any Troglodytes or Infernal Troglodytes for each level attained after 1st level"
+    },
+    {
+      "name": "Synca",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Overlord",
+      "trait": "Manticores - Increases the Attack and Defense skills of any Manticores or Scorpicores for each level attained after 6th level"
+    },
+    {
+      "name": "Alamar",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Warlock",
+      "trait": "Resurrection - Casts Resurrection with increased effect, based on his level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Darkstorm",
+      "race": "Minotaur",
+      "gender": "Male",
+      "class": "Warlock",
+      "trait": "Stone Skin - Casts Stone Skin with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Deemer",
+      "race": "Minotaur",
+      "gender": "Male",
+      "class": "Warlock",
+      "trait": "Meteor Shower - Casts Meteor Shower with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Geon",
+      "race": "Troglodyte",
+      "gender": "Male",
+      "class": "Warlock",
+      "trait": "Eagle Eye - Receives a 5% per level bonus to Eagle Eye skill percentage"
+    },
+    {
+      "name": "Jaegar",
+      "race": "Troglodyte",
+      "gender": "Male",
+      "class": "Warlock",
+      "trait": "Mysticism - Receives a 5% per level bonus to Mysticism skill percentage"
+    },
+    {
+      "name": "Jeddite",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Warlock",
+      "trait": "Resurrection - Casts Resurrection with increased effect, based on his level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Malekith",
+      "race": "Minotaur",
+      "gender": "Male",
+      "class": "Warlock",
+      "trait": "Sorcery - Receives a 5% per level bonus to Sorcery skill percentage"
+    },
+    {
+      "name": "Sephinroth",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Warlock",
+      "trait": "+1 crystal"
+    }
+  ]
+}

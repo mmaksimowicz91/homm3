@@ -1,0 +1,220 @@
+{
+  "buildings": [
+    {
+      "structure": "Village Hall",
+      "cost": "N/A",
+      "requirements": "none",
+      "benefits": "Automatically a part of all towns; provides an income of 500 gold per day"
+    },
+    {
+      "structure": "Town Hall",
+      "cost": "2500 gold",
+      "requirements": "Village Hall, Tavern",
+      "benefits": "Provides 1000 gold per day"
+    },
+    {
+      "structure": "City Hall",
+      "cost": "5000 gold",
+      "requirements": "Town Hall, Blacksmith, Mage Guild Level 1, Marketplace",
+      "benefits": "Provides 2000 gold per day"
+    },
+    {
+      "structure": "Capitol",
+      "cost": "10000 gold",
+      "requirements": "City Hall, Castle",
+      "benefits": "Provides 4000 gold per day"
+    },
+    {
+      "structure": "Fort",
+      "cost": "20 wood, 20 ore, 5000 gold",
+      "requirements": "Village Hall",
+      "benefits": "Adds walls to a town"
+    },
+    {
+      "structure": "Citadel",
+      "cost": "5 ore, 2500 gold",
+      "requirements": "Fort",
+      "benefits": "Adds moat and primary archer tower to a town. Increases production of creature dwellings by 50%"
+    },
+    {
+      "structure": "Castle",
+      "cost": "10 wood, 10 ore, 5000 gold",
+      "requirements": "Citadel",
+      "benefits": "Adds two secondary arrow towers, standard walls are strenghthened to fortified walls. Increase production of creature dwellings by 100%"
+    },
+    {
+      "structure": "Tavern",
+      "cost": "5 wood, 500 gold",
+      "requirements": "none",
+      "benefits": "Increasing the morale of troops defending the city by 1; allows the player to recruit heroes for 2500 gold; when the hero surrenders or retreats, they can be recruited in the tavern; hero can visit the thieves guild, which provides information about other players."
+    },
+    {
+      "structure": "Blacksmith",
+      "cost": "5 wood, 1000 gold",
+      "requirements": "none",
+      "benefits": "Enables hero to buy first aid tent for 750 gold"
+    },
+    {
+      "structure": "Marketplace",
+      "cost": "5 wood, 500 gold",
+      "requirements": "none",
+      "benefits": "Player can trade resources to other resources, or give resources to other players. The more marketplaces player possess, the trading rate become cheaper"
+    },
+    {
+      "structure": "Resource Silo",
+      "cost": "5 ore, 5000 gold",
+      "requirements": "Marketplace",
+      "benefits": "Producing additional resources per day (1 crystal)"
+    },
+    {
+      "structure": "Mage Guild Level 1",
+      "cost": "5 wood, 5 ore, 2000 gold",
+      "requirements": "Village Hall",
+      "benefits": "Five level 1 spells become available for heroes to learn. Heroes are able to purchase a spell book for 500 gold"
+    },
+    {
+      "structure": "Mage Guild Level 2",
+      "cost": "5 wood, 5 ore, 4 mercury, 4 sulfur, 4 crystal, 4 gem, 1000 gold",
+      "requirements": "Mage Guild Level 1",
+      "benefits": "Four level 2 spells become available for heroes to learn"
+    },
+    {
+      "structure": "Mage Guild Level 3",
+      "cost": "5 wood, 5 ore, 6 mercury, 6 sulfur, 6 crystal, 6 gem, 1000 gold",
+      "requirements": "Mage Guild Level 2",
+      "benefits": "Three level 3 spells become available for heroes to learn"
+    },
+    {
+      "structure": "Mage Guild Level 4",
+      "cost": "5 wood, 5 ore, 8 mercury, 8 sulfur, 8 crystal, 8 gem, 1000 gold",
+      "requirements": "Mage Guild Level 3",
+      "benefits": "Two level 4 spells become available for heroes to learn"
+    },
+    {
+      "structure": "Mage Guild Level 5",
+      "cost": "5 wood, 5 ore, 10 mercury, 10 sulfur, 10 crystal, 10 gem, 1000 gold",
+      "requirements": "Mage Guild Level 4",
+      "benefits": "One level 5 spell becomes available for heroes to learn"
+    },
+    {
+      "structure": "Mystic Pond",
+      "cost": "5 wood, 5 ore, 2 mercury, 2 sulfur, 2 crystal, 2 gem, 2000 gold",
+      "requirements": "none",
+      "benefits": "Produces 1-4 of a random resource except gold on the first day of every week"
+    },
+    {
+      "structure": "Fountain of Fortune",
+      "cost": "10 crystal, 1500 gold",
+      "requirements": "Mystic Pond",
+      "benefits": "Increasing the luck of troops defending the city by 2"
+    },
+    {
+      "structure": "Treasury",
+      "cost": "5 wood, 10 ore, 5000 gold",
+      "requirements": "Miners' Guild",
+      "benefits": "Increases the amount of gold you have at the beginning of each week by 10%"
+    },
+    {
+      "structure": "Dendroid Saplings",
+      "cost": "2000 gold",
+      "requirements": "Dendroid Arches",
+      "benefits": "Increases the growth of Dendroid Guards/Dendroid Soldiers by 2 per week"
+    },
+    {
+      "structure": "Miners' Guild",
+      "cost": "1000 gold",
+      "requirements": "Dwarf Cottage",
+      "benefits": "Increases the growth of Dwarves/Battle Dwarves by 4 per week"
+    },
+    {
+      "structure": "Centaur Stables",
+      "cost": "10 wood, 500 gold",
+      "requirements": "Fort",
+      "benefits": "Allows you to recruit Centaurs"
+    },
+    {
+      "structure": "Upg. Centaur Stables",
+      "cost": "5 wood, 1000 gold",
+      "requirements": "Centaur Stables",
+      "benefits": "Allows you to recruit Centaur Captains"
+    },
+    {
+      "structure": "Dwarf Cottage",
+      "cost": "5 wood, 1000 gold",
+      "requirements": "Centaur Stables",
+      "benefits": "Allows you to recruit Dwarves"
+    },
+    {
+      "structure": "Upg. Dwarf Cottage",
+      "cost": "5 wood, 1500 gold",
+      "requirements": "Dwarf Cottage",
+      "benefits": "Allows you to recruit Battle Dwarves"
+    },
+    {
+      "structure": "Homestead",
+      "cost": "10 wood, 1500 gold",
+      "requirements": "Centaur Stables",
+      "benefits": "Allows you to recruit Wood Elves"
+    },
+    {
+      "structure": "Upg. Homestead",
+      "cost": "10 wood, 1000 gold",
+      "requirements": "Homestead",
+      "benefits": "Allows you to recruit Grand Elves"
+    },
+    {
+      "structure": "Enchanted Spring",
+      "cost": "10 crystal, 2000 gold",
+      "requirements": "Homestead",
+      "benefits": "Allows you to recruit Pegasi"
+    },
+    {
+      "structure": "Upg. Enchanted Spring",
+      "cost": "5 crystal, 2000 gold",
+      "requirements": "Enchanted Spring",
+      "benefits": "Allows you to recruit Silver Pegasi"
+    },
+    {
+      "structure": "Dendroid Arches",
+      "cost": "2500 gold",
+      "requirements": "Homestead",
+      "benefits": "Allows you to recruit Dendroid Guards"
+    },
+    {
+      "structure": "Upg. Dendroid Arches",
+      "cost": "1500 gold",
+      "requirements": "Dendroid Arches",
+      "benefits": "Allows you to recruit Dendroid Soldiers"
+    },
+    {
+      "structure": "Unicorn Glade",
+      "cost": "5 wood, 5 ore, 10 gem, 4000 gold",
+      "requirements": "Enchanted Spring, Dendroid Arches",
+      "benefits": "Allows you to recruit Unicorns"
+    },
+    {
+      "structure": "Upg. Unicorn Glade",
+      "cost": "5 gem, 3000 gold",
+      "requirements": "Unicorn Glade",
+      "benefits": "Allows you to recruit War Unicorns"
+    },
+    {
+      "structure": "Dragon Cliffs",
+      "cost": "30 ore, 20 crystal, 10000 gold",
+      "requirements": "Mage Guild Level 2, Unicorn Glade",
+      "benefits": "Allows you to recruit Green Dragons"
+    },
+    {
+      "structure": "Upg. Dragon Cliffs",
+      "cost": "30 ore, 20 crystal, 20000 gold",
+      "requirements": "Mage Guild Level 3, Dragon Cliffs",
+      "benefits": "Allows you to recruit Gold Dragons"
+    },
+    {
+      "structure": "Spirit Guardian",
+      "cost": "Grail",
+      "requirements": "none",
+      "benefits": "Grail building. Gives +2 luck to all player's heroes, provides additional 5000 gold per day, increases +50% units growth"
+    }
+  ]
+}

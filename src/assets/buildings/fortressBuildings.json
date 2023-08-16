@@ -1,0 +1,208 @@
+{
+  "buildings": [
+    {
+      "structure": "Village Hall",
+      "cost": "N/A",
+      "requirements": "none",
+      "benefits": "Automatically a part of all towns; provides an income of 500 gold per day"
+    },
+    {
+      "structure": "Town Hall",
+      "cost": "2500 gold",
+      "requirements": "Village Hall, Tavern",
+      "benefits": "Provides 1000 gold per day"
+    },
+    {
+      "structure": "City Hall",
+      "cost": "5000 gold",
+      "requirements": "Town Hall, Blacksmith, Mage Guild Level 1, Marketplace",
+      "benefits": "Provides 2000 gold per day"
+    },
+    {
+      "structure": "Capitol",
+      "cost": "10000 gold",
+      "requirements": "City Hall, Castle",
+      "benefits": "Provides 4000 gold per day"
+    },
+    {
+      "structure": "Fort",
+      "cost": "20 wood, 20 ore, 5000 gold",
+      "requirements": "Village Hall",
+      "benefits": "Adds walls to a town"
+    },
+    {
+      "structure": "Citadel",
+      "cost": "5 ore, 2500 gold",
+      "requirements": "Fort",
+      "benefits": "Adds moat and primary archer tower to a town. Increases production of creature dwellings by 50%"
+    },
+    {
+      "structure": "Castle",
+      "cost": "10 wood, 10 ore, 5000 gold",
+      "requirements": "Citadel",
+      "benefits": "Adds two secondary arrow towers, standard walls are strenghthened to fortified walls. Increase production of creature dwellings by 100%"
+    },
+    {
+      "structure": "Tavern",
+      "cost": "5 wood, 500 gold",
+      "requirements": "none",
+      "benefits": "Increasing the morale of troops defending the city by 1; allows the player to recruit heroes for 2500 gold; when the hero surrenders or retreats, they can be recruited in the tavern; hero can visit the thieves guild, which provides information about other players."
+    },
+    {
+      "structure": "Blacksmith",
+      "cost": "5 wood, 1000 gold",
+      "requirements": "none",
+      "benefits": "Enables hero to buy first aid tent for 750 gold"
+    },
+    {
+      "structure": "Marketplace",
+      "cost": "5 wood, 500 gold",
+      "requirements": "none",
+      "benefits": "Player can trade resources to other resources, or give resources to other players. The more marketplaces player possess, the trading rate become cheaper"
+    },
+    {
+      "structure": "Resource Silo",
+      "cost": "5 ore, 5000 gold",
+      "requirements": "Marketplace",
+      "benefits": "Producing additional resources per day (1 wood, 1 ore)"
+    },
+    {
+      "structure": "Mage Guild Level 1",
+      "cost": "5 wood, 5 ore, 2000 gold",
+      "requirements": "Village Hall",
+      "benefits": "Five level 1 spells become available for heroes to learn. Heroes are able to purchase a spell book for 500 gold"
+    },
+    {
+      "structure": "Mage Guild Level 2",
+      "cost": "5 wood, 5 ore, 4 mercury, 4 sulfur, 4 crystal, 4 gem, 1000 gold",
+      "requirements": "Mage Guild Level 1",
+      "benefits": "Four level 2 spells become available for heroes to learn"
+    },
+    {
+      "structure": "Mage Guild Level 3",
+      "cost": "5 wood, 5 ore, 6 mercury, 6 sulfur, 6 crystal, 6 gem, 1000 gold",
+      "requirements": "Mage Guild Level 2",
+      "benefits": "Three level 3 spells become available for heroes to learn"
+    },
+    {
+      "structure": "Captain's Quarters",
+      "cost": "1000 gold",
+      "requirements": "Gnoll Hut",
+      "benefits": "Increases the growth of Gnolls/Gnoll Marauders by 6 per week"
+    },
+    {
+      "structure": "Glyphs of Fear",
+      "cost": "1000 gold",
+      "requirements": "Fort",
+      "benefits": "Increases garisson hero's defense skill by 2 when defending against the siege"
+    },
+    {
+      "structure": "Blood Obelisk",
+      "cost": "1000 gold",
+      "requirements": "Glyphs of Fear",
+      "benefits": "Increases garisson hero's attack skill by 2 when defending against the siege"
+    },
+    {
+      "structure": "Shipyard",
+      "cost": "20 wood, 2000 gold",
+      "requirements": "none",
+      "benefits": "Allows to build boats (10 wood, 1000 gold); can only be built if town is adjacent to water"
+    },
+    {
+      "structure": "Cage of Warlords",
+      "cost": "1000 gold",
+      "requirements": "Town Hall, Glyphs of Fear",
+      "benefits": "Gives visiting hero +1 Defense (once)"
+    },
+    {
+      "structure": "Gnoll Hut",
+      "cost": "10 wood, 400 gold",
+      "requirements": "Fort",
+      "benefits": "Allows you to recruit Gnolls"
+    },
+    {
+      "structure": "Upg. Gnoll Hut",
+      "cost": "5 wood, 1000 gold",
+      "requirements": "Tavern, Gnoll Hut",
+      "benefits": "Allows you to recruit Gnoll Marauders"
+    },
+    {
+      "structure": "Lizard Den",
+      "cost": "5 wood, 1000 gold",
+      "requirements": "Gnoll Hut",
+      "benefits": "Allows you to recruit Lizardmen"
+    },
+    {
+      "structure": "Upg. Lizard Den",
+      "cost": "5 wood, 1000 gold",
+      "requirements": "Lizard Den",
+      "benefits": "Allows you to recruit Lizard Warriors"
+    },
+    {
+      "structure": "Serpent Fly Hive",
+      "cost": "5 wood, 2 mercury, 2 sulfur, 1000 gold",
+      "requirements": "Gnoll Hut",
+      "benefits": "Allows you to recruit Serpent Flies"
+    },
+    {
+      "structure": "Upg. Serpent Fly Hive",
+      "cost": "2 mercury, 2 sulfur, 1000 gold",
+      "requirements": "Serpent Fly Hive",
+      "benefits": "Allows you to recruit Dragon Flies"
+    },
+    {
+      "structure": "Basilisk Pit",
+      "cost": "5 wood, 10 ore, 2000 gold",
+      "requirements": "Serpent Fly Hive",
+      "benefits": "Allows you to recruit Basilisks"
+    },
+    {
+      "structure": "Upg. Basilisk Pit",
+      "cost": "5 wood, 5 ore, 2000 gold",
+      "requirements": "Basilisk Pit",
+      "benefits": "Allows you to recruit Greater Basilisks"
+    },
+    {
+      "structure": "Gorgon Lair",
+      "cost": "10 wood, 10 ore, 5 mercury, 5 sulfur, 2500 gold",
+      "requirements": "Lizard Den, Serpent Fly Hive",
+      "benefits": "Allows you to recruit Gorgons"
+    },
+    {
+      "structure": "Upg. Gorgon Lair",
+      "cost": "5 wood, 5 ore, 2000 gold",
+      "requirements": "Resource Silo, Gorgon Lair",
+      "benefits": "Allows you to recruit Mighty Gorgons"
+    },
+    {
+      "structure": "Wyvern Nest",
+      "cost": "15 wood, 3500 gold",
+      "requirements": "Lizard Den",
+      "benefits": "Allows you to recruit Wyverns"
+    },
+    {
+      "structure": "Upg. Wyvern Nest",
+      "cost": "10 wood, 10 mercury, 3000 gold",
+      "requirements": "Wyvern Nest",
+      "benefits": "Allows you to recruit Wyvern Monarchs"
+    },
+    {
+      "structure": "Hydra Pond",
+      "cost": "10 wood, 10 ore, 10 sulfur, 10000 gold",
+      "requirements": "Basilisk Pit, Wyvern Nest",
+      "benefits": "Allows you to recruit Hydras"
+    },
+    {
+      "structure": "Upg. Hydra Pond",
+      "cost": "10 wood, 10 ore, 20 sulfur, 15000 gold",
+      "requirements": "Hydra Pond",
+      "benefits": "Allows you to recruit Chaos Hydras"
+    },
+    {
+      "structure": "Carnivorous Plant",
+      "cost": "Grail",
+      "requirements": "none",
+      "benefits": "Grail building. Gives +10 Defense to any defending hero, provides additional 5000 gold per day, increases +50% units growth"
+    }
+  ]
+}

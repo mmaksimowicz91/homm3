@@ -1,0 +1,116 @@
+{
+  "heroes": [
+    {
+      "name": "Sir Christian",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Knight",
+      "trait": "Ballista - Increases the Attack and Defense skill of any Ballista for each level attained after 4th level"
+    },
+    {
+      "name": "Edric",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Knight",
+      "trait": "Griffins - Increases the Attack and Defense skills of any Griffins or Royal Griffins for each level attained after 3rd level"
+    },
+    {
+      "name": "Orrin",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Knight",
+      "trait": "Archery - Receives a 5% per level bonus to Archery skill percentage"
+    },
+    {
+      "name": "Lord Haart",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Knight",
+      "trait": "Estates - Receives a 5% per level bonus to Estates skill percentage"
+    },
+    {
+      "name": "Sorsha",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Knight",
+      "trait": "Swordsmen - Increases the Attack and Defense skills of any Swordsmen or Crusaders for each level attained after 4th level"
+    },
+    {
+      "name": "Sylvia",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Knight",
+      "trait": "Navigation - Receives a 5% per level bonus to Navigation skill percentage"
+    },
+    {
+      "name": "Tyris",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Knight",
+      "trait": "Cavaliers - Increases the Attack and Defense skills of any Cavaliers or Champions for each level attained after 6th level"
+    },
+    {
+      "name": "Valeska",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Knight",
+      "trait": "Archers - Increases the Attack and Defense skills of any Archers or Marksmen for each level attained after 2th level"
+    },
+    {
+      "name": "Adela",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Cleric",
+      "trait": "Bless - Casts Bless with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Adelaide",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Cleric",
+      "trait": "Frost Ring - Casts Frost Ring with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Caitlin",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Cleric",
+      "trait": "+350 gold"
+    },
+    {
+      "name": "Cuthbert",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Cleric",
+      "trait": "Weakness - Casts Weakness with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Ingham",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Cleric",
+      "trait": "Monks - Increases the Attack and Defense skills of any Monks or Zealots for each level attained after 5th level"
+    },
+    {
+      "name": "Loynis",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Cleric",
+      "trait": "Prayer - Casts Prayer with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Rion",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Cleric",
+      "trait": "First Aid - Receives a 5% per level bonus to First Aid skill"
+    },
+    {
+      "name": "Sanya",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Cleric",
+      "trait": "Eagle Eye - Receives a 5% per level bonus to Eagle Eye skill percentage"
+    }
+  ]
+}

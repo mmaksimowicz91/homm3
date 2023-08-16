@@ -1,0 +1,116 @@
+{
+  "heroes": [
+    {
+      "name": "Alkin",
+      "race": "Gnoll",
+      "gender": "Male",
+      "class": "Beastmaster",
+      "trait": "Gorgons - Increases the Attack and Defense skills of any Gorgons or Mighty Gorgons for each level attained after 5th level"
+    },
+    {
+      "name": "Broghild",
+      "race": "Lizardman",
+      "gender": "Male",
+      "class": "Beastmaster",
+      "trait": "Wyverns - Increases the Attack and Defense skills of any Wyverns or Wyvern Monarchs for each level attained after 6th level"
+    },
+    {
+      "name": "Bron",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Beastmaster",
+      "trait": "Basilisks - Increases the Attack and Defense skills of any Basilisks or Greater Basilisks for each level attained after 4th level"
+    },
+    {
+      "name": "Drakon",
+      "race": "Gnoll",
+      "gender": "Male",
+      "class": "Beastmaster",
+      "trait": "Gnolls - Increases the Attack and Defense skills of any Gnolls or Gnoll Marauders for each level attained after 1st level"
+    },
+    {
+      "name": "Gerwulf",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Beastmaster",
+      "trait": "Ballista - Increases the Attack and Defense skill of any Ballista for each level attained after 4th level"
+    },
+    {
+      "name": "Korbac",
+      "race": "Lizardman",
+      "gender": "Male",
+      "class": "Beastmaster",
+      "trait": "Serpent Flies - Increases the Attack and Defense skills of any Serpent or Dragon Flies for each level attained after 3rd level"
+    },
+    {
+      "name": "Tazar",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Beastmaster",
+      "trait": "Armorer - Receives a 5% per level bonus to Armorer skill percentage"
+    },
+    {
+      "name": "Wystan",
+      "race": "Lizardman",
+      "gender": "Male",
+      "class": "Beastmaster",
+      "trait": "Lizardmen - Increases the Attack and Defense skills of any Lizardmen or Lizard Warriors for each level attained after 2nd level"
+    },
+    {
+      "name": "Andra",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Witch",
+      "trait": "Intelligence - Receives a 5% per level bonus to Intelligence skill percentage"
+    },
+    {
+      "name": "Merist",
+      "race": "Gnoll",
+      "gender": "Female",
+      "class": "Witch",
+      "trait": "Stone Skin - Casts Stone Skin with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Mirlanda",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Witch",
+      "trait": "Weakness - Casts Weakness with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Rosic",
+      "race": "Gnoll",
+      "gender": "Female",
+      "class": "Witch",
+      "trait": "Mysticism - Receives a 5% per level bonus to Mysticism skill percentage"
+    },
+    {
+      "name": "Styg",
+      "race": "Lizardman",
+      "gender": "Female",
+      "class": "Witch",
+      "trait": "Sorcery - Receives a 5% per level bonus to Sorcery skill percentage"
+    },
+    {
+      "name": "Tiva",
+      "race": "Gnoll",
+      "gender": "Female",
+      "class": "Witch",
+      "trait": "Eagle Eye - Receives a 5% per level bonus to Eagle Eye skill percentage"
+    },
+    {
+      "name": "Verdish",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Witch",
+      "trait": "First Aid - Receives a 5% per level bonus to First Aid skill"
+    },
+    {
+      "name": "Voy",
+      "race": "Lizardman",
+      "gender": "Female",
+      "class": "Witch",
+      "trait": "Navigation - Receives a 5% per level bonus to Navigation skill percentage"
+    }
+  ]
+}

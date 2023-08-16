@@ -1,0 +1,116 @@
+{
+  "heroes": [
+    {
+      "name": "Erdamon",
+      "race": "Magma Elemental",
+      "gender": "Male",
+      "class": "Planeswalker",
+      "trait": "Earth Elementals - Increases the Attack and Defense skills of any Earth Elementals or Magma Elementals for each level attained after 5th level"
+    },
+    {
+      "name": "Fiur",
+      "race": "Energy Elemental",
+      "gender": "Male",
+      "class": "Planeswalker",
+      "trait": "Fire Elementals - Increases the Attack and Defense skills of any Fire Elementals or Energy Elementals for each level attained after 4th level"
+    },
+    {
+      "name": "Ignissa",
+      "race": "Fire Elemental",
+      "gender": "Female",
+      "class": "Planeswalker",
+      "trait": "Fire Elementals - Increases the Attack and Defense skills of any Fire Elementals or Energy Elementals for each level attained after 4th level"
+    },
+    {
+      "name": "Kalt",
+      "race": "Ice Elemental",
+      "gender": "Male",
+      "class": "Planeswalker",
+      "trait": "Water Elementals - Increases the Attack and Defense skills of any Water Elementals or Ice Elementals for each level attained after 3rd level"
+    },
+    {
+      "name": "Lacus",
+      "race": "Water Elemental",
+      "gender": "Female",
+      "class": "Planeswalker",
+      "trait": "Water Elementals - Increases the Attack and Defense skills of any Water Elementals or Ice Elementals for each level attained after 3rd level"
+    },
+    {
+      "name": "Monere",
+      "race": "Magic Elemental",
+      "gender": "Male",
+      "class": "Planeswalker",
+      "trait": "Psychic Elementals - Increases the Attack and Defense skills of any Psychic Elementals or Magic Elementals for each level attained after 6th level"
+    },
+    {
+      "name": "Pasis",
+      "race": "Psychic Elemental",
+      "gender": "Female",
+      "class": "Planeswalker",
+      "trait": "Psychic Elementals - Increases the Attack and Defense skills of any Psychic Elementals or Magic Elementals for each level attained after 6th level"
+    },
+    {
+      "name": "Thunar",
+      "race": "Earth Elemental",
+      "gender": "Female",
+      "class": "Planeswalker",
+      "trait": "Earth Elementals - Increases the Attack and Defense skills of any Earth Elementals or Magma Elementals for each level attained after 5th level"
+    },
+    {
+      "name": "Aenain",
+      "race": "Genie",
+      "gender": "Male",
+      "class": "Elementalist",
+      "trait": "Disrupting Ray - Casts Disrupting Ray with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Brissa",
+      "race": "Genie",
+      "gender": "Female",
+      "class": "Elementalist",
+      "trait": "Haste - Casts Haste with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Ciele",
+      "race": "Elf",
+      "gender": "Female",
+      "class": "Elementalist",
+      "trait": "Magic Arrow - Casts Magic Arrow with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Gelare",
+      "race": "Elf",
+      "gender": "Male",
+      "class": "Elementalist",
+      "trait": "+350 gold"
+    },
+    {
+      "name": "Grindan",
+      "race": "Dwarf",
+      "gender": "Male",
+      "class": "Elementalist",
+      "trait": "+350 gold"
+    },
+    {
+      "name": "Inteus",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Elementalist",
+      "trait": "Bloodlust - Casts Bloodlust with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Labetha",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Elementalist",
+      "trait": "Stone Skin - Casts Stone Skin with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Luna",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Elementalist",
+      "trait": "Fire Wall - Casts Fire Wall with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    }
+  ]
+}

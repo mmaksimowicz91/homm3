@@ -1,0 +1,109 @@
+{
+  "heroes": [
+    {
+      "name": "Charna",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Death Knight",
+      "trait": "Wights - Increases the Attack and Defense skills of any Wights or Wraiths for each level attained after 3rd level"
+    },
+    {
+      "name": "Clavius",
+      "race": "Undead",
+      "gender": "Male",
+      "class": "Death Knight",
+      "trait": "+350 gold"
+    },
+    {
+      "name": "Galthran",
+      "race": "Vampire",
+      "gender": "Male",
+      "class": "Death Knight",
+      "trait": "Skeletons - Increases the Attack and Defense skills of any Skeletons or Skeleton Warriors for each level attained after 1st level"
+    },
+    {
+      "name": "Isra",
+      "race": "Undead",
+      "gender": "Female",
+      "class": "Death Knight",
+      "trait": "Necromancy - Receives a 5% per level bonus to Necromancy skill percentage"
+    },
+    {
+      "name": "Moander",
+      "race": "Lich",
+      "gender": "Male",
+      "class": "Death Knight",
+      "trait": "Liches - Increases the Attack and Defense skills of any Liches or Power Liches for each level attained after 5th level"
+    },
+    {
+      "name": "Straker",
+      "race": "Undead",
+      "gender": "Male",
+      "class": "Death Knight",
+      "trait": "Walking Dead - Increases the Attack and Defense skills of any Walking Dead or Zombies for each level attained after 2nd level"
+    },
+    {
+      "name": "Tamika",
+      "race": "Vampire",
+      "gender": "Female",
+      "class": "Death Knight",
+      "trait": "Black Knights - Increases the Attack and Defense skills of any Black Knights or Dread Knights for each level attained after 6th level"
+    },
+    {
+      "name": "Vokial",
+      "race": "Vampire",
+      "gender": "Male",
+      "class": "Death Knight",
+      "trait": "Vampires - Increases the Attack and Defense skills of any Vampires or Vampire Lords for each level attained after 4th level"
+    },
+    {
+      "name": "Aislinn",
+      "race": "Undead",
+      "gender": "Male",
+      "class": "Necromancer",
+      "trait": "Meteor Shower - Casts Meteor Shower with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Nagash",
+      "race": "Lich",
+      "gender": "Male",
+      "class": "Necromancer",
+      "trait": "+350 gold"
+    },
+    {
+      "name": "Nimbus",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Necromancer",
+      "trait": "Eagle Eye - Receives a 5% per level bonus to Eagle Eye skill percentage"
+    },
+    {
+      "name": "Septienna",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Necromancer",
+      "trait": "Death Ripple - Casts Death Ripple with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Thant",
+      "race": "Vampire",
+      "gender": "Male",
+      "class": "Necromancer",
+      "trait": "Animate Dead - Casts Animate Dead with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Vidomina",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Necromancer",
+      "trait": "Necromancy - Receives a 5% per level bonus to Necromancy skill percentage"
+    },
+    {
+      "name": "Xsi",
+      "race": "Lich",
+      "gender": "Female",
+      "class": "Necromancer",
+      "trait": "Stone Skin - Casts Stone Skin with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    }
+  ]
+}

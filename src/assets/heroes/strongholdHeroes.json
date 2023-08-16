@@ -1,0 +1,116 @@
+{
+  "heroes": [
+    {
+      "name": "Crag Hack",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Barbarian",
+      "trait": "Offence - Receives a 5% per level bonus to Offense skill percentage"
+    },
+    {
+      "name": "Gretchin",
+      "race": "Goblin",
+      "gender": "Female",
+      "class": "Barbarian",
+      "trait": "Goblins - Increases the Attack and Defense skills of any Goblins or Hobgoblins for each level attained after 1st level"
+    },
+    {
+      "name": "Gurnisson",
+      "race": "Goblin",
+      "gender": "Male",
+      "class": "Barbarian",
+      "trait": "Ballista - Increases the Attack and Defense skill of any Ballista for each level attained after 4th level"
+    },
+    {
+      "name": "Jabarkas",
+      "race": "Ogre",
+      "gender": "Male",
+      "class": "Barbarian",
+      "trait": "Orcs - Increases the Attack and Defense skills of any Orcs or Orc Chieftains for each level attained after 3rd level"
+    },
+    {
+      "name": "Krellion",
+      "race": "Ogre",
+      "gender": "Male",
+      "class": "Barbarian",
+      "trait": "Ogres - Increases the Attack and Defense skills of any Ogres or Ogre Magi for each level attained after 4th level"
+    },
+    {
+      "name": "Shiva",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Barbarian",
+      "trait": "Rocs - Increases the Attack and Defense skills of any Rocs or Thunderbirds for each level attained after 5th level"
+    },
+    {
+      "name": "Tyraxor",
+      "race": "Genie",
+      "gender": "Male",
+      "class": "Barbarian",
+      "trait": "Wolf Riders - Increases the Attack and Defense skills of any Wolf Riders or Raiders for each level attained after 2nd level"
+    },
+    {
+      "name": "Yog",
+      "race": "Human/Genie",
+      "gender": "Male",
+      "class": "Barbarian",
+      "trait": "Cyclopes - Increases the Attack and Defense skills of any Cyclopses or Cyclops Lords for each level attained after 6th level"
+    },
+    {
+      "name": "Dessa",
+      "race": "Goblin",
+      "gender": "Male",
+      "class": "Battle Mage",
+      "trait": "Logistics - Receives a 5% per level bonus to Logistics skill percentage"
+    },
+    {
+      "name": "Gird",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Battle Mage",
+      "trait": "Sorcery - Receives a 5% per level bonus to Sorcery skill percentage"
+    },
+    {
+      "name": "Gundula",
+      "race": "Ogre",
+      "gender": "Female",
+      "class": "Battle Mage",
+      "trait": "Offence - Receives a 5% per level bonus to Offense skill percentage"
+    },
+    {
+      "name": "Oris",
+      "race": "Human",
+      "gender": "Female",
+      "class": "Battle Mage",
+      "trait": "Eagle Eye - Receives a 5% per level bonus to Eagle Eye skill percentage"
+    },
+    {
+      "name": "Saurug",
+      "race": "Ogre",
+      "gender": "Male",
+      "class": "Battle Mage",
+      "trait": "+1 gem"
+    },
+    {
+      "name": "Terek",
+      "race": "Human",
+      "gender": "Male",
+      "class": "Battle Mage",
+      "trait": "Haste - Casts Haste with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    },
+    {
+      "name": "Vey",
+      "race": "Ogre",
+      "gender": "Male",
+      "class": "Battle Mage",
+      "trait": "Ogres - Increases the Attack and Defense skills of any Ogres or Ogre Magi for each level attained after 4th level"
+    },
+    {
+      "name": "Zubin",
+      "race": "Goblin",
+      "gender": "Male",
+      "class": "Battle Mage",
+      "trait": "Precision - Casts Precision with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
+    }
+  ]
+}

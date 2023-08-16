@@ -1,0 +1,208 @@
+{
+  "buildings": [
+    {
+      "structure": "Village Hall",
+      "cost": "N/A",
+      "requirements": "none",
+      "benefits": "Automatically a part of all towns; provides an income of 500 gold per day"
+    },
+    {
+      "structure": "Town Hall",
+      "cost": "2500 gold",
+      "requirements": "Village Hall, Tavern",
+      "benefits": "Provides 1000 gold per day"
+    },
+    {
+      "structure": "City Hall",
+      "cost": "5000 gold",
+      "requirements": "Town Hall, Blacksmith, Mage Guild Level 1, Marketplace",
+      "benefits": "Provides 2000 gold per day"
+    },
+    {
+      "structure": "Capitol",
+      "cost": "10000 gold",
+      "requirements": "City Hall, Castle",
+      "benefits": "Provides 4000 gold per day"
+    },
+    {
+      "structure": "Fort",
+      "cost": "20 wood, 20 ore, 5000 gold",
+      "requirements": "Village Hall",
+      "benefits": "Adds walls to a town"
+    },
+    {
+      "structure": "Citadel",
+      "cost": "5 ore, 2500 gold",
+      "requirements": "Fort",
+      "benefits": "Adds moat and primary archer tower to a town. Increases production of creature dwellings by 50%"
+    },
+    {
+      "structure": "Castle",
+      "cost": "10 wood, 10 ore, 5000 gold",
+      "requirements": "Citadel",
+      "benefits": "Adds two secondary arrow towers, standard walls are strenghthened to fortified walls. Increase production of creature dwellings by 100%"
+    },
+    {
+      "structure": "Tavern",
+      "cost": "5 wood, 500 gold",
+      "requirements": "none",
+      "benefits": "Increasing the morale of troops defending the city by 1; allows the player to recruit heroes for 2500 gold; when the hero surrenders or retreats, they can be recruited in the tavern; hero can visit the thieves guild, which provides information about other players."
+    },
+    {
+      "structure": "Blacksmith",
+      "cost": "5 wood, 1000 gold",
+      "requirements": "none",
+      "benefits": "Enables hero to buy ammo cart for 1000 gold"
+    },
+    {
+      "structure": "Marketplace",
+      "cost": "5 wood, 500 gold",
+      "requirements": "none",
+      "benefits": "Player can trade resources to other resources, or give resources to other players. The more marketplaces player possess, the trading rate become cheaper"
+    },
+    {
+      "structure": "Resource Silo",
+      "cost": "5 ore, 5000 gold",
+      "requirements": "Marketplace",
+      "benefits": "Producing additional resources per day (1 wood, 1 ore)"
+    },
+    {
+      "structure": "Mage Guild Level 1",
+      "cost": "5 wood, 5 ore, 2000 gold",
+      "requirements": "Village Hall",
+      "benefits": "Five level 1 spells become available for heroes to learn. Heroes are able to purchase a spell book for 500 gold"
+    },
+    {
+      "structure": "Mage Guild Level 2",
+      "cost": "5 wood, 5 ore, 4 mercury, 4 sulfur, 4 crystal, 4 gem, 1000 gold",
+      "requirements": "Mage Guild Level 1",
+      "benefits": "Four level 2 spells become available for heroes to learn"
+    },
+    {
+      "structure": "Mage Guild Level 3",
+      "cost": "5 wood, 5 ore, 6 mercury, 6 sulfur, 6 crystal, 6 gem, 1000 gold",
+      "requirements": "Mage Guild Level 2",
+      "benefits": "Three level 3 spells become available for heroes to learn"
+    },
+    {
+      "structure": "Mess Hall",
+      "cost": "1000 gold",
+      "requirements": "Goblin Barracks",
+      "benefits": "Increases the growth of Goblins/Hobgoblins by 8 per week"
+    },
+    {
+      "structure": "Freelancer's Guild",
+      "cost": "1000 gold",
+      "requirements": "Marketplace",
+      "benefits": "Allows you to trade creatures for resources"
+    },
+    {
+      "structure": "Ballista Yard",
+      "cost": "5 wood, 5 ore, 2000 gold",
+      "requirements": "Blacksmith",
+      "benefits": "Enables hero to buy ballista for 2500 gold"
+    },
+    {
+      "structure": "Escape Tunnel",
+      "cost": "5 wood, 5 ore, 2000 gold",
+      "requirements": "Fort",
+      "benefits": "Allows a garrison hero to flee from defending against the siege"
+    },
+    {
+      "structure": "Hall of Valhalla",
+      "cost": "1000 gold",
+      "requirements": "Fort",
+      "benefits": "Gives visiting hero +1 Attack (once)"
+    },
+    {
+      "structure": "Goblin Barracks",
+      "cost": "5 wood, 5 ore, 200 gold",
+      "requirements": "Fort",
+      "benefits": "Allows you to recruit Goblins"
+    },
+    {
+      "structure": "Upg. Goblin Barracks",
+      "cost": "10 wood, 5 ore, 1000 gold",
+      "requirements": "Goblin Barracks",
+      "benefits": "Allows you to recruit Hobgoblins"
+    },
+    {
+      "structure": "Wolf Pen",
+      "cost": "10 wood, 5 ore, 1000 gold",
+      "requirements": "Goblin Barracks",
+      "benefits": "Allows you to recruit Wolf Riders"
+    },
+    {
+      "structure": "Upg. Wolf Pen",
+      "cost": "5 wood, 5 ore, 1000 gold",
+      "requirements": "Upg. Goblin Barracks, Wolf Pen",
+      "benefits": "Allows you to recruit Wolf Raiders"
+    },
+    {
+      "structure": "Orc Tower",
+      "cost": "5 wood, 5 ore, 1000 gold",
+      "requirements": "Goblin Barracks",
+      "benefits": "Allows you to recruit Orcs"
+    },
+    {
+      "structure": "Upg. Orc Tower",
+      "cost": "2 wood, 2 ore, 1000 gold",
+      "requirements": "Blacksmith, Orc Tower",
+      "benefits": "Allows you to recruit Orc Chieftains"
+    },
+    {
+      "structure": "Ogre Fort",
+      "cost": "20 wood, 2000 gold",
+      "requirements": "Orc Tower",
+      "benefits": "Allows you to recruit Ogres"
+    },
+    {
+      "structure": "Upg. Ogre Fort",
+      "cost": "5 wood, 5 ore, 5 gem, 2000 gold",
+      "requirements": "Mage Guild Level 1, Ogre Fort",
+      "benefits": "Allows you to recruit Ogre Magi"
+    },
+    {
+      "structure": "Cliff Nest",
+      "cost": "10 ore, 2500 gold",
+      "requirements": "Orc Tower",
+      "benefits": "Allows you to recruit Rocs"
+    },
+    {
+      "structure": "Upg. Cliff Nest",
+      "cost": "5 wood, 5 ore, 2000 gold",
+      "requirements": "Cliff Nest",
+      "benefits": "Allows you to recruit Thunderbirds"
+    },
+    {
+      "structure": "Cyclops Cave",
+      "cost": "20 ore, 20 crystal, 3500 gold",
+      "requirements": "Ogre Fort",
+      "benefits": "Allows you to recruit Cyclopes"
+    },
+    {
+      "structure": "Upg. Cyclops Cave",
+      "cost": "5 wood, 5 ore, 3000 gold",
+      "requirements": "Cyclops Cave",
+      "benefits": "Allows you to recruit Cyclop Kings"
+    },
+    {
+      "structure": "Behemoth Lair",
+      "cost": "10 wood, 10 ore, 10 crystal, 10000 gold",
+      "requirements": "Cliff Nest",
+      "benefits": "Allows you to recruit Behemoths"
+    },
+    {
+      "structure": "Upg. Behemoth Lair",
+      "cost": "10 wood, 10 ore, 20 crystal, 15000 gold",
+      "requirements": "Behemoth Lair",
+      "benefits": "Allows you to recruit Ancient Behemoths"
+    },
+    {
+      "structure": "Warlord's Monument",
+      "cost": "Grail",
+      "requirements": "none",
+      "benefits": "Grail building. Gives +20 Attack to any defending hero, provides additional 5000 gold per day, increases +50% units growth"
+    }
+  ]
+}
