@@ -11,8 +11,8 @@ import { RampartComponent } from './modules/factions/rampart/rampart.component';
 import { StrongholdComponent } from './modules/factions/stronghold/stronghold.component';
 import { TowerComponent } from './modules/factions/tower/tower.component';
 import { CastleBuildingsComponent } from './modules/factions/castle/buildings/castlebuildings.component';
-import { UnitsComponent } from './modules/factions/castle/units/units.component';
-import { HeroesComponent } from './modules/factions/castle/heroes/heroes.component';
+import { CastleUnitsComponent } from './modules/factions/castle/units/castleunits.component';
+import { CastleHeroesComponent } from './modules/factions/castle/heroes/castleheroes.component';
 import { FactionsComponent } from './modules/factions/factions.component';
 
 @NgModule({
@@ -23,8 +23,8 @@ import { FactionsComponent } from './modules/factions/factions.component';
     StrongholdComponent,
     TowerComponent,
     CastleBuildingsComponent,
-    UnitsComponent,
-    HeroesComponent,
+    CastleUnitsComponent,
+    CastleHeroesComponent,
     FactionsComponent,
   ],
   imports: [

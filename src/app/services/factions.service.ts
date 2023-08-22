@@ -9,13 +9,13 @@ import { Units } from '../models/units.model';
   providedIn: 'root',
 })
 export class FactionsService {
-  castleUrl = 'assets/castleBuildings.json';
+  castleBuildingsUrl = 'assets/buildings/castleBuildings.json';
   heroesUrl = 'assets/heroes.json';
   unitsUrl = 'assets/units.json';
   constructor(private http: HttpClient) {}
 
   getCastleBuildings(): Observable<Buildings[]> {
-    return this.http.get<Buildings[]>(`${this.castleUrl}`);
+    return this.http.get<Buildings[]>(`${this.castleBuildingsUrl}`);
   }
 
   getHeroes(): Observable<Heroes[]> {

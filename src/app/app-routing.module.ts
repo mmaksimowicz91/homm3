@@ -4,6 +4,8 @@ import { HomeComponent } from './modules/home/home.component';
 import { FactionsComponent } from './modules/factions/factions.component';
 import { CastleComponent } from './modules/factions/castle/castle.component';
 import { CastleBuildingsComponent } from './modules/factions/castle/buildings/castlebuildings.component';
+import { CastleHeroesComponent } from './modules/factions/castle/heroes/castleheroes.component';
+import { CastleUnitsComponent } from './modules/factions/castle/units/castleunits.component';
 
 const routes: Routes = [
   {
@@ -26,6 +28,14 @@ const routes: Routes = [
   {
     path: 'castlebuildings',
     component: CastleBuildingsComponent,
+  },
+  {
+    path: 'castleheroes',
+    component: CastleHeroesComponent,
+  },
+  {
+    path: 'castleunits',
+    component: CastleUnitsComponent,
   },
 ];
 
