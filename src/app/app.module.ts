@@ -15,6 +15,8 @@ import { CastleUnitsComponent } from './modules/factions/castle/units/castleunit
 import { CastleHeroesComponent } from './modules/factions/castle/heroes/castleheroes.component';
 import { FactionsComponent } from './modules/factions/factions.component';
 
+import { MatTableModule } from '@angular/material/table';
+
 @NgModule({
   declarations: [
     AppComponent,
@@ -34,6 +36,7 @@ import { FactionsComponent } from './modules/factions/factions.component';
     HttpClientModule,
     FormsModule,
     ReactiveFormsModule,
+    MatTableModule,
   ],
   providers: [],
   bootstrap: [AppComponent],
