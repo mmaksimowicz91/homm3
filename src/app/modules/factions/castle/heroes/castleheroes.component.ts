@@ -4,7 +4,7 @@ import { CastleService } from 'src/app/services/castle.service';
 import { Heroes } from '../../../../models/heroes.model';
 
 @Component({
-  selector: 'app-heroes',
+  selector: 'app-castleheroes',
   templateUrl: './castleheroes.component.html',
   styleUrls: ['./castleheroes.component.scss'],
 })

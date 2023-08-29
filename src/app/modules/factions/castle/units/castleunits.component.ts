@@ -4,7 +4,7 @@ import { CastleService } from '../../../../services/castle.service';
 import { Units } from '../../../../models/units.model';
 
 @Component({
-  selector: 'app-units',
+  selector: 'app-castleunits',
   templateUrl: './castleunits.component.html',
   styleUrls: ['./castleunits.component.scss'],
 })

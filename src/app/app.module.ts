@@ -19,6 +19,24 @@ import { MatTableModule } from '@angular/material/table';
 import { RampartHeroesComponent } from './modules/factions/rampart/heroes/rampartheroes.component';
 import { RampartBuildingsComponent } from './modules/factions/rampart/buildings/rampartbuildings.component';
 import { RampartUnitsComponent } from './modules/factions/rampart/units/rampartunits.component';
+import { TowerUnitsComponent } from './modules/factions/tower/units/towerunits.component';
+import { TowerBuildingsComponent } from './modules/factions/tower/buildings/towerbuildings.component';
+import { TowerHeroesComponent } from './modules/factions/tower/heroes/towerheroes.component';
+import { InfernoUnitsComponent } from './modules/factions/inferno/units/infernounits.component';
+import { InfernoBuildingsComponent } from './modules/factions/inferno/buildings/infernobuildings.component';
+import { InfernoHeroesComponent } from './modules/factions/inferno/heroes/infernoheroes.component';
+import { NecropolisUnitsComponent } from './modules/factions/necropolis/units/necropolisunits.component';
+import { NecropolisHeroesComponent } from './modules/factions/necropolis/heroes/necropolisheroes.component';
+import { NecropolisBuildingsComponent } from './modules/factions/necropolis/buildings/necropolisbuildings.component';
+import { DungeonBuildingsComponent } from './modules/factions/dungeon/buildings/dungeonbuildings.component';
+import { DungeonUnitsComponent } from './modules/factions/dungeon/units/dungeonunits.component';
+import { DungeonHeroesComponent } from './modules/factions/dungeon/heroes/dungeonheroes.component';
+import { StrongholdUnitsComponent } from './modules/factions/stronghold/units/strongholdunits.component';
+import { StrongholdHeroesComponent } from './modules/factions/stronghold/heroes/strongholdheroes.component';
+import { StrongholdBuildingsComponent } from './modules/factions/stronghold/buildings/strongholdbuildings.component';
+import { ConfluxBuildingsComponent } from './modules/factions/conflux/buildings/confluxbuildings.component';
+import { ConfluxUnitsComponent } from './modules/factions/conflux/units/confluxunits.component';
+import { ConfluxHeroesComponent } from './modules/factions/conflux/heroes/confluxheroes.component';
 
 @NgModule({
   declarations: [
@@ -34,6 +52,24 @@ import { RampartUnitsComponent } from './modules/factions/rampart/units/rampartu
     RampartHeroesComponent,
     RampartBuildingsComponent,
     RampartUnitsComponent,
+    TowerUnitsComponent,
+    TowerBuildingsComponent,
+    TowerHeroesComponent,
+    InfernoUnitsComponent,
+    InfernoBuildingsComponent,
+    InfernoHeroesComponent,
+    NecropolisUnitsComponent,
+    NecropolisHeroesComponent,
+    NecropolisBuildingsComponent,
+    DungeonBuildingsComponent,
+    DungeonUnitsComponent,
+    DungeonHeroesComponent,
+    StrongholdUnitsComponent,
+    StrongholdHeroesComponent,
+    StrongholdBuildingsComponent,
+    ConfluxBuildingsComponent,
+    ConfluxUnitsComponent,
+    ConfluxHeroesComponent,
   ],
   imports: [
     BrowserModule,
