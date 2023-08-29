@@ -8,21 +8,21 @@ import { Units } from '../models/units.model';
 @Injectable({
   providedIn: 'root',
 })
-export class FactionsService {
+export class CastleService {
   castleBuildingsUrl = 'assets/buildings/castleBuildings.json';
-  heroesUrl = 'assets/heroes.json';
-  unitsUrl = 'assets/units.json';
+  castleHeroesUrl = 'assets/heroes/castleHeroes.json';
+  castleUnitsUrl = 'assets/units/castleUnits.json';
   constructor(private http: HttpClient) {}
 
   getCastleBuildings(): Observable<Buildings[]> {
     return this.http.get<Buildings[]>(`${this.castleBuildingsUrl}`);
   }
 
-  getHeroes(): Observable<Heroes[]> {
-    return this.http.get<Heroes[]>(`${this.heroesUrl}`);
+  getCastleHeroes(): Observable<Heroes[]> {
+    return this.http.get<Heroes[]>(`${this.castleHeroesUrl}`);
   }
 
-  getUnits(): Observable<Units[]> {
-    return this.http.get<Units[]>(`${this.unitsUrl}`);
+  getCastleUnits(): Observable<Units[]> {
+    return this.http.get<Units[]>(`${this.castleUnitsUrl}`);
   }
 }

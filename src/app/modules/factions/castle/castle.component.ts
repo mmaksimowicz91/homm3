@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { FactionsService } from '../../../services/factions.service';
+import { CastleService } from '../../../services/castle.service';
 
 @Component({
   selector: 'app-castle',
@@ -7,8 +7,6 @@ import { FactionsService } from '../../../services/factions.service';
   styleUrls: ['./castle.component.scss'],
 })
 export class CastleComponent implements OnInit {
-  constructor(private factionsService: FactionsService) {}
-  ngOnInit() {
-    this.factionsService.getCastleBuildings();
-  }
+  constructor() {}
+  ngOnInit() {}
 }

@@ -1,14 +1,14 @@
 import { Component, OnInit } from '@angular/core';
 import { MatTableDataSource } from '@angular/material/table';
-import { CastleService } from '../../../../services/castle.service';
 import { Buildings } from '../../../../models/buildings.model';
+import { RampartService } from 'src/app/services/rampart.service';
 
 @Component({
-  selector: 'app-castlebuildings',
-  templateUrl: './castlebuildings.component.html',
-  styleUrls: ['./castlebuildings.component.scss'],
+  selector: 'app-rampartbuildings',
+  templateUrl: './rampartbuildings.component.html',
+  styleUrls: ['./rampartbuildings.component.scss'],
 })
-export class CastleBuildingsComponent implements OnInit {
+export class RampartBuildingsComponent implements OnInit {
   buildings: Buildings[] = [];
   dataSource!: MatTableDataSource<Buildings>;
   displayedColumns: string[] = [
@@ -17,14 +17,14 @@ export class CastleBuildingsComponent implements OnInit {
     'requirements',
     'benefits',
   ];
-  constructor(private castleService: CastleService) {}
+  constructor(private rampartService: RampartService) {}
 
   ngOnInit(): void {
-    this.getCastleBuildings();
+    this.getRampartBuildings();
   }
 
-  getCastleBuildings() {
-    this.castleService.getCastleBuildings().subscribe((response: any) => {
+  getRampartBuildings() {
+    this.rampartService.getRampartBuildings().subscribe((response: any) => {
       this.dataSource = new MatTableDataSource<Buildings>(response.buildings);
     });
   }

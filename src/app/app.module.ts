@@ -16,6 +16,9 @@ import { CastleHeroesComponent } from './modules/factions/castle/heroes/castlehe
 import { FactionsComponent } from './modules/factions/factions.component';
 
 import { MatTableModule } from '@angular/material/table';
+import { RampartHeroesComponent } from './modules/factions/rampart/heroes/rampartheroes.component';
+import { RampartBuildingsComponent } from './modules/factions/rampart/buildings/rampartbuildings.component';
+import { RampartUnitsComponent } from './modules/factions/rampart/units/rampartunits.component';
 
 @NgModule({
   declarations: [
@@ -28,6 +31,9 @@ import { MatTableModule } from '@angular/material/table';
     CastleUnitsComponent,
     CastleHeroesComponent,
     FactionsComponent,
+    RampartHeroesComponent,
+    RampartBuildingsComponent,
+    RampartUnitsComponent,
   ],
   imports: [
     BrowserModule,

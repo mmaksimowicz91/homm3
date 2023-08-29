@@ -11,7 +11,6 @@ enum Upgraded {
 }
 export interface Units {
   name: string;
-  faction: Faction;
   tier: number;
   upgraded: Upgraded;
   type: AttackType;
