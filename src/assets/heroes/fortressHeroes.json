@@ -1,6 +1,7 @@
 {
   "heroes": [
     {
+      "image": "/assets/graphics/heroes/HeroAlkinIII.webp",
       "name": "Alkin",
       "race": "Gnoll",
       "gender": "Male",
@@ -8,6 +9,7 @@
       "trait": "Gorgons - Increases the Attack and Defense skills of any Gorgons or Mighty Gorgons for each level attained after 5th level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroBroghildIII.webp",
       "name": "Broghild",
       "race": "Lizardman",
       "gender": "Male",
@@ -15,6 +17,7 @@
       "trait": "Wyverns - Increases the Attack and Defense skills of any Wyverns or Wyvern Monarchs for each level attained after 6th level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroBronIII.webp",
       "name": "Bron",
       "race": "Human",
       "gender": "Male",
@@ -22,6 +25,7 @@
       "trait": "Basilisks - Increases the Attack and Defense skills of any Basilisks or Greater Basilisks for each level attained after 4th level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroDrakonIII.webp",
       "name": "Drakon",
       "race": "Gnoll",
       "gender": "Male",
@@ -29,6 +33,7 @@
       "trait": "Gnolls - Increases the Attack and Defense skills of any Gnolls or Gnoll Marauders for each level attained after 1st level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroGerwulfIII.webp",
       "name": "Gerwulf",
       "race": "Human",
       "gender": "Male",
@@ -36,6 +41,7 @@
       "trait": "Ballista - Increases the Attack and Defense skill of any Ballista for each level attained after 4th level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroKorbacIII.webp",
       "name": "Korbac",
       "race": "Lizardman",
       "gender": "Male",
@@ -43,6 +49,7 @@
       "trait": "Serpent Flies - Increases the Attack and Defense skills of any Serpent or Dragon Flies for each level attained after 3rd level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroTazarIII.webp",
       "name": "Tazar",
       "race": "Human",
       "gender": "Male",
@@ -50,6 +57,7 @@
       "trait": "Armorer - Receives a 5% per level bonus to Armorer skill percentage"
     },
     {
+      "image": "/assets/graphics/heroes/HeroWystanIII.webp",
       "name": "Wystan",
       "race": "Lizardman",
       "gender": "Male",
@@ -57,6 +65,7 @@
       "trait": "Lizardmen - Increases the Attack and Defense skills of any Lizardmen or Lizard Warriors for each level attained after 2nd level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroAndraIII.webp",
       "name": "Andra",
       "race": "Human",
       "gender": "Female",
@@ -64,6 +73,7 @@
       "trait": "Intelligence - Receives a 5% per level bonus to Intelligence skill percentage"
     },
     {
+      "image": "/assets/graphics/heroes/HeroMeristIII.webp",
       "name": "Merist",
       "race": "Gnoll",
       "gender": "Female",
@@ -71,6 +81,7 @@
       "trait": "Stone Skin - Casts Stone Skin with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
     },
     {
+      "image": "/assets/graphics/heroes/HeroMirlandaIII.webp",
       "name": "Mirlanda",
       "race": "Human",
       "gender": "Female",
@@ -78,6 +89,7 @@
       "trait": "Weakness - Casts Weakness with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
     },
     {
+      "image": "/assets/graphics/heroes/HeroRosicIII.webp",
       "name": "Rosic",
       "race": "Gnoll",
       "gender": "Female",
@@ -85,6 +97,7 @@
       "trait": "Mysticism - Receives a 5% per level bonus to Mysticism skill percentage"
     },
     {
+      "image": "/assets/graphics/heroes/HeroStygIII.webp",
       "name": "Styg",
       "race": "Lizardman",
       "gender": "Female",
@@ -92,6 +105,7 @@
       "trait": "Sorcery - Receives a 5% per level bonus to Sorcery skill percentage"
     },
     {
+      "image": "/assets/graphics/heroes/HeroTivaIII.webp",
       "name": "Tiva",
       "race": "Gnoll",
       "gender": "Female",
@@ -99,6 +113,7 @@
       "trait": "Eagle Eye - Receives a 5% per level bonus to Eagle Eye skill percentage"
     },
     {
+      "image": "/assets/graphics/heroes/HeroVerdishIII.webp",
       "name": "Verdish",
       "race": "Human",
       "gender": "Female",
@@ -106,6 +121,7 @@
       "trait": "First Aid - Receives a 5% per level bonus to First Aid skill"
     },
     {
+      "image": "/assets/graphics/heroes/HeroVoyIII.webp",
       "name": "Voy",
       "race": "Lizardman",
       "gender": "Female",

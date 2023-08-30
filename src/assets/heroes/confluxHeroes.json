@@ -1,6 +1,7 @@
 {
   "heroes": [
     {
+      "image": "/assets/graphics/heroes/HeroErdamonIII.webp",
       "name": "Erdamon",
       "race": "Magma Elemental",
       "gender": "Male",
@@ -8,6 +9,7 @@
       "trait": "Earth Elementals - Increases the Attack and Defense skills of any Earth Elementals or Magma Elementals for each level attained after 5th level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroFiurIII.webp",
       "name": "Fiur",
       "race": "Energy Elemental",
       "gender": "Male",
@@ -15,6 +17,7 @@
       "trait": "Fire Elementals - Increases the Attack and Defense skills of any Fire Elementals or Energy Elementals for each level attained after 4th level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroIgnissaIII.webp",
       "name": "Ignissa",
       "race": "Fire Elemental",
       "gender": "Female",
@@ -22,6 +25,7 @@
       "trait": "Fire Elementals - Increases the Attack and Defense skills of any Fire Elementals or Energy Elementals for each level attained after 4th level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroKaltIII.webp",
       "name": "Kalt",
       "race": "Ice Elemental",
       "gender": "Male",
@@ -29,6 +33,7 @@
       "trait": "Water Elementals - Increases the Attack and Defense skills of any Water Elementals or Ice Elementals for each level attained after 3rd level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroLacusIII.webp",
       "name": "Lacus",
       "race": "Water Elemental",
       "gender": "Female",
@@ -36,6 +41,7 @@
       "trait": "Water Elementals - Increases the Attack and Defense skills of any Water Elementals or Ice Elementals for each level attained after 3rd level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroMonereIII.webp",
       "name": "Monere",
       "race": "Magic Elemental",
       "gender": "Male",
@@ -43,6 +49,7 @@
       "trait": "Psychic Elementals - Increases the Attack and Defense skills of any Psychic Elementals or Magic Elementals for each level attained after 6th level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroPasisIII.webp",
       "name": "Pasis",
       "race": "Psychic Elemental",
       "gender": "Female",
@@ -50,6 +57,7 @@
       "trait": "Psychic Elementals - Increases the Attack and Defense skills of any Psychic Elementals or Magic Elementals for each level attained after 6th level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroThunarIII.webp",
       "name": "Thunar",
       "race": "Earth Elemental",
       "gender": "Female",
@@ -57,6 +65,7 @@
       "trait": "Earth Elementals - Increases the Attack and Defense skills of any Earth Elementals or Magma Elementals for each level attained after 5th level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroAenainIII.webp",
       "name": "Aenain",
       "race": "Genie",
       "gender": "Male",
@@ -64,6 +73,7 @@
       "trait": "Disrupting Ray - Casts Disrupting Ray with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
     },
     {
+      "image": "/assets/graphics/heroes/HeroBrissaIII.webp",
       "name": "Brissa",
       "race": "Genie",
       "gender": "Female",
@@ -71,6 +81,7 @@
       "trait": "Haste - Casts Haste with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
     },
     {
+      "image": "/assets/graphics/heroes/HeroCieleIII.webp",
       "name": "Ciele",
       "race": "Elf",
       "gender": "Female",
@@ -78,6 +89,7 @@
       "trait": "Magic Arrow - Casts Magic Arrow with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
     },
     {
+      "image": "/assets/graphics/heroes/HeroGelareIII.webp",
       "name": "Gelare",
       "race": "Elf",
       "gender": "Male",
@@ -85,6 +97,7 @@
       "trait": "+350 gold"
     },
     {
+      "image": "/assets/graphics/heroes/HeroGrindanIII.webp",
       "name": "Grindan",
       "race": "Dwarf",
       "gender": "Male",
@@ -92,6 +105,7 @@
       "trait": "+350 gold"
     },
     {
+      "image": "/assets/graphics/heroes/HeroInteusIII.webp",
       "name": "Inteus",
       "race": "Human",
       "gender": "Male",
@@ -99,6 +113,7 @@
       "trait": "Bloodlust - Casts Bloodlust with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
     },
     {
+      "image": "/assets/graphics/heroes/HeroLabethaIII.webp",
       "name": "Labetha",
       "race": "Human",
       "gender": "Female",
@@ -106,6 +121,7 @@
       "trait": "Stone Skin - Casts Stone Skin with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
     },
     {
+      "image": "/assets/graphics/heroes/HeroLunaIII.webp",
       "name": "Luna",
       "race": "Human",
       "gender": "Female",

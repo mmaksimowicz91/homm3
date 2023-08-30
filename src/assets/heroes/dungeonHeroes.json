@@ -1,6 +1,7 @@
 {
   "heroes": [
     {
+      "image": "/assets/graphics/heroes/HeroAjitIII.webp",
       "name": "Ajit",
       "race": "Human",
       "gender": "Male",
@@ -8,6 +9,7 @@
       "trait": "Beholders - Increases the Attack and Defense skills of any Beholders or Evil Eyes for each level attained after 2nd level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroArlachIII.webp",
       "name": "Arlach",
       "race": "Troglodyte",
       "gender": "Male",
@@ -15,6 +17,7 @@
       "trait": "Ballista - Increases the Attack and Defense skill of any Ballista for each level attained after 4th level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroDaceIII.webp",
       "name": "Dace",
       "race": "Minotaur",
       "gender": "Male",
@@ -22,6 +25,7 @@
       "trait": "Minotaurs - Increases the Attack and Defense skills of any Minotaur or Minotaur Kings for each level attained after 5th level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroDamaconIII.webp",
       "name": "Damacon",
       "race": "Troglodyte",
       "gender": "Male",
@@ -29,6 +33,7 @@
       "trait": "+350 gold"
     },
     {
+      "image": "/assets/graphics/heroes/HeroGunnarIII.webp",
       "name": "Gunnar",
       "race": "Minotaur",
       "gender": "Male",
@@ -36,6 +41,7 @@
       "trait": "Logistics - Receives a 5% per level bonus to Logistics skill percentage"
     },
     {
+      "image": "/assets/graphics/heroes/HeroLoreleiIII.webp",
       "name": "Lorelei",
       "race": "Human",
       "gender": "Female",
@@ -43,6 +49,7 @@
       "trait": "Harpies - Increases the Attack and Defense skills of any Harpies or Harpy Hags for each level attained after 2nd level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroShaktiIII.webp",
       "name": "Shakti",
       "race": "Troglodyte",
       "gender": "Male",
@@ -50,6 +57,7 @@
       "trait": "Troglodytes - Increases the Attack and Defense skills of any Troglodytes or Infernal Troglodytes for each level attained after 1st level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroSyncaIII.webp",
       "name": "Synca",
       "race": "Human",
       "gender": "Female",
@@ -57,6 +65,7 @@
       "trait": "Manticores - Increases the Attack and Defense skills of any Manticores or Scorpicores for each level attained after 6th level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroAlamarIII.webp",
       "name": "Alamar",
       "race": "Human",
       "gender": "Male",
@@ -64,6 +73,7 @@
       "trait": "Resurrection - Casts Resurrection with increased effect, based on his level compared to the level of the target unit (the bonus is greater when used on weaker units)"
     },
     {
+      "image": "/assets/graphics/heroes/HeroDarkstormIII.webp",
       "name": "Darkstorm",
       "race": "Minotaur",
       "gender": "Male",
@@ -71,6 +81,7 @@
       "trait": "Stone Skin - Casts Stone Skin with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
     },
     {
+      "image": "/assets/graphics/heroes/HeroDeemerIII.webp",
       "name": "Deemer",
       "race": "Minotaur",
       "gender": "Male",
@@ -78,6 +89,7 @@
       "trait": "Meteor Shower - Casts Meteor Shower with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
     },
     {
+      "image": "/assets/graphics/heroes/HeroGeonIII.webp",
       "name": "Geon",
       "race": "Troglodyte",
       "gender": "Male",
@@ -85,6 +97,7 @@
       "trait": "Eagle Eye - Receives a 5% per level bonus to Eagle Eye skill percentage"
     },
     {
+      "image": "/assets/graphics/heroes/HeroJaegerIII.webp",
       "name": "Jaegar",
       "race": "Troglodyte",
       "gender": "Male",
@@ -92,6 +105,7 @@
       "trait": "Mysticism - Receives a 5% per level bonus to Mysticism skill percentage"
     },
     {
+      "image": "/assets/graphics/heroes/HeroJedditeIII.webp",
       "name": "Jeddite",
       "race": "Human",
       "gender": "Male",
@@ -99,6 +113,7 @@
       "trait": "Resurrection - Casts Resurrection with increased effect, based on his level compared to the level of the target unit (the bonus is greater when used on weaker units)"
     },
     {
+      "image": "/assets/graphics/heroes/HeroMalekithIII.webp",
       "name": "Malekith",
       "race": "Minotaur",
       "gender": "Male",
@@ -106,6 +121,7 @@
       "trait": "Sorcery - Receives a 5% per level bonus to Sorcery skill percentage"
     },
     {
+      "image": "/assets/graphics/heroes/HeroSephinrothIII.webp",
       "name": "Sephinroth",
       "race": "Human",
       "gender": "Female",

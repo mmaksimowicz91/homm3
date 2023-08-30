@@ -11,7 +11,14 @@ import { Heroes } from '../../../../models/heroes.model';
 export class ConfluxHeroesComponent implements OnInit {
   heroes: Heroes[] = [];
   dataSource!: MatTableDataSource<Heroes>;
-  displayedColumns: string[] = ['name', 'race', 'gender', 'class', 'trait'];
+  displayedColumns: string[] = [
+    'image',
+    'name',
+    'race',
+    'gender',
+    'class',
+    'trait',
+  ];
   constructor(private confluxService: ConfluxService) {}
 
   ngOnInit(): void {

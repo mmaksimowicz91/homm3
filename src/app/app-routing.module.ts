@@ -34,6 +34,10 @@ import { ConfluxComponent } from './modules/factions/conflux/conflux.component';
 import { ConfluxBuildingsComponent } from './modules/factions/conflux/buildings/confluxbuildings.component';
 import { ConfluxHeroesComponent } from './modules/factions/conflux/heroes/confluxheroes.component';
 import { ConfluxUnitsComponent } from './modules/factions/conflux/units/confluxunits.component';
+import { FortressComponent } from './modules/factions/fortress/fortress.component';
+import { FortressBuildingsComponent } from './modules/factions/fortress/buildings/fortressbuildings.component';
+import { FortressHeroesComponent } from './modules/factions/fortress/heroes/fortressheroes.component';
+import { FortressUnitsComponent } from './modules/factions/fortress/units/fortressunits.component';
 
 const routes: Routes = [
   {
@@ -160,6 +164,22 @@ const routes: Routes = [
   {
     path: 'strongholdunits',
     component: StrongholdUnitsComponent,
+  },
+  {
+    path: 'fortress',
+    component: FortressComponent,
+  },
+  {
+    path: 'fortressbuildings',
+    component: FortressBuildingsComponent,
+  },
+  {
+    path: 'fortressheroes',
+    component: FortressHeroesComponent,
+  },
+  {
+    path: 'fortressunits',
+    component: FortressUnitsComponent,
   },
   {
     path: 'conflux',

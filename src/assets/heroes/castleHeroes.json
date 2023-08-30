@@ -1,13 +1,15 @@
 {
   "heroes": [
     {
-      "name": "Sir Christian",
+      "image": "/assets/graphics/heroes/herosirchristian-1.png",
+      "name": "Christian",
       "race": "Human",
       "gender": "Male",
       "class": "Knight",
       "trait": "Ballista - Increases the Attack and Defense skill of any Ballista for each level attained after 4th level"
     },
     {
+      "image": "/assets/graphics/heroes/heroedriciii.png",
       "name": "Edric",
       "race": "Human",
       "gender": "Male",
@@ -15,6 +17,7 @@
       "trait": "Griffins - Increases the Attack and Defense skills of any Griffins or Royal Griffins for each level attained after 3rd level"
     },
     {
+      "image": "/assets/graphics/heroes/heroorriniii.png",
       "name": "Orrin",
       "race": "Human",
       "gender": "Male",
@@ -22,6 +25,7 @@
       "trait": "Archery - Receives a 5% per level bonus to Archery skill percentage"
     },
     {
+      "image": "/assets/graphics/heroes/herolordhaartkiii.png",
       "name": "Lord Haart",
       "race": "Human",
       "gender": "Male",
@@ -29,6 +33,7 @@
       "trait": "Estates - Receives a 5% per level bonus to Estates skill percentage"
     },
     {
+      "image": "/assets/graphics/heroes/HeroSorshaIII.png",
       "name": "Sorsha",
       "race": "Human",
       "gender": "Female",
@@ -36,6 +41,7 @@
       "trait": "Swordsmen - Increases the Attack and Defense skills of any Swordsmen or Crusaders for each level attained after 4th level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroSylviaIII.png",
       "name": "Sylvia",
       "race": "Human",
       "gender": "Female",
@@ -43,6 +49,7 @@
       "trait": "Navigation - Receives a 5% per level bonus to Navigation skill percentage"
     },
     {
+      "image": "/assets/graphics/heroes/HeroTyrisIII.png",
       "name": "Tyris",
       "race": "Human",
       "gender": "Female",
@@ -50,6 +57,7 @@
       "trait": "Cavaliers - Increases the Attack and Defense skills of any Cavaliers or Champions for each level attained after 6th level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroValeskaIII.png",
       "name": "Valeska",
       "race": "Human",
       "gender": "Female",
@@ -57,6 +65,7 @@
       "trait": "Archers - Increases the Attack and Defense skills of any Archers or Marksmen for each level attained after 2th level"
     },
     {
+      "image": "/assets/graphics/heroes/heroadelaiii.png",
       "name": "Adela",
       "race": "Human",
       "gender": "Female",
@@ -64,6 +73,7 @@
       "trait": "Bless - Casts Bless with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
     },
     {
+      "image": "/assets/graphics/heroes/heroadelaideiii.png",
       "name": "Adelaide",
       "race": "Human",
       "gender": "Female",
@@ -71,6 +81,7 @@
       "trait": "Frost Ring - Casts Frost Ring with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
     },
     {
+      "image": "/assets/graphics/heroes/herocaitliniii.png",
       "name": "Caitlin",
       "race": "Human",
       "gender": "Female",
@@ -78,6 +89,7 @@
       "trait": "+350 gold"
     },
     {
+      "image": "/assets/graphics/heroes/herocuthbertiii.png",
       "name": "Cuthbert",
       "race": "Human",
       "gender": "Male",
@@ -85,6 +97,7 @@
       "trait": "Weakness - Casts Weakness with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
     },
     {
+      "image": "/assets/graphics/heroes/heroinghamiii.png",
       "name": "Ingham",
       "race": "Human",
       "gender": "Male",
@@ -92,6 +105,7 @@
       "trait": "Monks - Increases the Attack and Defense skills of any Monks or Zealots for each level attained after 5th level"
     },
     {
+      "image": "/assets/graphics/heroes/heroloynisiii.png",
       "name": "Loynis",
       "race": "Human",
       "gender": "Male",
@@ -99,6 +113,7 @@
       "trait": "Prayer - Casts Prayer with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
     },
     {
+      "image": "/assets/graphics/heroes/herorioniii.png",
       "name": "Rion",
       "race": "Human",
       "gender": "Male",
@@ -106,6 +121,7 @@
       "trait": "First Aid - Receives a 5% per level bonus to First Aid skill"
     },
     {
+      "image": "/assets/graphics/heroes/herosanyaIII.png",
       "name": "Sanya",
       "race": "Human",
       "gender": "Female",

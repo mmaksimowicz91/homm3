@@ -1,6 +1,7 @@
 {
   "heroes": [
     {
+      "image": "/assets/graphics/heroes/HeroCharnaIII.webp",
       "name": "Charna",
       "race": "Human",
       "gender": "Female",
@@ -8,6 +9,7 @@
       "trait": "Wights - Increases the Attack and Defense skills of any Wights or Wraiths for each level attained after 3rd level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroClaviusIII.webp",
       "name": "Clavius",
       "race": "Undead",
       "gender": "Male",
@@ -15,6 +17,7 @@
       "trait": "+350 gold"
     },
     {
+      "image": "/assets/graphics/heroes/HeroGalthranIII.webp",
       "name": "Galthran",
       "race": "Vampire",
       "gender": "Male",
@@ -22,6 +25,7 @@
       "trait": "Skeletons - Increases the Attack and Defense skills of any Skeletons or Skeleton Warriors for each level attained after 1st level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroIsraIII.webp",
       "name": "Isra",
       "race": "Undead",
       "gender": "Female",
@@ -29,6 +33,7 @@
       "trait": "Necromancy - Receives a 5% per level bonus to Necromancy skill percentage"
     },
     {
+      "image": "/assets/graphics/heroes/HeroMoanderIII.webp",
       "name": "Moander",
       "race": "Lich",
       "gender": "Male",
@@ -36,6 +41,7 @@
       "trait": "Liches - Increases the Attack and Defense skills of any Liches or Power Liches for each level attained after 5th level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroStrakerIII.webp",
       "name": "Straker",
       "race": "Undead",
       "gender": "Male",
@@ -43,6 +49,7 @@
       "trait": "Walking Dead - Increases the Attack and Defense skills of any Walking Dead or Zombies for each level attained after 2nd level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroTamikaIII.webp",
       "name": "Tamika",
       "race": "Vampire",
       "gender": "Female",
@@ -50,6 +57,7 @@
       "trait": "Black Knights - Increases the Attack and Defense skills of any Black Knights or Dread Knights for each level attained after 6th level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroVokialIII.webp",
       "name": "Vokial",
       "race": "Vampire",
       "gender": "Male",
@@ -57,6 +65,7 @@
       "trait": "Vampires - Increases the Attack and Defense skills of any Vampires or Vampire Lords for each level attained after 4th level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroAislinnIII.webp",
       "name": "Aislinn",
       "race": "Undead",
       "gender": "Male",
@@ -64,6 +73,7 @@
       "trait": "Meteor Shower - Casts Meteor Shower with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
     },
     {
+      "image": "/assets/graphics/heroes/HeroNagashIII.webp",
       "name": "Nagash",
       "race": "Lich",
       "gender": "Male",
@@ -71,6 +81,7 @@
       "trait": "+350 gold"
     },
     {
+      "image": "/assets/graphics/heroes/HeroNimbusIII.webp",
       "name": "Nimbus",
       "race": "Human",
       "gender": "Male",
@@ -78,6 +89,7 @@
       "trait": "Eagle Eye - Receives a 5% per level bonus to Eagle Eye skill percentage"
     },
     {
+      "image": "/assets/graphics/heroes/HeroSeptiennaIII.webp",
       "name": "Septienna",
       "race": "Human",
       "gender": "Female",
@@ -85,6 +97,7 @@
       "trait": "Death Ripple - Casts Death Ripple with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
     },
     {
+      "image": "/assets/graphics/heroes/HeroThantIII.webp",
       "name": "Thant",
       "race": "Vampire",
       "gender": "Male",
@@ -92,6 +105,7 @@
       "trait": "Animate Dead - Casts Animate Dead with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
     },
     {
+      "image": "/assets/graphics/heroes/HeroVidominaIII.webp",
       "name": "Vidomina",
       "race": "Human",
       "gender": "Female",
@@ -99,6 +113,7 @@
       "trait": "Necromancy - Receives a 5% per level bonus to Necromancy skill percentage"
     },
     {
+      "image": "/assets/graphics/heroes/HeroXsiIII.webp",
       "name": "Xsi",
       "race": "Lich",
       "gender": "Female",

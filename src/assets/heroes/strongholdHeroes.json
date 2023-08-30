@@ -1,6 +1,7 @@
 {
   "heroes": [
     {
+      "image": "/assets/graphics/heroes/HeroCragHackIII.webp",
       "name": "Crag Hack",
       "race": "Human",
       "gender": "Male",
@@ -8,6 +9,7 @@
       "trait": "Offence - Receives a 5% per level bonus to Offense skill percentage"
     },
     {
+      "image": "/assets/graphics/heroes/HeroGretchinIII.webp",
       "name": "Gretchin",
       "race": "Goblin",
       "gender": "Female",
@@ -15,6 +17,7 @@
       "trait": "Goblins - Increases the Attack and Defense skills of any Goblins or Hobgoblins for each level attained after 1st level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroGurnissonIII.webp",
       "name": "Gurnisson",
       "race": "Goblin",
       "gender": "Male",
@@ -22,6 +25,7 @@
       "trait": "Ballista - Increases the Attack and Defense skill of any Ballista for each level attained after 4th level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroJabarkasIII.webp",
       "name": "Jabarkas",
       "race": "Ogre",
       "gender": "Male",
@@ -29,6 +33,7 @@
       "trait": "Orcs - Increases the Attack and Defense skills of any Orcs or Orc Chieftains for each level attained after 3rd level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroKrellionIII.webp",
       "name": "Krellion",
       "race": "Ogre",
       "gender": "Male",
@@ -36,6 +41,7 @@
       "trait": "Ogres - Increases the Attack and Defense skills of any Ogres or Ogre Magi for each level attained after 4th level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroShivaIII.webp",
       "name": "Shiva",
       "race": "Human",
       "gender": "Female",
@@ -43,6 +49,7 @@
       "trait": "Rocs - Increases the Attack and Defense skills of any Rocs or Thunderbirds for each level attained after 5th level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroTyraxorIII.webp",
       "name": "Tyraxor",
       "race": "Genie",
       "gender": "Male",
@@ -50,6 +57,7 @@
       "trait": "Wolf Riders - Increases the Attack and Defense skills of any Wolf Riders or Raiders for each level attained after 2nd level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroYog-1III.webp",
       "name": "Yog",
       "race": "Human/Genie",
       "gender": "Male",
@@ -57,6 +65,7 @@
       "trait": "Cyclopes - Increases the Attack and Defense skills of any Cyclopses or Cyclops Lords for each level attained after 6th level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroDessaIII.webp",
       "name": "Dessa",
       "race": "Goblin",
       "gender": "Male",
@@ -64,6 +73,7 @@
       "trait": "Logistics - Receives a 5% per level bonus to Logistics skill percentage"
     },
     {
+      "image": "/assets/graphics/heroes/HeroGirdIII.webp",
       "name": "Gird",
       "race": "Human",
       "gender": "Female",
@@ -71,6 +81,7 @@
       "trait": "Sorcery - Receives a 5% per level bonus to Sorcery skill percentage"
     },
     {
+      "image": "/assets/graphics/heroes/HeroGundulaIII.webp",
       "name": "Gundula",
       "race": "Ogre",
       "gender": "Female",
@@ -78,6 +89,7 @@
       "trait": "Offence - Receives a 5% per level bonus to Offense skill percentage"
     },
     {
+      "image": "/assets/graphics/heroes/HeroOrisIII.webp",
       "name": "Oris",
       "race": "Human",
       "gender": "Female",
@@ -85,6 +97,7 @@
       "trait": "Eagle Eye - Receives a 5% per level bonus to Eagle Eye skill percentage"
     },
     {
+      "image": "/assets/graphics/heroes/HeroSaurugIII.webp",
       "name": "Saurug",
       "race": "Ogre",
       "gender": "Male",
@@ -92,6 +105,7 @@
       "trait": "+1 gem"
     },
     {
+      "image": "/assets/graphics/heroes/HeroTerekIII.webp",
       "name": "Terek",
       "race": "Human",
       "gender": "Male",
@@ -99,6 +113,7 @@
       "trait": "Haste - Casts Haste with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
     },
     {
+      "image": "/assets/graphics/heroes/HeroVeyIII.webp",
       "name": "Vey",
       "race": "Ogre",
       "gender": "Male",
@@ -106,6 +121,7 @@
       "trait": "Ogres - Increases the Attack and Defense skills of any Ogres or Ogre Magi for each level attained after 4th level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroZubinIII.webp",
       "name": "Zubin",
       "race": "Goblin",
       "gender": "Male",

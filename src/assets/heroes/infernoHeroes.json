@@ -1,6 +1,7 @@
 {
   "heroes": [
     {
+      "image": "/assets/graphics/heroes/HeroCalhIII.webp",
       "name": "Calh",
       "race": "Kreegan",
       "gender": "Male",
@@ -8,6 +9,7 @@
       "trait": "Gogs - Increases the Attack and Defense skills of any Gogs or Magogs for each level attained after 2nd level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroFionaIII.webp",
       "name": "Fiona",
       "race": "Human",
       "gender": "Female",
@@ -15,6 +17,7 @@
       "trait": "Hell Hounds - Increases the Attack and Defense skills of any Hell Hounds or Cerberi for each level attained after 3rd level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroIgnatiusIII.webp",
       "name": "Ignatius",
       "race": "Human",
       "gender": "Male",
@@ -22,6 +25,7 @@
       "trait": "Imps - Increases the Attack and Defense skills of any Imps or Familiars for each level attained after 1st level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroMariusIII.webp",
       "name": "Marius",
       "race": "Kreegan",
       "gender": "Female",
@@ -29,6 +33,7 @@
       "trait": "Demons - Increases the Attack and Defense skills of any Demons or Horned Demons for each level attained after 4th level"
     },
     {
+      "image": "/assets/graphics/heroes/Hero_Nymus.webp",
       "name": "Nymus",
       "race": "Kreegan",
       "gender": "Female",
@@ -36,6 +41,7 @@
       "trait": "Pit Fiends - Increases the Attack and Defense skills of any Pit Fiends or Lords for each level attained after 5th level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroOctaviaIII.webp",
       "name": "Octavia",
       "race": "Kreegan",
       "gender": "Female",
@@ -43,6 +49,7 @@
       "trait": "+350 gold"
     },
     {
+      "image": "/assets/graphics/heroes/HeroPyreIII.webp",
       "name": "Pyre",
       "race": "Human",
       "gender": "Female",
@@ -50,6 +57,7 @@
       "trait": "Ballista - Increases the Attack and Defense skill of any Ballista for each level attained after 4th level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroRashkaIII.webp",
       "name": "Rashka",
       "race": "Kreegan",
       "gender": "Male",
@@ -57,6 +65,7 @@
       "trait": "Efreets - Increases the Attack and Defense skills of any Efreet or Efreet Sultans for each level attained after 6th level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroAshIII.webp",
       "name": "Ash",
       "race": "Kreegan",
       "gender": "Female",
@@ -64,6 +73,7 @@
       "trait": "Bloodlust - Casts Bloodlust with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
     },
     {
+      "image": "/assets/graphics/heroes/HeroAxsisIII.webp",
       "name": "Axsis",
       "race": "Kreegan",
       "gender": "Male",
@@ -71,6 +81,7 @@
       "trait": "Mysticism - Receives a 5% per level bonus to Mysticism skill percentage"
     },
     {
+      "image": "/assets/graphics/heroes/HeroAydenIII.webp",
       "name": "Ayden",
       "race": "Human",
       "gender": "Male",
@@ -78,6 +89,7 @@
       "trait": "Intelligence - Receives a 5% per level bonus to Intelligence skill percentage"
     },
     {
+      "image": "/assets/graphics/heroes/HeroCalidIII.webp",
       "name": "Calid",
       "race": "Kreegan",
       "gender": "Male",
@@ -85,6 +97,7 @@
       "trait": "+1 sulfur"
     },
     {
+      "image": "/assets/graphics/heroes/HeroOlemaIII.webp",
       "name": "Olema",
       "race": "Human",
       "gender": "Female",
@@ -92,6 +105,7 @@
       "trait": "Weakness - Casts Weakness with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
     },
     {
+      "image": "/assets/graphics/heroes/HeroXarfaxIII.webp",
       "name": "Xarfax",
       "race": "Human",
       "gender": "Male",
@@ -99,6 +113,7 @@
       "trait": "Fireball - Casts Fireball with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
     },
     {
+      "image": "/assets/graphics/heroes/HeroXyronIII.webp",
       "name": "Xyron",
       "race": "Efreet",
       "gender": "Male",
@@ -106,6 +121,7 @@
       "trait": "Inferno - Casts Inferno with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
     },
     {
+      "image": "/assets/graphics/heroes/HeroZydarIII.webp",
       "name": "Zydar",
       "race": "Efreet",
       "gender": "Male",

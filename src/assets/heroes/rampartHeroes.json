@@ -1,6 +1,7 @@
 {
   "heroes": [
     {
+      "image": "/assets/graphics/heroes/HeroClancyIII.webp",
       "name": "Clancy",
       "race": "Dwarf",
       "gender": "Male",
@@ -8,6 +9,7 @@
       "trait": "Unicorns - Increases the Attack and Defense skills of any Unicorns or War Unicorns for each level attained after 6th level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroIvorIII.webp",
       "name": "Ivor",
       "race": "Elf",
       "gender": "Male",
@@ -15,6 +17,7 @@
       "trait": "Elves - Increases the Attack and Defense skills of any Wood Elves or Grand Elves for each level attained after 3th level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroJenovaIII.webp",
       "name": "Jenova",
       "race": "Elf",
       "gender": "Female",
@@ -22,6 +25,7 @@
       "trait": "+350 gold"
     },
     {
+      "image": "/assets/graphics/heroes/HeroKyrreIII.webp",
       "name": "Kyrre",
       "race": "Elf",
       "gender": "Female",
@@ -29,6 +33,7 @@
       "trait": "Logistics - Receives a 5% per level bonus to Logistics skill percentage"
     },
     {
+      "image": "/assets/graphics/heroes/HeroMephalaIII.webp",
       "name": "Mephala",
       "race": "Elf",
       "gender": "Female",
@@ -36,6 +41,7 @@
       "trait": "Armorer - Receives a 5% per level bonus to Armorer skill percentage"
     },
     {
+      "image": "/assets/graphics/heroes/HeroRylandIII.webp",
       "name": "Ryland",
       "race": "Human",
       "gender": "Male",
@@ -43,6 +49,7 @@
       "trait": "Eagle Eye - Receives a 5% per level bonus to Eagle Eye skill percentage"
     },
     {
+      "image": "/assets/graphics/heroes/HeroThorgrimIII.webp",
       "name": "Thorgrim",
       "race": "Dwarf",
       "gender": "Male",
@@ -50,6 +57,7 @@
       "trait": "Resistance - Receives a 5% per level bonus to Resistance skill percentage"
     },
     {
+      "image": "/assets/graphics/heroes/HeroUfretinIII.webp",
       "name": "Ufretin",
       "race": "Dwarf",
       "gender": "Male",
@@ -57,6 +65,7 @@
       "trait": "Dwarves - Increases the Attack and Defense skills of any Dwarves or Battle Dwarves for each level attained after 2nd level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroAerisIII.webp",
       "name": "Aeris",
       "race": "Elf",
       "gender": "Male",
@@ -64,6 +73,7 @@
       "trait": "Pegasi - Increases the Attack and Defense skills of any Pegasi or Silver Pegasi for each level attained after 4th level"
     },
     {
+      "image": "/assets/graphics/heroes/HeroAlagarIII.webp",
       "name": "Alagar",
       "race": "Human",
       "gender": "Male",
@@ -71,6 +81,7 @@
       "trait": "Ice Bolt - Casts Ice Bolt with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
     },
     {
+      "image": "/assets/graphics/heroes/HeroCoroniusIII.webp",
       "name": "Coronius",
       "race": "Human",
       "gender": "Male",
@@ -78,6 +89,7 @@
       "trait": "Slayer - Casts Slayer with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
     },
     {
+      "image": "/assets/graphics/heroes/HeroEllesharIII.webp",
       "name": "Elleshar",
       "race": "Elf",
       "gender": "Male",
@@ -85,6 +97,7 @@
       "trait": "Intelligence - Receives a 5% per level bonus to Intelligence skill percentage"
     },
     {
+      "image": "/assets/graphics/heroes/HeroGem-1III.webp",
       "name": "Gem",
       "race": "Human",
       "gender": "Female",
@@ -92,6 +105,7 @@
       "trait": "First Aid - Receives a 5% per level bonus to First Aid skill"
     },
     {
+      "image": "/assets/graphics/heroes/HeroMalcomIII.webp",
       "name": "Malcom",
       "race": "Dwarf",
       "gender": "Male",
@@ -99,6 +113,7 @@
       "trait": "Eagle Eye - Receives a 5% per level bonus to Eagle Eye skill percentage"
     },
     {
+      "image": "/assets/graphics/heroes/HeroMelodiaIII.webp",
       "name": "Melodia",
       "race": "Elf",
       "gender": "Female",
@@ -106,6 +121,7 @@
       "trait": "Fortune - Casts Fortune with increased effect, based on hero level compared to the level of the target unit (the bonus is greater when used on weaker units)"
     },
     {
+      "image": "/assets/graphics/heroes/HeroUlandIII.webp",
       "name": "Uland",
       "race": "Dwarf",
       "gender": "Male",

@@ -11,7 +11,7 @@ import { Heroes } from '../../../../models/heroes.model';
 export class RampartHeroesComponent implements OnInit {
   heroes: Heroes[] = [];
   dataSource!: MatTableDataSource<Heroes>;
-  displayedColumns: string[] = ['name', 'race', 'gender', 'class', 'trait'];
+  displayedColumns: string[] = ['image', 'name', 'race', 'gender', 'class', 'trait'];
   constructor(private rampartService: RampartService) {}
 
   ngOnInit(): void {

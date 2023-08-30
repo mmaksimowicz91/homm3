@@ -1,4 +1,5 @@
 export interface Heroes {
+  image: string;
   name: string;
   race: string;
   gender: Gender;

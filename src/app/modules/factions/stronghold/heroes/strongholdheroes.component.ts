@@ -11,7 +11,14 @@ import { Heroes } from '../../../../models/heroes.model';
 export class StrongholdHeroesComponent implements OnInit {
   heroes: Heroes[] = [];
   dataSource!: MatTableDataSource<Heroes>;
-  displayedColumns: string[] = ['name', 'race', 'gender', 'class', 'trait'];
+  displayedColumns: string[] = [
+    'image',
+    'name',
+    'race',
+    'gender',
+    'class',
+    'trait',
+  ];
   constructor(private strongholdService: StrongholdService) {}
 
   ngOnInit(): void {

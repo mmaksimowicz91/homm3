@@ -37,6 +37,9 @@ import { StrongholdBuildingsComponent } from './modules/factions/stronghold/buil
 import { ConfluxBuildingsComponent } from './modules/factions/conflux/buildings/confluxbuildings.component';
 import { ConfluxUnitsComponent } from './modules/factions/conflux/units/confluxunits.component';
 import { ConfluxHeroesComponent } from './modules/factions/conflux/heroes/confluxheroes.component';
+import { FortressBuildingsComponent } from './modules/factions/fortress/buildings/fortressbuildings.component';
+import { FortressUnitsComponent } from './modules/factions/fortress/units/fortressunits.component';
+import { FortressHeroesComponent } from './modules/factions/fortress/heroes/fortressheroes.component';
 
 @NgModule({
   declarations: [
@@ -70,6 +73,9 @@ import { ConfluxHeroesComponent } from './modules/factions/conflux/heroes/conflu
     ConfluxBuildingsComponent,
     ConfluxUnitsComponent,
     ConfluxHeroesComponent,
+    FortressBuildingsComponent,
+    FortressUnitsComponent,
+    FortressHeroesComponent,
   ],
   imports: [
     BrowserModule,
