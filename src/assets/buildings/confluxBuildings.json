@@ -2,210 +2,245 @@
   "buildings": [
     {
       "structure": "Village Hall",
+      "image": "/assets/graphics/buildings/Village_Hall_Conflux_H3.webp",
       "cost": "N/A",
       "requirements": "none",
       "benefits": "Automatically a part of all towns; provides an income of 500 gold per day"
     },
     {
       "structure": "Town Hall",
+      "image": "/assets/graphics/buildings/Town_Hall_Conflux_H3.webp",
       "cost": "2500 gold",
       "requirements": "Village Hall, Tavern",
       "benefits": "Provides 1000 gold per day"
     },
     {
       "structure": "City Hall",
+      "image": "/assets/graphics/buildings/City_Hall_Conflux_H3.webp",
       "cost": "5000 gold",
       "requirements": "Town Hall, Blacksmith, Mage Guild Level 1, Marketplace",
       "benefits": "Provides 2000 gold per day"
     },
     {
       "structure": "Capitol",
+      "image": "/assets/graphics/buildings/Capitol_Conflux_H3.webp",
       "cost": "10000 gold",
       "requirements": "City Hall, Castle",
       "benefits": "Provides 4000 gold per day"
     },
     {
       "structure": "Fort",
+      "image": "/assets/graphics/buildings/Fort_Conflux_H3.webp",
       "cost": "20 wood, 20 ore, 5000 gold",
       "requirements": "Village Hall",
       "benefits": "Adds walls to a town"
     },
     {
       "structure": "Citadel",
+      "image": "/assets/graphics/buildings/Citadel_Conflux_H3.webp",
       "cost": "5 ore, 2500 gold",
       "requirements": "Fort",
       "benefits": "Adds moat and primary archer tower to a town. Increases production of creature dwellings by 50%"
     },
     {
       "structure": "Castle",
+      "image": "/assets/graphics/buildings/Castle_Conflux_H3.webp",
       "cost": "10 wood, 10 ore, 5000 gold",
       "requirements": "Citadel",
       "benefits": "Adds two secondary arrow towers, standard walls are strenghthened to fortified walls. Increase production of creature dwellings by 100%"
     },
     {
       "structure": "Tavern",
+      "image": "/assets/graphics/buildings/Tavern_Conflux_H3.webp",
       "cost": "5 wood, 500 gold",
       "requirements": "none",
       "benefits": "Increasing the morale of troops defending the city by 1; allows the player to recruit heroes for 2500 gold; when the hero surrenders or retreats, they can be recruited in the tavern; hero can visit the thieves guild, which provides information about other players."
     },
     {
       "structure": "Blacksmith",
+      "image": "/assets/graphics/buildings/Blacksmith_Conflux_H3.webp",
       "cost": "5 wood, 1000 gold",
       "requirements": "none",
       "benefits": "Enables hero to buy ballista for 2500 gold"
     },
     {
       "structure": "Marketplace",
+      "image": "/assets/graphics/buildings/Marketplace_Conflux_H3.webp",
       "cost": "5 wood, 500 gold",
       "requirements": "none",
       "benefits": "Player can trade resources to other resources, or give resources to other players. The more marketplaces player possess, the trading rate become cheaper"
     },
     {
       "structure": "Resource Silo",
+      "image": "/assets/graphics/buildings/Resource_silo_Conflux_H3.webp",
       "cost": "5 ore, 5000 gold",
       "requirements": "Marketplace",
       "benefits": "Producing additional resources per day (1 mercury)"
     },
     {
       "structure": "Mage Guild Level 1",
+      "image": "/assets/graphics/buildings/Mage_guild_level_1_Conflux_H3.webp",
       "cost": "5 wood, 5 ore, 2000 gold",
       "requirements": "Village Hall",
       "benefits": "Five level 1 spells become available for heroes to learn. Heroes are able to purchase a spell book for 500 gold"
     },
     {
       "structure": "Mage Guild Level 2",
+      "image": "/assets/graphics/buildings/Mage_guild_level_2_Conflux_H3.webp",
       "cost": "5 wood, 5 ore, 4 mercury, 4 sulfur, 4 crystal, 4 gem, 1000 gold",
       "requirements": "Mage Guild Level 1",
       "benefits": "Four level 2 spells become available for heroes to learn"
     },
     {
       "structure": "Mage Guild Level 3",
+      "image": "/assets/graphics/buildings/Mage_guild_level_3_Conflux_H3.webp",
       "cost": "5 wood, 5 ore, 6 mercury, 6 sulfur, 6 crystal, 6 gem, 1000 gold",
       "requirements": "Mage Guild Level 2",
       "benefits": "Three level 3 spells become available for heroes to learn"
     },
     {
       "structure": "Mage Guild Level 4",
+      "image": "/assets/graphics/buildings/Mage_guild_level_4_Castle_H3.webp",
       "cost": "5 wood, 5 ore, 8 mercury, 8 sulfur, 8 crystal, 8 gem, 1000 gold",
       "requirements": "Mage Guild Level 3",
       "benefits": "Two level 4 spells become available for heroes to learn"
     },
     {
       "structure": "Mage Guild Level 5",
+      "image": "/assets/graphics/buildings/Mage_guild_level_5_Conflux_H3.webp",
       "cost": "5 wood, 5 ore, 10 mercury, 10 sulfur, 10 crystal, 10 gem, 1000 gold",
       "requirements": "Mage Guild Level 4",
       "benefits": "One level 5 spell becomes available for heroes to learn"
     },
     {
       "structure": "Garden of Life",
+      "image": "/assets/graphics/buildings/Garden_of_Life_Conflux_H3.webp",
       "cost": "1000 gold",
       "requirements": "Magic Lantern",
       "benefits": "Increases the growth of Pixies/Sprites by 10 per week"
     },
     {
       "structure": "University of Magic",
+      "image": "/assets/graphics/buildings/University_of_Magic_Conflux_H3.webp",
       "cost": "5 wood, 5 ore, 5000 gold",
       "requirements": "Mage Guild Level 1",
       "benefits": "Heroes can learn any of the four schools of magic for 2000 gold"
     },
     {
       "structure": "Artifact Merchant",
+      "image": "/assets/graphics/buildings/Artifact_merchants_Conflux_H3.webp",
       "cost": "10000 gold",
       "requirements": "Marketplace",
       "benefits": "Player can buy artifacts for a nominal fee"
     },
     {
       "structure": "Shipyard",
+      "image": "/assets/graphics/buildings/Shipyard_Conflux_H3.webp",
       "cost": "20 wood, 2000 gold",
       "requirements": "none",
       "benefits": "Allows to build boats (10 wood, 1000 gold); can only be built if town is adjacent to water"
     },
     {
       "structure": "Magic Lantern",
+      "image": "/assets/graphics/buildings/Magic_lantern_Conflux_H3.webp",
       "cost": "5 wood, 5 ore, 300 gold",
       "requirements": "Fort",
       "benefits": "Allows you to recruit Pixies"
     },
     {
       "structure": "Upg. Magic Lantern",
+      "image": "/assets/graphics/buildings/Upg._magic_lantern_Conflux_H3.webp",
       "cost": "1000 gold",
       "requirements": "Magic Lantern",
       "benefits": "Allows you to recruit Sprites"
     },
     {
       "structure": "Altar of Air",
+      "image": "/assets/graphics/buildings/Altar_of_Air_Conflux_H3.webp",
       "cost": "5 ore, 1500 gold",
       "requirements": "Mage Guild Level 1",
       "benefits": "Allows you to recruit Air Elementals"
     },
     {
       "structure": "Upg. Altar of Air",
+      "image": "/assets/graphics/buildings/Upg._Altar_of_Air_Conflux_H3.webp",
       "cost": "2 wood, 2 mercury, 2 gem, 1500 gold",
       "requirements": "Altar of Air",
       "benefits": "Allows you to recruit Storm Elementals"
     },
     {
       "structure": "Altar of Water",
+      "image": "/assets/graphics/buildings/Altar_of_Water_Conflux_H3.webp",
       "cost": "5 ore, 5 mercury, 2000 gold",
       "requirements": "Mage Guild Level 1",
       "benefits": "Allows you to recruit Water Elementals"
     },
     {
       "structure": "Upg. Altar of Water",
+      "image": "/assets/graphics/buildings/Upg._Altar_of_Water_Conflux_H3.webp",
       "cost": "5 wood, 5 mercury, 2000 gold",
       "requirements": "Altar of Water",
       "benefits": "Allows you to recruit Ice Elementals"
     },
     {
       "structure": "Altar of Fire",
+      "image": "/assets/graphics/buildings/Altar_of_Fire_Conflux_H3.webp",
       "cost": "5 wood, 5 ore, 2000 gold",
       "requirements": "Mage Guild Level 1, Altar of Air",
       "benefits": "Allows you to recruit Fire Elementals"
     },
     {
       "structure": "Upg. Altar of Fire",
+      "image": "/assets/graphics/buildings/Upg._Altar_of_Fire_Conflux_H3.webp",
       "cost": "5 ore, 5 mercury, 2000 gold",
       "requirements": "Altar of Fire",
       "benefits": "Allows you to recruit Energy Elementals"
     },
     {
       "structure": "Altar of Earth",
+      "image": "/assets/graphics/buildings/Altar_of_Earth_Conflux_H3.webp",
       "cost": "10 ore, 2000 gold",
       "requirements": "Mage Guild Level 1, Altar of Water",
       "benefits": "Allows you to recruit Earth Elementals"
     },
     {
       "structure": "Upg. Altar of Earth",
+      "image": "/assets/graphics/buildings/Upg._Altar_of_Earth_Conflux_H3.webp",
       "cost": "5 sulfur, 1000 gold",
       "requirements": "Altar of Earth",
       "benefits": "Allows you to recruit Magma Elementals"
     },
     {
       "structure": "Altar of Thought",
+      "image": "/assets/graphics/buildings/Altar_of_Thought_H3.webp",
       "cost": "5 wood, 5 ore, 2 mercury, 2 sulfur, 2 crystal, 2 gem, 3000 gold",
       "requirements": "Mage Guild Level 1, Altar of Air, Altar of Water, Altar of Fire, Altar of Earth",
       "benefits": "Allows you to recruit Psychic Elementals"
     },
     {
       "structure": "Upg. Altar of Thought",
+      "image": "/assets/graphics/buildings/Upg._Altar_of_Thought_Conflux_H3.webp",
       "cost": "3 mercury, 3 sulfur, 3 crystal, 3 gem, 3000 gold",
       "requirements": "Mage Guild Level 2, Altar of Thought",
       "benefits": "Allows you to recruit Magic Elementals"
     },
     {
       "structure": "Pyre",
+      "image": "/assets/graphics/buildings/Pyre_Conflux_H3.webp",
       "cost": "10 wood, 10 ore, 10 mercury, 10000 gold",
       "requirements": "Mage Guild Level 1, Altar of Air, Altar of Water, Altar of Fire, Altar of Earth, Altar of Thought",
       "benefits": "Allows you to recruit Firebirds"
     },
     {
       "structure": "Upg. Pyre",
+      "image": "/assets/graphics/buildings/Upg._pyre_Conflux_H3.webp",
       "cost": "10 wood, 10 ore, 20 mercury, 15000 gold",
       "requirements": "Pyre",
       "benefits": "Allows you to recruit Phoenixes"
     },
     {
       "structure": "Aurora Borealias",
+      "image": "/assets/graphics/buildings/Aurora_borealias_Conflux_H3.webp",
       "cost": "Grail",
       "requirements": "none",
       "benefits": "Grail building. It places all spells in your mage guild, provides additional 5000 gold per day, increases +50% units growth"

@@ -13,6 +13,7 @@ export class InfernoBuildingsComponent implements OnInit {
   dataSource!: MatTableDataSource<Buildings>;
   displayedColumns: string[] = [
     'structure',
+    'image',
     'cost',
     'requirements',
     'benefits',

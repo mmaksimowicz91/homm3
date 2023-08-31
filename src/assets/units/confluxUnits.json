@@ -2,7 +2,7 @@
   "units": [
     {
       "name": "Pixie",
-      "faction": "Conflux",
+      "image": "/assets/graphics/units/PixieIII.webp",
       "tier": "1",
       "upgraded": "no",
       "type": "melee",
@@ -18,7 +18,7 @@
     },
     {
       "name": "Sprite",
-      "faction": "Conflux",
+      "image": "/assets/graphics/units/SpriteIII.webp",
       "tier": "1",
       "upgraded": "yes",
       "type": "melee",
@@ -34,7 +34,7 @@
     },
     {
       "name": "Air Elemental",
-      "faction": "Conflux",
+      "image": "/assets/graphics/units/AirElemental.jpg",
       "tier": "2",
       "upgraded": "no",
       "type": "melee",
@@ -50,7 +50,7 @@
     },
     {
       "name": "Storm Elemental",
-      "faction": "Conflux",
+      "image": "/assets/graphics/units/StormElemental.webp",
       "tier": "2",
       "upgraded": "yes",
       "type": "ranged",
@@ -66,7 +66,7 @@
     },
     {
       "name": "Water Elemental",
-      "faction": "Conflux",
+      "image": "/assets/graphics/units/WaterElementalIII.webp",
       "tier": "3",
       "upgraded": "no",
       "type": "melee",
@@ -82,7 +82,7 @@
     },
     {
       "name": "Ice Elemental",
-      "faction": "Conflux",
+      "image": "/assets/graphics/units/IceElemental.webp",
       "tier": "1",
       "upgraded": "yes",
       "type": "ranged",
@@ -98,7 +98,7 @@
     },
     {
       "name": "Fire Elemental",
-      "faction": "Conflux",
+      "image": "/assets/graphics/units/FireElementalIII.webp",
       "tier": "4",
       "upgraded": "no",
       "type": "melee",
@@ -114,7 +114,7 @@
     },
     {
       "name": "Energy Elemental",
-      "faction": "Conflux",
+      "image": "/assets/graphics/units/EnergyElemental.webp",
       "tier": "4",
       "upgraded": "yes",
       "type": "melee",
@@ -130,7 +130,7 @@
     },
     {
       "name": "Earth Elemental",
-      "faction": "Conflux",
+      "image": "/assets/graphics/units/EarthElementalIII.webp",
       "tier": "5",
       "upgraded": "no",
       "type": "melee",
@@ -146,7 +146,7 @@
     },
     {
       "name": "Magma Elemental",
-      "faction": "Conflux",
+      "image": "/assets/graphics/units/MagmaElemental.webp",
       "tier": "5",
       "upgraded": "yes",
       "type": "melee",
@@ -162,7 +162,7 @@
     },
     {
       "name": "Psychic Elemental",
-      "faction": "Conflux",
+      "image": "/assets/graphics/units/PsychicElemental.webp",
       "tier": "6",
       "upgraded": "no",
       "type": "melee",
@@ -178,7 +178,7 @@
     },
     {
       "name": "Magic Elemental",
-      "faction": "Conflux",
+      "image": "/assets/graphics/units/MagicElemental.webp",
       "tier": "6",
       "upgraded": "yes",
       "type": "melee",
@@ -194,7 +194,7 @@
     },
     {
       "name": "Firebird",
-      "faction": "Conflux",
+      "image": "/assets/graphics/units/Firebird.webp",
       "tier": "7",
       "upgraded": "no",
       "type": "melee",
@@ -210,7 +210,7 @@
     },
     {
       "name": "Phoenix",
-      "faction": "Conflux",
+      "image": "/assets/graphics/units/PhoenixIII.webp",
       "tier": "7",
       "upgraded": "yes",
       "type": "melee",

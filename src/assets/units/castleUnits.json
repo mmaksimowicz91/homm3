@@ -2,6 +2,7 @@
   "units": [
     {
       "name": "Pikeman",
+      "image": "/assets/graphics/units/Pikeman_III.webp",
       "tier": "1",
       "upgraded": "no",
       "type": "melee",
@@ -17,6 +18,7 @@
     },
     {
       "name": "Halberdier",
+      "image": "/assets/graphics/units/Halberdier_III.webp",
       "tier": "1",
       "upgraded": "yes",
       "type": "melee",
@@ -32,6 +34,7 @@
     },
     {
       "name": "Archer",
+      "image": "/assets/graphics/units/Archer_III.webp",
       "tier": "2",
       "upgraded": "no",
       "type": "ranged",
@@ -47,6 +50,7 @@
     },
     {
       "name": "Marksman",
+      "image": "/assets/graphics/units/Marksman_III.webp",
       "tier": "2",
       "upgraded": "yes",
       "type": "ranged",
@@ -62,6 +66,7 @@
     },
     {
       "name": "Griffin",
+      "image": "/assets/graphics/units/Griffin_III.webp",
       "tier": "3",
       "upgraded": "no",
       "type": "melee",
@@ -77,6 +82,7 @@
     },
     {
       "name": "Royal Griffin",
+      "image": "/assets/graphics/units/Royal_Griffin.webp",
       "tier": "3",
       "upgraded": "yes",
       "type": "melee",
@@ -92,6 +98,7 @@
     },
     {
       "name": "Swordsman",
+      "image": "/assets/graphics/units/Swordsman_III.webp",
       "tier": "4",
       "upgraded": "no",
       "type": "melee",
@@ -107,6 +114,7 @@
     },
     {
       "name": "Crusader",
+      "image": "/assets/graphics/units/Crusader_III.webp",
       "tier": "4",
       "upgraded": "yes",
       "type": "melee",
@@ -122,6 +130,7 @@
     },
     {
       "name": "Monk",
+      "image": "/assets/graphics/units/Monk_III.webp",
       "tier": "5",
       "upgraded": "no",
       "type": "ranged",
@@ -137,6 +146,7 @@
     },
     {
       "name": "Zealot",
+      "image": "/assets/graphics/units/Zealot_III.webp",
       "tier": "5",
       "upgraded": "yes",
       "type": "ranged",
@@ -152,6 +162,7 @@
     },
     {
       "name": "Cavalier",
+      "image": "/assets/graphics/units/Cavalier_III.webp",
       "tier": "6",
       "upgraded": "no",
       "type": "melee",
@@ -167,6 +178,7 @@
     },
     {
       "name": "Champion",
+      "image": "/assets/graphics/units/Champion_III.webp",
       "tier": "6",
       "upgraded": "yes",
       "type": "melee",
@@ -182,6 +194,7 @@
     },
     {
       "name": "Angel",
+      "image": "/assets/graphics/units/Angel_III.webp",
       "tier": "7",
       "upgraded": "no",
       "type": "melee",
@@ -197,6 +210,7 @@
     },
     {
       "name": "Archangel",
+      "image": "/assets/graphics/units/Archangel_29.webp",
       "tier": "7",
       "upgraded": "yes",
       "type": "melee",

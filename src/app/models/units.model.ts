@@ -11,6 +11,7 @@ enum Upgraded {
 }
 export interface Units {
   name: string;
+  image: string;
   tier: number;
   upgraded: Upgraded;
   type: AttackType;

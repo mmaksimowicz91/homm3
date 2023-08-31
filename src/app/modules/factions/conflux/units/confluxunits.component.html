@@ -7,6 +7,13 @@
       </td>
     </ng-container>
 
+    <ng-container matColumnDef="image">
+      <th mat-header-cell *matHeaderCellDef>Image</th>
+      <td mat-cell *matCellDef="let units">
+        <img [src]="units.image" />
+      </td>
+    </ng-container>
+
     <ng-container matColumnDef="tier">
       <th mat-header-cell *matHeaderCellDef>Tier</th>
       <td mat-cell *matCellDef="let units">{{ units.tier }}</td>

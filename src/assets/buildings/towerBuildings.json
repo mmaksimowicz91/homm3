@@ -2,216 +2,252 @@
   "buildings": [
     {
       "structure": "Village Hall",
+      "image": "/assets/graphics/buildings/Village_hall_Tower_H3.webp",
       "cost": "N/A",
       "requirements": "none",
       "benefits": "Automatically a part of all towns; provides an income of 500 gold per day"
     },
     {
       "structure": "Town Hall",
+      "image": "/assets/graphics/buildings/Town_hall_Tower_H3.webp",
       "cost": "2500 gold",
       "requirements": "Village Hall, Tavern",
       "benefits": "Provides 1000 gold per day"
     },
     {
       "structure": "City Hall",
+      "image": "/assets/graphics/buildings/City_hall_Tower_H3.webp",
       "cost": "5000 gold",
       "requirements": "Town Hall, Blacksmith, Mage Guild Level 1, Marketplace",
       "benefits": "Provides 2000 gold per day"
     },
     {
       "structure": "Capitol",
+      "image": "/assets/graphics/buildings/Capitol_Tower_H3.webp",
       "cost": "10000 gold",
       "requirements": "City Hall, Castle",
       "benefits": "Provides 4000 gold per day"
     },
     {
       "structure": "Fort",
+      "image": "/assets/graphics/buildings/Fort_Tower_H3.webp",
       "cost": "20 wood, 20 ore, 5000 gold",
       "requirements": "Village Hall",
       "benefits": "Adds walls to a town"
     },
     {
       "structure": "Citadel",
+      "image": "/assets/graphics/buildings/Citadel_Tower_H3.webp",
       "cost": "5 ore, 2500 gold",
       "requirements": "Fort",
       "benefits": "Adds moat and primary archer tower to a town. Increases production of creature dwellings by 50%"
     },
     {
       "structure": "Castle",
+      "image": "/assets/graphics/buildings/Castle_Tower_H3.webp",
       "cost": "10 wood, 10 ore, 5000 gold",
       "requirements": "Citadel",
       "benefits": "Adds two secondary arrow towers, standard walls are strenghthened to fortified walls. Increase production of creature dwellings by 100%"
     },
     {
       "structure": "Tavern",
+      "image": "/assets/graphics/buildings/Tavern_Tower_H3.webp",
       "cost": "5 wood, 500 gold",
       "requirements": "none",
       "benefits": "Increasing the morale of troops defending the city by 1; allows the player to recruit heroes for 2500 gold; when the hero surrenders or retreats, they can be recruited in the tavern; hero can visit the thieves guild, which provides information about other players."
     },
     {
       "structure": "Blacksmith",
+      "image": "/assets/graphics/buildings/Blacksmith_Tower_H3.webp",
       "cost": "5 wood, 1000 gold",
       "requirements": "none",
       "benefits": "Enables hero to buy ammo cart for 1000 gold"
     },
     {
       "structure": "Marketplace",
+      "image": "/assets/graphics/buildings/Marketplace_Tower_H3.webp",
       "cost": "5 wood, 500 gold",
       "requirements": "none",
       "benefits": "Player can trade resources to other resources, or give resources to other players. The more marketplaces player possess, the trading rate become cheaper"
     },
     {
       "structure": "Resource Silo",
+      "image": "/assets/graphics/buildings/Resource_silo_Tower_H3.webp",
       "cost": "5 ore, 5000 gold",
       "requirements": "Marketplace",
       "benefits": "Producing additional resources per day (1 gem)"
     },
     {
       "structure": "Mage Guild Level 1",
+      "image": "/assets/graphics/buildings/Mage_guild_level_1_Tower_H3.webp",
       "cost": "5 wood, 5 ore, 2000 gold",
       "requirements": "Village Hall",
       "benefits": "Five level 1 spells become available for heroes to learn. Heroes are able to purchase a spell book for 500 gold"
     },
     {
       "structure": "Mage Guild Level 2",
+      "image": "/assets/graphics/buildings/Mage_guild_level_2_Tower_H3.webp",
       "cost": "5 wood, 5 ore, 4 mercury, 4 sulfur, 4 crystal, 4 gem, 1000 gold",
       "requirements": "Mage Guild Level 1",
       "benefits": "Four level 2 spells become available for heroes to learn"
     },
     {
       "structure": "Mage Guild Level 3",
+      "image": "/assets/graphics/buildings/Mage_guild_level_3_Tower_H3.webp",
       "cost": "5 wood, 5 ore, 6 mercury, 6 sulfur, 6 crystal, 6 gem, 1000 gold",
       "requirements": "Mage Guild Level 2",
       "benefits": "Three level 3 spells become available for heroes to learn"
     },
     {
       "structure": "Mage Guild Level 4",
+      "image": "/assets/graphics/buildings/Mage_guild_level_4_Tower_H3.webp",
       "cost": "5 wood, 5 ore, 8 mercury, 8 sulfur, 8 crystal, 8 gem, 1000 gold",
       "requirements": "Mage Guild Level 3",
       "benefits": "Two level 4 spells become available for heroes to learn"
     },
     {
       "structure": "Mage Guild Level 5",
+      "image": "/assets/graphics/buildings/Mage_guild_level_5_Tower_H3.webp",
       "cost": "5 wood, 5 ore, 10 mercury, 10 sulfur, 10 crystal, 10 gem, 1000 gold",
       "requirements": "Mage Guild Level 4",
       "benefits": "One level 5 spell becomes available for heroes to learn"
     },
     {
       "structure": "Library",
+      "image": "/assets/graphics/buildings/Library_Tower_H3.webp",
       "cost": "5 wood, 5 ore, 5 mercury, 5 sulfur, 5 crystal, 5 gem, 1500 gold",
       "requirements": "Mage Guild Level 1",
       "benefits": "Provides your Mage Guild with additional spells"
     },
     {
       "structure": "Wall of Knowledge",
+      "image": "/assets/graphics/buildings/Wall_of_Knowledge_Tower_H3.webp",
       "cost": "5 ore, 1000 gold",
       "requirements": "Mage Guild Level 1",
       "benefits": "Gives visiting hero +1 Knowledge (once)"
     },
     {
       "structure": "Artifact Merchant",
+      "image": "/assets/graphics/buildings/Artifact_merchants_Tower_H3.webp",
       "cost": "10000 gold",
       "requirements": "Marketplace",
       "benefits": "Player can buy artifacts for a nominal fee"
     },
     {
       "structure": "Lookout Tower",
+      "image": "/assets/graphics/buildings/Lookout_tower_Tower_H3.webp",
       "cost": "5 wood, 1000 gold",
       "requirements": "Fort",
       "benefits": "Extends the visible distance around your city"
     },
     {
       "structure": "Sculptor's Wings",
+      "image": "/assets/graphics/buildings/Sculptors_wings_Tower_H3.webp",
       "cost": "1000 gold",
       "requirements": "Parapet",
       "benefits": "Increases the growth of Stone Gargoyles/Obsidian Gargoyles by 4 per week"
     },
     {
       "structure": "Workshop",
+      "image": "/assets/graphics/buildings/Workshop_Tower_H3.webp",
       "cost": "5 wood, 5 ore, 300 gold",
       "requirements": "Fort",
       "benefits": "Allows you to recruit Gremlins"
     },
     {
       "structure": "Upg. Workshop",
+      "image": "/assets/graphics/buildings/Upg._workshop_Tower_H3.webp",
       "cost": "1000 gold",
       "requirements": "Workshop",
       "benefits": "Allows you to recruit Master Gremlins"
     },
     {
       "structure": "Parapet",
+      "image": "/assets/graphics/buildings/Parapet_Tower_H3.webp",
       "cost": "10 ore, 1000 gold",
       "requirements": "Workshop",
       "benefits": "Allows you to recruit Stone Gargoyles"
     },
     {
       "structure": "Upg. Parapet",
+      "image": "/assets/graphics/buildings/Upg._parapet_Tower_H3.webp",
       "cost": "10 ore, 1500 gold",
       "requirements": "Parapet",
       "benefits": "Allows you to recruit Obsidian Gargoyles"
     },
     {
       "structure": "Golem Factory",
+      "image": "/assets/graphics/buildings/Golem_factory_Tower_H3.webp",
       "cost": "5 wood, 5 ore, 2000 gold",
       "requirements": "Workshop",
       "benefits": "Allows you to recruit Stone Golems"
     },
     {
       "structure": "Upg. Golem Factory",
+      "image": "/assets/graphics/buildings/Upg._golem_factory_Tower_H3.webp",
       "cost": "5 wood, 5 ore, 5 mercury, 2000 gold",
       "requirements": "Golem Factory",
       "benefits": "Allows you to recruit Iron Golems"
     },
     {
       "structure": "Mage Tower",
+      "image": "/assets/graphics/buildings/Mage_tower_Tower_H3.webp",
       "cost": "5 wood, 5 ore, 5 mercury, 5 sulfur, 5 crystal, 5 gem, 2000 gold",
       "requirements": "Mage Guild Level 1, Parapet, Golem Factory",
       "benefits": "Allows you to recruit Mages"
     },
     {
       "structure": "Upg. Mage Tower",
+      "image": "/assets/graphics/buildings/Upg._mage_tower_Tower_H3.webp",
       "cost": "5 wood, 2000 gold",
       "requirements": "Library, Mage Tower",
       "benefits": "Allows you to recruit Archmages"
     },
     {
       "structure": "Altar of Wishes",
+      "image": "/assets/graphics/buildings/Altar_of_Wishes_Tower_H3.webp",
       "cost": "10 wood, 10 ore, 3000 gold",
       "requirements": "Mage Tower",
       "benefits": "Allows you to recruit Genies"
     },
     {
       "structure": "Upg. Altar of Wishes",
+      "image": "/assets/graphics/buildings/Upg._altar_of_Wishes_Tower_H3.webp",
       "cost": "5 wood, 2000 gold",
       "requirements": "Altar of Wishes",
       "benefits": "Allows you to recruit Master Genies"
     },
     {
       "structure": "Golden Pavilion",
+      "image": "/assets/graphics/buildings/Golden_pavilion_Tower_H3.webp",
       "cost": "5 wood, 5 ore, 2 mercury, 2 sulfur, 2 crystal, 2 gem, 4000 gold",
       "requirements": "Mage Tower",
       "benefits": "Allows you to recruit Nagas"
     },
     {
       "structure": "Upg. Golden Pavilion",
+      "image": "/assets/graphics/buildings/Upg._golden_pavilion_Tower_H3.webp",
       "cost": "3 mercury, 3 sulfur, 3 crystal, 3 gem, 3000 gold",
       "requirements": "Golden Pavilion",
       "benefits": "Allows you to recruit Naga Queens"
     },
     {
       "structure": "Cloud Temple",
+      "image": "/assets/graphics/buildings/Cloud_temple_Tower_H3.webp",
       "cost": "10 wood, 10 ore, 10 gem, 10000 gold",
       "requirements": "Altar of Wishes, Golden Pavilion",
       "benefits": "Allows you to recruit Giants"
     },
     {
       "structure": "Upg. Cloud Temple",
+      "image": "/assets/graphics/buildings/Upg._cloud_temple_Tower_H3.webp",
       "cost": "5 wood, 5 ore, 30 gem, 25000 gold",
       "requirements": "Cloud Temple",
       "benefits": "Allows you to recruit Titans"
     },
     {
       "structure": "Skyship",
+      "image": "/assets/graphics/buildings/Skyship_Tower_H3.webp",
       "cost": "Grail",
       "requirements": "none",
       "benefits": "Grail building. Gives +15 Knowledge to any defending hero, provides additional 5000 gold per day, increases +50% units growth"

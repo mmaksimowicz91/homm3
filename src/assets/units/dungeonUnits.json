@@ -2,6 +2,7 @@
   "units": [
     {
       "name": "Troglodyte",
+      "image": "/assets/graphics/units/Troglodyta_H3.jpg",
       "tier": "1",
       "upgraded": "no",
       "type": "melee",
@@ -17,6 +18,7 @@
     },
     {
       "name": "Infernal Troglodyte",
+      "image": "/assets/graphics/units/InfernalTroglodyte.webp",
       "tier": "1",
       "upgraded": "yes",
       "type": "melee",
@@ -32,6 +34,7 @@
     },
     {
       "name": "Harpy",
+      "image": "/assets/graphics/units/HarpyIII.webp",
       "tier": "2",
       "upgraded": "no",
       "type": "melee",
@@ -47,6 +50,7 @@
     },
     {
       "name": "Harpy Hag",
+      "image": "/assets/graphics/units/HarpyHag.webp",
       "tier": "2",
       "upgraded": "yes",
       "type": "melee",
@@ -62,6 +66,7 @@
     },
     {
       "name": "Beholder",
+      "image": "/assets/graphics/units/Beholder.webp",
       "tier": "3",
       "upgraded": "no",
       "type": "ranged",
@@ -77,6 +82,7 @@
     },
     {
       "name": "Evil Eye",
+      "image": "/assets/graphics/units/EvilEyeIII.webp",
       "tier": "3",
       "upgraded": "yes",
       "type": "ranged",
@@ -92,6 +98,7 @@
     },
     {
       "name": "Medusa",
+      "image": "/assets/graphics/units/MedusaIII.webp",
       "tier": "4",
       "upgraded": "no",
       "type": "ranged",
@@ -107,6 +114,7 @@
     },
     {
       "name": "Medusa Queen",
+      "image": "/assets/graphics/units/MedusaQueen.webp",
       "tier": "4",
       "upgraded": "yes",
       "type": "ranged",
@@ -122,6 +130,7 @@
     },
     {
       "name": "Minotaur",
+      "image": "/assets/graphics/units/MinotaurIII.webp",
       "tier": "5",
       "upgraded": "no",
       "type": "melee",
@@ -137,6 +146,7 @@
     },
     {
       "name": "Minotaur King",
+      "image": "/assets/graphics/units/MinotaurKing.webp",
       "tier": "5",
       "upgraded": "yes",
       "type": "melee",
@@ -152,6 +162,7 @@
     },
     {
       "name": "Manticore",
+      "image": "/assets/graphics/units/ManticoreIII.webp",
       "tier": "6",
       "upgraded": "no",
       "type": "melee",
@@ -167,6 +178,7 @@
     },
     {
       "name": "Scorpicore",
+      "image": "/assets/graphics/units/Scorpicore.webp",
       "tier": "6",
       "upgraded": "yes",
       "type": "melee",
@@ -182,6 +194,7 @@
     },
     {
       "name": "Red Dragon",
+      "image": "/assets/graphics/units/RedDragonIII.webp",
       "tier": "7",
       "upgraded": "no",
       "type": "melee",
@@ -197,6 +210,7 @@
     },
     {
       "name": "Black Dragon",
+      "image": "/assets/graphics/units/BlackDragonIII.webp",
       "tier": "7",
       "upgraded": "yes",
       "type": "melee",
