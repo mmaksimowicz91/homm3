@@ -2,6 +2,7 @@
   "units": [
     {
       "name": "Gnoll",
+      "image": "/assets/graphics/units/Heroes_III_Gnoll.webp",
       "tier": "1",
       "upgraded": "no",
       "type": "melee",
@@ -17,6 +18,7 @@
     },
     {
       "name": "Gnoll Marauder",
+      "image": "/assets/graphics/units/GnollMarauder.webp",
       "tier": "1",
       "upgraded": "yes",
       "type": "melee",
@@ -32,6 +34,7 @@
     },
     {
       "name": "Lizardman",
+      "image": "/assets/graphics/units/Lizardman.webp",
       "tier": "2",
       "upgraded": "no",
       "type": "ranged",
@@ -47,6 +50,7 @@
     },
     {
       "name": "Lizard Warrior",
+      "image": "/assets/graphics/units/LizardWarrior.webp",
       "tier": "2",
       "upgraded": "yes",
       "type": "ranged",
@@ -62,6 +66,7 @@
     },
     {
       "name": "Serpent Fly",
+      "image": "/assets/graphics/units/SerpentFly.webp",
       "tier": "3",
       "upgraded": "no",
       "type": "melee",
@@ -77,6 +82,7 @@
     },
     {
       "name": "Dragon Fly",
+      "image": "/assets/graphics/units/DragonFly.webp",
       "tier": "3",
       "upgraded": "yes",
       "type": "melee",
@@ -92,6 +98,7 @@
     },
     {
       "name": "Basilisk",
+      "image": "/assets/graphics/units/Basilisk.webp",
       "tier": "4",
       "upgraded": "no",
       "type": "melee",
@@ -107,6 +114,7 @@
     },
     {
       "name": "Greater Basilisk",
+      "image": "/assets/graphics/units/GreaterBasilisk.webp",
       "tier": "4",
       "upgraded": "yes",
       "type": "melee",
@@ -122,6 +130,7 @@
     },
     {
       "name": "Gorgon",
+      "image": "/assets/graphics/units/Gorgon.webp",
       "tier": "5",
       "upgraded": "no",
       "type": "melee",
@@ -137,6 +146,7 @@
     },
     {
       "name": "Mighty Gorgon",
+      "image": "/assets/graphics/units/MightyGorgon.webp",
       "tier": "5",
       "upgraded": "yes",
       "type": "melee",
@@ -152,6 +162,7 @@
     },
     {
       "name": "Wyvern",
+      "image": "/assets/graphics/units/Wyvern.webp",
       "tier": "6",
       "upgraded": "no",
       "type": "melee",
@@ -167,6 +178,7 @@
     },
     {
       "name": "Wyvern Monarch",
+      "image": "/assets/graphics/units/WyvernMonarch.webp",
       "tier": "6",
       "upgraded": "yes",
       "type": "melee",
@@ -182,6 +194,7 @@
     },
     {
       "name": "Hydra",
+      "image": "/assets/graphics/units/HydraIII.webp",
       "tier": "7",
       "upgraded": "no",
       "type": "melee",
@@ -197,6 +210,7 @@
     },
     {
       "name": "Chaos Hydra",
+      "image": "/assets/graphics/units/ChaosHydra.webp",
       "tier": "7",
       "upgraded": "yes",
       "type": "melee",

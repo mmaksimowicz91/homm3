@@ -13,6 +13,7 @@ export class NecropolisUnitsComponent implements OnInit {
   dataSource!: MatTableDataSource<Units>;
   displayedColumns: string[] = [
     'name',
+    'image',
     'tier',
     'upgraded',
     'type',

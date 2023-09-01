@@ -2,6 +2,7 @@
   "units": [
     {
       "name": "Centaur",
+      "image": "/assets/graphics/units/Heroes_III_Centaur.webp",
       "tier": "1",
       "upgraded": "no",
       "type": "melee",
@@ -17,6 +18,7 @@
     },
     {
       "name": "Centaur Captain",
+      "image": "/assets/graphics/units/Centaur_captain.webp",
       "tier": "1",
       "upgraded": "yes",
       "type": "melee",
@@ -32,6 +34,7 @@
     },
     {
       "name": "Dwarf",
+      "image": "/assets/graphics/units/Heroes_III_Dwarf.webp",
       "tier": "2",
       "upgraded": "no",
       "type": "melee",
@@ -47,6 +50,7 @@
     },
     {
       "name": "Battle Dwarf",
+      "image": "/assets/graphics/units/Battle_Dwarf.webp",
       "tier": "2",
       "upgraded": "yes",
       "type": "melee",
@@ -62,6 +66,7 @@
     },
     {
       "name": "Wood Elf",
+      "image": "/assets/graphics/units/Wood_elf.webp",
       "tier": "3",
       "upgraded": "no",
       "type": "ranged",
@@ -77,6 +82,7 @@
     },
     {
       "name": "Grand Elf",
+      "image": "/assets/graphics/units/Grand_elf.webp",
       "tier": "3",
       "upgraded": "yes",
       "type": "ranged",
@@ -92,6 +98,7 @@
     },
     {
       "name": "Pegasus",
+      "image": "/assets/graphics/units/Pegasus.webp",
       "tier": "4",
       "upgraded": "no",
       "type": "melee",
@@ -107,6 +114,7 @@
     },
     {
       "name": "Silver Pegasus",
+      "image": "/assets/graphics/units/Silver_Pegasus.webp",
       "tier": "4",
       "upgraded": "yes",
       "type": "melee",
@@ -122,6 +130,7 @@
     },
     {
       "name": "Dendroid Guard",
+      "image": "/assets/graphics/units/Dendroid_Guard.webp",
       "tier": "5",
       "upgraded": "no",
       "type": "melee",
@@ -137,6 +146,7 @@
     },
     {
       "name": "Dendroid Soldier",
+      "image": "/assets/graphics/units/Dendroid_Soldier.webp",
       "tier": "5",
       "upgraded": "yes",
       "type": "melee",
@@ -152,6 +162,7 @@
     },
     {
       "name": "Unicorn",
+      "image": "/assets/graphics/units/Unicorn_III.webp",
       "tier": "6",
       "upgraded": "no",
       "type": "melee",
@@ -167,6 +178,7 @@
     },
     {
       "name": "War Unicorn",
+      "image": "/assets/graphics/units/War_unicorn.webp",
       "tier": "6",
       "upgraded": "yes",
       "type": "melee",
@@ -182,6 +194,7 @@
     },
     {
       "name": "Green Dragon",
+      "image": "/assets/graphics/units/Green_dragon_III.webp",
       "tier": "7",
       "upgraded": "no",
       "type": "melee",
@@ -197,6 +210,7 @@
     },
     {
       "name": "Gold Dragon",
+      "image": "/assets/graphics/units/Gold_dragon.webp",
       "tier": "7",
       "upgraded": "yes",
       "type": "melee",

@@ -1,0 +1,174 @@
+{
+  "spells": [
+    {
+      "name": "Shield",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Shield.webp",
+      "type": "combat",
+      "level": "1",
+      "mana_cost": "5",
+      "basic_level": "One friendly target unit receives 15% less damage from Hand-to-hand combat",
+      "advanced_level": "One friendly target unit receives 30% less damage from Hand-to-hand combat",
+      "expert_level": "All friendly units' receive 30% less damage from Hand-to-hand combat"
+    },
+    {
+      "name": "Slow",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Slow.webp",
+      "type": "combat",
+      "level": "1",
+      "mana_cost": "6",
+      "basic_level": "One enemy target's speed is reduced to 25% of normal",
+      "advanced_level": "One enemy target's speed is reduced to 50% of normal",
+      "expert_level": "All enemy units' speed are reduced to 50% of normal"
+    },
+    {
+      "name": "Stone skin",
+      "icon": "/src/assets/graphics/spells/Heroes_III_StoneSkin.webp",
+      "type": "combat",
+      "level": "1",
+      "mana_cost": "5",
+      "basic_level": "One friendly target's defense rating is increased by three",
+      "advanced_level": "One friendly target's defense rating is increased by six",
+      "expert_level": "All friendly targets' defense rating are increased by six"
+    },
+    {
+      "name": "View Earth",
+      "icon": "/src/assets/graphics/spells/Heroes_III_ViewEarth.webp",
+      "type": "adventure",
+      "level": "1",
+      "mana_cost": "2",
+      "basic_level": "Displays the location of all loose resources on the view world screen",
+      "advanced_level": "Displays the location of all mines and loose resources on the view world screen",
+      "expert_level": "Displays the entire terrain, all mines and loose resources on the view world screen"
+    },
+    {
+      "name": "Death Ripple",
+      "icon": "/src/assets/graphics/spells/Heroes_III_DeathRipple.webp",
+      "type": "combat",
+      "level": "2",
+      "mana_cost": "10",
+      "basic_level": "All non-undead troops take ((Power x 5) + 10) damage",
+      "advanced_level": "All non-undead troops take ((Power x 5) + 20) damage",
+      "expert_level": "All non-undead troops take ((Power x 5) + 30) damage"
+    },
+    {
+      "name": "Quicksand",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Quicksand.webp",
+      "type": "combat",
+      "level": "2",
+      "mana_cost": "8",
+      "basic_level": "Quicksand pits are placed in four random hexes. They are invisible to creatures unless they are on native terrain. Troops stepping on pit hexes have their movement halted for the current round. Once a pit is stepped on, it is revealed to all",
+      "advanced_level": "Same as Basic effect, except that six pits are placed",
+      "expert_level": "Same as Basic efect, except that eight pits are placed"
+    },
+    {
+      "name": "Animate Dead",
+      "icon": "/src/assets/graphics/spells/Heroes_III_AnimateDead.webp",
+      "type": "combat",
+      "level": "3",
+      "mana_cost": "15",
+      "basic_level": "Reanimates ((Power x 50) + 30) health points worth of killed undead creatures in target, allied troop",
+      "advanced_level": "Reanimates ((Power x 50) + 30) health points worth of killed undead creatures in target, allied troop",
+      "expert_level": "Reanimates ((Power x 50) + 160) health points worth of killed undead creatures in target, allied troop"
+    },
+    {
+      "name": "Anti-magic",
+      "icon": "/src/assets/graphics/spells/Heroes_III_AntiMagic.webp",
+      "type": "combat",
+      "level": "3",
+      "mana_cost": "15",
+      "basic_level": "One friendly target unit can only be affected by level 4 or 5 spells",
+      "advanced_level": "One friendly target unit can only be affected by level 4 or 5 spells",
+      "expert_level": "One friendly target unit is immune to spell effects"
+    },
+    {
+      "name": "Earthquake",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Earthquake.webp",
+      "type": "combat",
+      "level": "3",
+      "mana_cost": "520",
+      "basic_level": "Does one point of damage to two, random castle walls during siege combat",
+      "advanced_level": "Does one point of damage to three, random castle walls during siege combat",
+      "expert_level": "Does one point of damage to four, random castle walls during siege combat"
+    },
+    {
+      "name": "Force Field",
+      "icon": "/src/assets/graphics/spells/Heroes_III_ForceField.webp",
+      "type": "combat",
+      "level": "3",
+      "mana_cost": "12",
+      "basic_level": "A two hex wide force wall is created at target hex. Movement through these hexes is blocked",
+      "advanced_level": "Same as Basic effect, except the force wall is three hexes wide",
+      "expert_level": "Same as Advanced effect"
+    },
+    {
+      "name": "Protection From Earth",
+      "icon": "/src/assets/graphics/spells/Heroes_III_ProtectionFromEarth.webp",
+      "type": "combat",
+      "level": "3",
+      "mana_cost": "12",
+      "basic_level": "Damage from Earth Magic spells is reduced by 30% for target, allied troop",
+      "advanced_level": "Damage from Earth Magic spells is reduced by 50% for target, allied troop",
+      "expert_level": "Damage from Earth Magic spells is reduced by 50% for all allied troops"
+    },
+    {
+      "name": "Meteor Shower",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Meteor_Shower.webp",
+      "type": "combat",
+      "level": "4",
+      "mana_cost": "16",
+      "basic_level": "Troops in target hex and adjacent hexes take ((Power x 25) + 25) damage",
+      "advanced_level": "Troops in target hex and adjacent hexes take ((Power x 25) + 50) damage",
+      "expert_level": "Troops in target hex and adjacent hexes take ((Power x 25) + 100) damage"
+    },
+    {
+      "name": "Resurrection",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Resurrection.webp",
+      "type": "combat",
+      "level": "4",
+      "mana_cost": "20",
+      "basic_level": "One friendly target unit with dead creatures has ((Power x 50) + 40) health worth of creatures restored to life for the duration of the current battle",
+      "advanced_level": "Same as Basic effect, except that ((Power x 50) +80) health worth of creatures are restored permanently",
+      "expert_level": "Same as Advanced effect, except that (Power x 50 + 160) health worth of creatures are restored"
+    },
+    {
+      "name": "Sorrow",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Sorrow.webp",
+      "type": "combat",
+      "level": "4",
+      "mana_cost": "16",
+      "basic_level": "One enemy targeted unit's morale rating is reduced by one",
+      "advanced_level": "One enemy targeted unit's morale rating is reduced by two",
+      "expert_level": "All enemy troops' morale ratings are reduced by two"
+    },
+    {
+      "name": "Town Portal",
+      "icon": "/src/assets/graphics/spells/Heroes_III_TownPortal.webp",
+      "type": "adventure",
+      "level": "4",
+      "mana_cost": "16",
+      "basic_level": "Casting hero is teleported to the nearest allied town. 300 movement points are expended when the spell is cast",
+      "advanced_level": "Casting hero may teleport to any allied town with no visiting hero. 300 movement points are expended when the spell is cast",
+      "expert_level": "Same as Advanced effect, except that movement point cost is 200"
+    },
+    {
+      "name": "Implosion",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Implosion.webp",
+      "type": "combat",
+      "level": "5",
+      "mana_cost": "30",
+      "basic_level": "One enemy target unit receives ((Power x 75) + 100) damage",
+      "advanced_level": "One enemy target unit receives ((Power x 75) + 200) damage",
+      "expert_level": "One enemy target unit receives ((Power x 75) + 300) damage"
+    },
+    {
+      "name": "Summon Earth Elemental",
+      "icon": "/src/assets/graphics/spells/Heroes_III_EarthElemental.webp",
+      "type": "combat",
+      "level": "5",
+      "mana_cost": "25",
+      "basic_level": "A troop containing (Power x 2) earth elementals appears on the side of the casting player. Only one type of elemental can be summoned",
+      "advanced_level": "Same as Basic effect, except that (Power x 3) earth elementals are summoned",
+      "expert_level": "Same as Basic effect, except that (Power x 4) earth elementals are summoned"
+    }
+  ]
+}

@@ -2,6 +2,7 @@
   "units": [
     {
       "name": "Goblin",
+      "image": "/assets/graphics/units/Heroes_III_Goblin.webp",
       "tier": "1",
       "upgraded": "no",
       "type": "melee",
@@ -17,6 +18,7 @@
     },
     {
       "name": "Hobgoblin",
+      "image": "/assets/graphics/units/HobgoblinIII.webp",
       "tier": "1",
       "upgraded": "yes",
       "type": "melee",
@@ -32,6 +34,7 @@
     },
     {
       "name": "Wolf Rider",
+      "image": "/assets/graphics/units/WolfRiderIII.webp",
       "tier": "2",
       "upgraded": "no",
       "type": "melee",
@@ -47,6 +50,7 @@
     },
     {
       "name": "Wolf Raider",
+      "image": "/assets/graphics/units/1753787.webp",
       "tier": "2",
       "upgraded": "yes",
       "type": "melee",
@@ -62,6 +66,7 @@
     },
     {
       "name": "Orc",
+      "image": "/assets/graphics/units/OrcsIII.webp",
       "tier": "3",
       "upgraded": "no",
       "type": "ranged",
@@ -77,6 +82,7 @@
     },
     {
       "name": "Orc Chieftain",
+      "image": "/assets/graphics/units/OrcChieftain.webp",
       "tier": "3",
       "upgraded": "yes",
       "type": "ranged",
@@ -92,6 +98,7 @@
     },
     {
       "name": "Ogre",
+      "image": "/assets/graphics/units/OgreIII.webp",
       "tier": "4",
       "upgraded": "no",
       "type": "melee",
@@ -107,6 +114,7 @@
     },
     {
       "name": "Ogre Mage",
+      "image": "/assets/graphics/units/OgreMageIII.webp",
       "tier": "4",
       "upgraded": "yes",
       "type": "melee",
@@ -122,6 +130,7 @@
     },
     {
       "name": "Roc",
+      "image": "/assets/graphics/units/RocIII.webp",
       "tier": "5",
       "upgraded": "no",
       "type": "melee",
@@ -137,6 +146,7 @@
     },
     {
       "name": "Thunderbird",
+      "image": "/assets/graphics/units/ThunderbirdIII.webp",
       "tier": "5",
       "upgraded": "yes",
       "type": "melee",
@@ -152,6 +162,7 @@
     },
     {
       "name": "Cyclops",
+      "image": "/assets/graphics/units/CyclopsIII.webp",
       "tier": "6",
       "upgraded": "no",
       "type": "ranged",
@@ -167,6 +178,7 @@
     },
     {
       "name": "Cyclops King",
+      "image": "/assets/graphics/units/CyclopsKing.webp",
       "tier": "6",
       "upgraded": "yes",
       "type": "ranged",
@@ -182,6 +194,7 @@
     },
     {
       "name": "Behemoth",
+      "image": "/assets/graphics/units/Creature_Behemoth.webp",
       "tier": "7",
       "upgraded": "no",
       "type": "melee",
@@ -197,6 +210,7 @@
     },
     {
       "name": "Ancient Behemoth",
+      "image": "/assets/graphics/units/AncientBehemoth.webp",
       "tier": "7",
       "upgraded": "yes",
       "type": "melee",

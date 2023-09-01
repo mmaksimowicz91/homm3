@@ -2,6 +2,7 @@
   "units": [
     {
       "name": "Imp",
+      "image": "/assets/graphics/units/Heroes_III_Imp.webp",
       "tier": "1",
       "upgraded": "no",
       "type": "melee",
@@ -17,6 +18,7 @@
     },
     {
       "name": "Familiar",
+      "image": "/assets/graphics/units/FamiliarIII.webp",
       "tier": "1",
       "upgraded": "yes",
       "type": "melee",
@@ -32,6 +34,7 @@
     },
     {
       "name": "Gog",
+      "image": "/assets/graphics/units/Heroes_III_Gog.webp",
       "tier": "2",
       "upgraded": "no",
       "type": "ranged",
@@ -47,6 +50,7 @@
     },
     {
       "name": "Magog",
+      "image": "/assets/graphics/units/Magog.webp",
       "tier": "3",
       "upgraded": "yes",
       "type": "ranged",
@@ -62,6 +66,7 @@
     },
     {
       "name": "Hell Hound",
+      "image": "/assets/graphics/units/HellHoundIII.webp",
       "tier": "3",
       "upgraded": "no",
       "type": "melee",
@@ -77,6 +82,7 @@
     },
     {
       "name": "Cerberus",
+      "image": "/assets/graphics/units/CerberusIII.webp",
       "tier": "3",
       "upgraded": "yes",
       "type": "melee",
@@ -92,6 +98,7 @@
     },
     {
       "name": "Demon",
+      "image": "/assets/graphics/units/DemonIII.webp",
       "tier": "4",
       "upgraded": "no",
       "type": "melee",
@@ -107,6 +114,7 @@
     },
     {
       "name": "Horned Demon",
+      "image": "/assets/graphics/units/HornedDemonIII.webp",
       "tier": "4",
       "upgraded": "yes",
       "type": "melee",
@@ -122,6 +130,7 @@
     },
     {
       "name": "Pit Fiend",
+      "image": "/assets/graphics/units/PitFiendIII.webp",
       "tier": "5",
       "upgraded": "no",
       "type": "melee",
@@ -137,6 +146,7 @@
     },
     {
       "name": "Pit Lord",
+      "image": "/assets/graphics/units/PitLordIII.webp",
       "tier": "5",
       "upgraded": "yes",
       "type": "melee",
@@ -152,6 +162,7 @@
     },
     {
       "name": "Efreet",
+      "image": "/assets/graphics/units/EfreetIII.webp",
       "tier": "6",
       "upgraded": "no",
       "type": "melee",
@@ -167,6 +178,7 @@
     },
     {
       "name": "Efreet Sultans",
+      "image": "/assets/graphics/units/EfreetSultan.webp",
       "tier": "6",
       "upgraded": "yes",
       "type": "melee",
@@ -182,6 +194,7 @@
     },
     {
       "name": "Devil",
+      "image": "/assets/graphics/units/Devil.jpg",
       "tier": "7",
       "upgraded": "no",
       "type": "melee",
@@ -197,6 +210,7 @@
     },
     {
       "name": "Archdevil",
+      "image": "/assets/graphics/units/ArchDevilIII.webp",
       "tier": "7",
       "upgraded": "yes",
       "type": "melee",
