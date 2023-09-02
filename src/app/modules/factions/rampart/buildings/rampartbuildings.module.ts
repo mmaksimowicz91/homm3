@@ -1,16 +1,11 @@
 import { NgModule } from '@angular/core';
-import { RouterModule, Routes } from '@angular/router';
+import { CommonModule } from '@angular/common';
 import { RampartBuildingsComponent } from './rampartbuildings.component';
-
-const routes: Routes = [
-  {
-    path: '',
-    component: RampartBuildingsComponent,
-  },
-];
+import { RampartBuildingsRoutingModule } from './rampartbuildings-routing.module';
+import { MatTableModule } from '@angular/material/table';
 
 @NgModule({
-  imports: [RouterModule.forChild(routes)],
-  exports: [RouterModule],
+  declarations: [RampartBuildingsComponent],
+  imports: [CommonModule, RampartBuildingsRoutingModule, MatTableModule],
 })
-export class RampartBuildingsRoutingModule {}
+export class RampartBuildingsModule {}

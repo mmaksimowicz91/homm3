@@ -1,16 +1,10 @@
 import { NgModule } from '@angular/core';
-import { RouterModule, Routes } from '@angular/router';
+import { CommonModule } from '@angular/common';
 import { TowerBuildingsComponent } from './towerbuildings.component';
-
-const routes: Routes = [
-  {
-    path: '',
-    component: TowerBuildingsComponent,
-  },
-];
-
+import { MatTableModule } from '@angular/material/table';
+import { TowerBuildingsRoutingModule } from './towerbuildings-routing.module';
 @NgModule({
-  imports: [RouterModule.forChild(routes)],
-  exports: [RouterModule],
+  declarations: [TowerBuildingsComponent],
+  imports: [CommonModule, TowerBuildingsRoutingModule, MatTableModule],
 })
-export class TowerBuildingsRoutingModule {}
+export class TowerBuildingsModule {}

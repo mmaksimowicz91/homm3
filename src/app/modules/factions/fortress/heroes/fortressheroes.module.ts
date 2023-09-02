@@ -1,16 +1,10 @@
 import { NgModule } from '@angular/core';
-import { RouterModule, Routes } from '@angular/router';
+import { CommonModule } from '@angular/common';
 import { FortressHeroesComponent } from './fortressheroes.component';
-
-const routes: Routes = [
-  {
-    path: '',
-    component: FortressHeroesComponent,
-  },
-];
-
+import { MatTableModule } from '@angular/material/table';
+import { FortressHeroesRoutingModule } from './fortressheroes-routing.module';
 @NgModule({
-  imports: [RouterModule.forChild(routes)],
-  exports: [RouterModule],
+  declarations: [FortressHeroesComponent],
+  imports: [CommonModule, FortressHeroesRoutingModule, MatTableModule],
 })
-export class FortressHeroesRoutingModule {}
+export class FortressHeroesModule {}

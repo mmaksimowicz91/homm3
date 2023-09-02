@@ -1,16 +1,11 @@
 import { NgModule } from '@angular/core';
-import { RouterModule, Routes } from '@angular/router';
+import { CommonModule } from '@angular/common';
 import { NecropolisHeroesComponent } from './necropolisheroes.component';
-
-const routes: Routes = [
-  {
-    path: '',
-    component: NecropolisHeroesComponent,
-  },
-];
+import { NecropolisHeroesRoutingModule } from './necropolisheroes-routing.module';
+import { MatTableModule } from '@angular/material/table';
 
 @NgModule({
-  imports: [RouterModule.forChild(routes)],
-  exports: [RouterModule],
+  declarations: [NecropolisHeroesComponent],
+  imports: [CommonModule, NecropolisHeroesRoutingModule, MatTableModule],
 })
-export class NecropolisHeroesRoutingModule {}
+export class NecropolisHeroesModule {}

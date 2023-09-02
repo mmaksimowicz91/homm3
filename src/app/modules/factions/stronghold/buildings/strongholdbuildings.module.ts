@@ -1,17 +1,10 @@
 import { NgModule } from '@angular/core';
-import { RouterModule, Routes } from '@angular/router';
-
+import { CommonModule } from '@angular/common';
 import { StrongholdBuildingsComponent } from './strongholdbuildings.component';
-
-const routes: Routes = [
-  {
-    path: '',
-    component: StrongholdBuildingsComponent,
-  },
-];
-
+import { MatTableModule } from '@angular/material/table';
+import { StrongholdBuildingsRoutingModule } from './strongholdbuilding-routing.module';
 @NgModule({
-  imports: [RouterModule.forChild(routes)],
-  exports: [RouterModule],
+  declarations: [StrongholdBuildingsComponent],
+  imports: [CommonModule, StrongholdBuildingsRoutingModule, MatTableModule],
 })
-export class StrongholdBuildingsRoutingModule {}
+export class StrongholdBuildingsModule {}

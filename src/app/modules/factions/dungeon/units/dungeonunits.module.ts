@@ -1,16 +1,10 @@
 import { NgModule } from '@angular/core';
-import { RouterModule, Routes } from '@angular/router';
+import { CommonModule } from '@angular/common';
 import { DungeonUnitsComponent } from './dungeonunits.component';
-
-const routes: Routes = [
-  {
-    path: '',
-    component: DungeonUnitsComponent,
-  },
-];
-
+import { MatTableModule } from '@angular/material/table';
+import { DungeonUnitsRoutingModule } from './dungeonunits-routing.module';
 @NgModule({
-  imports: [RouterModule.forChild(routes)],
-  exports: [RouterModule],
+  declarations: [DungeonUnitsComponent],
+  imports: [CommonModule, DungeonUnitsRoutingModule, MatTableModule],
 })
-export class DungeonUnitsRoutingModule {}
+export class DungeonUnitsModule {}

@@ -1,16 +1,11 @@
 import { NgModule } from '@angular/core';
-import { RouterModule, Routes } from '@angular/router';
+import { CommonModule } from '@angular/common';
 import { ConfluxBuildingsComponent } from './confluxbuildings.component';
-
-const routes: Routes = [
-  {
-    path: '',
-    component: ConfluxBuildingsComponent,
-  },
-];
+import { ConfluxBuildingsRoutingModule } from './confluxbuildings-routing.module';
+import { MatTableModule } from '@angular/material/table';
 
 @NgModule({
-  imports: [RouterModule.forChild(routes)],
-  exports: [RouterModule],
+  declarations: [ConfluxBuildingsComponent],
+  imports: [CommonModule, ConfluxBuildingsRoutingModule, MatTableModule],
 })
-export class ConfluxBuildingsRoutingModule {}
+export class ConfluxBuildingsModule {}

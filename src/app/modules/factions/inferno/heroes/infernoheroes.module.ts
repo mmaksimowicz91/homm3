@@ -1,16 +1,11 @@
 import { NgModule } from '@angular/core';
-import { RouterModule, Routes } from '@angular/router';
+import { CommonModule } from '@angular/common';
 import { InfernoHeroesComponent } from './infernoheroes.component';
-
-const routes: Routes = [
-  {
-    path: '',
-    component: InfernoHeroesComponent,
-  },
-];
+import { InfernoHeroesRoutingModule } from './infernoheroes-routing.module';
+import { MatTableModule } from '@angular/material/table';
 
 @NgModule({
-  imports: [RouterModule.forChild(routes)],
-  exports: [RouterModule],
+  declarations: [InfernoHeroesComponent],
+  imports: [CommonModule, InfernoHeroesRoutingModule, MatTableModule],
 })
-export class InfernoHeroesRoutingModule {}
+export class InfernoHeroesModule {}
