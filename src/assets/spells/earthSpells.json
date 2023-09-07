@@ -85,7 +85,7 @@
       "icon": "/src/assets/graphics/spells/Heroes_III_Earthquake.webp",
       "type": "combat",
       "level": "3",
-      "mana_cost": "520",
+      "mana_cost": "20",
       "basic_level": "Does one point of damage to two, random castle walls during siege combat",
       "advanced_level": "Does one point of damage to three, random castle walls during siege combat",
       "expert_level": "Does one point of damage to four, random castle walls during siege combat"

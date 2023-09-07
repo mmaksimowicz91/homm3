@@ -1,0 +1,174 @@
+{
+  "spells": [
+    {
+      "name": "Bless",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Bless.webp",
+      "type": "combat",
+      "level": "1",
+      "mana_cost": "5",
+      "basic_level": "One friendly target unit inflicts maximum damage when it attacks",
+      "advanced_level": "One friendly target unit inflicts maximum damage +1 when it attacks",
+      "expert_level": "All friendly units' inflict maximum damage +1 when they attack"
+    },
+    {
+      "name": "Cure",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Cure.webp",
+      "type": "combat",
+      "level": "1",
+      "mana_cost": "5",
+      "basic_level": "Removes all negative spell effects from target, allied troop and heals it for ((Power x 5) + 10) health points",
+      "advanced_level": "Removes all negative spell effects from target, allied troop and heals it for ((Power x 5) + 20) health points",
+      "expert_level": "Removes all negative spell effects from all allied troops and heals each for ((Power x 5) + 30) health points"
+    },
+    {
+      "name": "Dispel",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Dispel.webp",
+      "type": "combat",
+      "level": "1",
+      "mana_cost": "5",
+      "basic_level": "Removes all spell effects from target, allied creature troop",
+      "advanced_level": "Removes all spell effects from target allied or enemy creature troop",
+      "expert_level": "Removes all spell effects from all creatures on the battlefield"
+    },
+    {
+      "name": "Protection From Water",
+      "icon": "/src/assets/graphics/spells/Heroes_III_ProtectionFromWater.webp",
+      "type": "combat",
+      "level": "1",
+      "mana_cost": "5",
+      "basic_level": "Damage from Water Magic spells is reduced by 30% for target, allied troop",
+      "advanced_level": "Damage from Water Magic spells is reduced by 50% for target, allied troop",
+      "expert_level": "Damage from Water Magic spells is reduced by 50% for all allied troops"
+    },
+    {
+      "name": "Summon Boat",
+      "icon": "/src/assets/graphics/spells/Heroes_III_SummonBoat.webp",
+      "type": "adventure",
+      "level": "1",
+      "mana_cost": "6",
+      "basic_level": "Summons one of your hero's boats to their current location. If none of those boats are available, then one of your other heroes' boats is summoned. Spell has a 50% chance of working. The spell fails if there are no unoccupied boats available",
+      "advanced_level": "Same as Basic effect, except that if no boats are available, a new one is created. The spell has a 75% chance of working. There are a maximum of sixty-four boats allowed on the Adventure Map at one time. The spell fails if all are occupied",
+      "expert_level": "Same as Advanced effect, except that the spell has a 100% chance of working (unless all sixty-four boats are occupied)"
+    },
+    {
+      "name": "Ice Bolt",
+      "icon": "/src/assets/graphics/spells/Heroes_III_IceBolt.webp",
+      "type": "combat",
+      "level": "2",
+      "mana_cost": "8",
+      "basic_level": "One enemy target unit receives ((Power x 20) + 10) damage",
+      "advanced_level": "One enemy target unit receives ((Power x 20) + 20) damage",
+      "expert_level": "One enemy target unit receives ((Power x 20) + 50) damage"
+    },
+    {
+      "name": "Remove Obstacle",
+      "icon": "/src/assets/graphics/spells/Heroes_III_RemoveObstacle.webp",
+      "type": "combat",
+      "level": "2",
+      "mana_cost": "7",
+      "basic_level": "Removes one, non-magic obstacle from the battlefield. Integrated obstacles, such as cliffs are not affected",
+      "advanced_level": "Same as Basic effect, except Fire Walls may also be removed",
+      "expert_level": "Same as Advanced effect, except all, non-integrated obstacles can be removed"
+    },
+    {
+      "name": "Scuttle Boat",
+      "icon": "/src/assets/graphics/spells/Heroes_III_ScuttleBoat.webp",
+      "type": "adventure",
+      "level": "2",
+      "mana_cost": "8",
+      "basic_level": "Spell has 50% chance of destroying a boat, unless occupied",
+      "advanced_level": "Spell has a 75% chance of destroying a boat, unless occupied",
+      "expert_level": "Spell destroys a boat, unless occupied"
+    },
+    {
+      "name": "Weakness",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Weakness.webp",
+      "type": "combat",
+      "level": "2",
+      "mana_cost": "8",
+      "basic_level": "One enemy target unit's attack rating is reduced by three",
+      "advanced_level": "Same as Basic effect, except attack rating is reduced by six",
+      "expert_level": "All enemy units' attack ratings are reduced by six"
+    },
+    {
+      "name": "Forgetfulness",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Forgetfulness.webp",
+      "type": "combat",
+      "level": "3",
+      "mana_cost": "12",
+      "basic_level": "Half of the creatures in target, enemy troop, with ranged attack forget to shoot",
+      "advanced_level": "Target, enemy troop with ranged attack cannot use its ranged attack",
+      "expert_level": "All enemy troops with ranged attacks cannot use their ranged attacks"
+    },
+    {
+      "name": "Frost Ring",
+      "icon": "/src/assets/graphics/spells/Heroes_III_FrostRing.webp",
+      "type": "combat",
+      "level": "3",
+      "mana_cost": "12",
+      "basic_level": "Troops in hexes surrounding target hex receive ((Power x 10) + 15) in damage. Target hex is unaffected",
+      "advanced_level": "Same as Basic effect, except damage is ((Power x 10) + 30)",
+      "expert_level": "Same as Basic effect, except damage is ((Power x 10) + 60)"
+    },
+    {
+      "name": "Mirth",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Mirth.webp",
+      "type": "combat",
+      "level": "3",
+      "mana_cost": "12",
+      "basic_level": "One friendly target unit's morale is increased by one",
+      "advanced_level": "One friendly target unit's morale is increased by two",
+      "expert_level": "All friendly units' morale is increased by two"
+    },
+    {
+      "name": "Teleport",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Teleport.webp",
+      "type": "combat",
+      "level": "3",
+      "mana_cost": "15",
+      "basic_level": "Target, friendly troop instantly moves to an unoccupied target hex. Troop cannot teleport over walls or moats",
+      "advanced_level": "Same as Basic effect, except troop can teleport over walls",
+      "expert_level": "Troop can move to any unoccupied hex"
+    },
+    {
+      "name": "Clone",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Clone.webp",
+      "type": "combat",
+      "level": "4",
+      "mana_cost": "24",
+      "basic_level": "Creates a duplicate of target, friendly troop level 1-5. The duplicate can attack but is dispelled if it receives any damage",
+      "advanced_level": "Same as Basic effect, except the duplicate may be of a level 1-6 troop",
+      "expert_level": "Same as Basic effect, except the duplicate may be of a level 1-7 troop"
+    },
+    {
+      "name": "Prayer",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Prayer.webp",
+      "type": "combat",
+      "level": "4",
+      "mana_cost": "16",
+      "basic_level": "One friendly unit's attack, defense, and speed (hexes per turn) ratings are increased by two",
+      "advanced_level": "One friendly unit's attack, defense, and speed ratings are increased by four",
+      "expert_level": "All friendly units' attack, defense, and speed ratings are increased by four"
+    },
+    {
+      "name": "Water Walk",
+      "icon": "/src/assets/graphics/spells/Heroes_III_WaterWalk.webp",
+      "type": "adventure",
+      "level": "4",
+      "mana_cost": "12",
+      "basic_level": "The casting hero may follow a movement path across water, provided the end destination is an unoccupied location on land. Water movement may be up to 60% of the hero's normal movement",
+      "advanced_level": "Same as Basic effect, except that water movement may be up to 80% of the hero's normal movement",
+      "expert_level": "Same as Basic effect, except that water movement may be made at the hero's full, normal movement"
+    },
+    {
+      "name": "Summon Water Elemental",
+      "icon": "/src/assets/graphics/spells/Heroes_III_WaterElemental.webp",
+      "type": "combat",
+      "level": "5",
+      "mana_cost": "25",
+      "basic_level": "A troop containing (Power x 2) water elementals appears on the side of the casting player. Only one type of elemental can be summoned",
+      "advanced_level": "Same as Basic effect, except that (Power x 3) water elementals are summoned",
+      "expert_level": "Same as Basic effect, except that (Power x 4) water elementals are summoned"
+    }
+  ]
+}

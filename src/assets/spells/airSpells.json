@@ -1,0 +1,204 @@
+{
+  "spells": [
+    {
+      "name": "Haste",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Haste.webp",
+      "type": "combat",
+      "level": "1",
+      "mana_cost": "6",
+      "basic_level": "One friendly target unit's speed is increased by three hexes per turn",
+      "advanced_level": "One friendly target unit's speed is increased by five hexes per turn",
+      "expert_level": "All friendly units' speed is increased by five hexes per turn"
+    },
+    {
+      "name": "Magic Arrow",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Magic_Arrow.webp",
+      "type": "combat",
+      "level": "1",
+      "mana_cost": "5",
+      "basic_level": "One enemy target unit receives ((Power x 10) + 10) damage",
+      "advanced_level": "One enemy target unit receives ((Power x 10) + 20) damage",
+      "expert_level": "One enemy target unit receives ((Power x 10) + 30) damage"
+    },
+    {
+      "name": "View Air",
+      "icon": "/src/assets/graphics/spells/Heroes_III_ViewAir.webp",
+      "type": "adventure",
+      "level": "1",
+      "mana_cost": "2",
+      "basic_level": "Displays the location of all artifacts on the view world screen",
+      "advanced_level": "Displays the location of all artifacts and heroes on the view world screen",
+      "expert_level": "Displays the location of all artifacts, heroes and towns on the view world screen"
+    },
+    {
+      "name": "Disguise",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Disguise.webp",
+      "type": "adventure",
+      "level": "2",
+      "mana_cost": "4",
+      "basic_level": "When the casting hero is right-clicked by opponents, all of the hero's creature troops are displayed as if they were composed of the most powerful creatures in the hero's army. Troop population numbers are represented normally",
+      "advanced_level": "Same as Basic effect except troop population quantities are represented as '0'",
+      "expert_level": "Same as Advanced effect except all troops are represented as if populated by the most powerful creature in hero's longest owned town"
+    },
+    {
+      "name": "Disrupting Ray",
+      "icon": "/src/assets/graphics/spells/Heroes_III_DisruptingRay.webp",
+      "type": "combat",
+      "level": "2",
+      "mana_cost": "10",
+      "basic_level": "Reduces target enemy unit's defense rating by three",
+      "advanced_level": "Same as Basic effect, except defense rating is reduced by four",
+      "expert_level": "Same as Basic effect, except defense rating is reduced by five"
+    },
+    {
+      "name": "Fortune",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Fortune.webp",
+      "type": "combat",
+      "level": "2",
+      "mana_cost": "7",
+      "basic_level": "Increases Luck of target, allied troop by one",
+      "advanced_level": "Increases Luck of target, allied troop by two",
+      "expert_level": "Increases Luck of all allied troops by two"
+    },
+    {
+      "name": "Remove Obstacle",
+      "icon": "/src/assets/graphics/spells/Heroes_III_RemoveObstacle.webp",
+      "type": "combat",
+      "level": "2",
+      "mana_cost": "7",
+      "basic_level": "Removes one, non-magic obstacle from the battlefield. Integrated obstacles, such as cliffs are not affected",
+      "advanced_level": "Same as Basic effect, except Fire Walls may also be removed",
+      "expert_level": "Same as Advanced effect, except all, non-integrated obstacles can be removed"
+    },
+    {
+      "name": "Lightning",
+      "icon": "/src/assets/graphics/spells/Heroes_III_LightningBolt.webp",
+      "type": "combat",
+      "level": "2",
+      "mana_cost": "10",
+      "basic_level": "Enemy creature receives ((Power x 25) + 10) damage",
+      "advanced_level": "Enemy creature receives ((Power x 25) + 20) damage",
+      "expert_level": "Enemy creature receives ((Power x 25) + 50) damage"
+    },
+    {
+      "name": "Precision",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Precision.webp",
+      "type": "combat",
+      "level": "2",
+      "mana_cost": "8",
+      "basic_level": "One friendly troop receives a +3 attack rating bonus for ranged attacks",
+      "advanced_level": "One friendly troop receives a +6 attack rating bonus for ranged attacks",
+      "expert_level": "All friendly ranged troops receive a +6 attack rating bonus for ranged attacks"
+    },
+    {
+      "name": "Protection From Air",
+      "icon": "/src/assets/graphics/spells/Heroes_III_ProtectionFromAir.webp",
+      "type": "combat",
+      "level": "2",
+      "mana_cost": "7",
+      "basic_level": "Damage from Air Magic spells is reduced by 30% for target, allied troop",
+      "advanced_level": "Damage from Air Magic spells is reduced by 50% for target, allied troop",
+      "expert_level": "Damage from Air Magic spells is reduced by 50% for all allied troops"
+    },
+    {
+      "name": "Visions",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Visions.webp",
+      "type": "adventure",
+      "level": "2",
+      "mana_cost": "4",
+      "basic_level": "Displays number of monsters in a wandering monster troop and whether or not the troop will offer to join the casting hero's army. Range is equal to Power or three, whichever is greater",
+      "advanced_level": "Same as Basic effect, except an enemy hero's primary skill stats, and the composition and quantity of the hero’s army can be viewed. Range is (Power x 2) or three, whichever is greater",
+      "expert_level": "Same as Advanced effect, except an enemy town's statistics and garrison composition and quantity may be viewed. Range is (Power x 3) or three, whichever is greater"
+    },
+    {
+      "name": "Air Shield",
+      "icon": "/src/assets/graphics/spells/Heroes_III_AirShield.webp",
+      "type": "combat",
+      "level": "3",
+      "mana_cost": "12",
+      "basic_level": "One friendly target unit takes 25% less damage from ranged attacks",
+      "advanced_level": "One friendly target unit takes 50% less damage from ranged attacks",
+      "expert_level": "All friendly troops take 50% less damage from ranged attacks"
+    },
+    {
+      "name": "Destroy Undead",
+      "icon": "/src/assets/graphics/spells/Heroes_III_DestroyUndead.webp",
+      "type": "combat",
+      "level": "3",
+      "mana_cost": "15",
+      "basic_level": "All undead creature troops receive ((Power x 10) + 10) damage",
+      "advanced_level": "All undead creature troops receive ((Power x 10) + 20) damage",
+      "expert_level": "All undead creature troops receive ((Power x 10) + 50) damage"
+    },
+    {
+      "name": "Hypnotize",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Hypnotize.webp",
+      "type": "combat",
+      "level": "3",
+      "mana_cost": "18",
+      "basic_level": "One enemy target unit of less than ((Power x 25) + 10) Health is put under your control. Allied troops may attack hypnotized troop without fear of retaliation",
+      "advanced_level": "One enemy target unit of less than ((Power x 25) + 20) Health is put under your control. Allied troops may attack hypnotized troop without fear of retaliation",
+      "expert_level": "One enemy target unit of less than ((Power x 25) + 50) Health is put under your control. Allied troops may attack hypnotized troop without fear of retaliation"
+    },
+    {
+      "name": "Chain Lightning",
+      "icon": "/src/assets/graphics/spells/Heroes_III_ChainLightning.webp",
+      "type": "combat",
+      "level": "4",
+      "mana_cost": "24",
+      "basic_level": "Lightning bolt strikes target troop for ((Power x 40) + 25) damage. Bolt then strikes closest troop for half the damage. Effect continues until 4 troops are hit",
+      "advanced_level": "Like Basic effect except that initial strike does ((Power x 40) + 50) damage, and bolt strikes five troops",
+      "expert_level": "Like Advanced effect except that initial strike does ((Power x 40) +100) damage"
+    },
+    {
+      "name": "Counterstrike",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Counterstrike.webp",
+      "type": "combat",
+      "level": "4",
+      "mana_cost": "24",
+      "basic_level": "One friendly target unit can retaliate against one additional attack per round",
+      "advanced_level": "One friendly target unit can retaliate against two additional attacks per round",
+      "expert_level": "All friendly troops can retaliate against two additional attacks per round"
+    },
+    {
+      "name": "Dimension Door",
+      "icon": "/src/assets/graphics/spells/Heroes_III_DimensionDoor.webp",
+      "type": "adventure",
+      "level": "5",
+      "mana_cost": "25",
+      "basic_level": "Teleports hero to target, unoccupied, location that is visible on the Adventure Map with the hero centered. Spell may be cast twice per day and reduces the hero’s movement by three tiles for each casting. If movement is reduced to zero, the spell may not be cast",
+      "advanced_level": "Same as Basic Effect, except the spell may be cast three times in a day",
+      "expert_level": "Same as Advanced Effect, except the spell may be cast four times in a day, and movement allowance is reduced by two tiles"
+    },
+    {
+      "name": "Fly",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Fly.webp",
+      "type": "adventure",
+      "level": "5",
+      "mana_cost": "20",
+      "basic_level": "Casting hero can fly over terrain obstacles to an unoccupied map location. Distance traveled may be up to 60% of normal movement",
+      "advanced_level": "Same as Basic effect, except the hero may fly up to 80% of normal movement",
+      "expert_level": "Same as Basic effect, except the hero may fly up to 100% of normal movement"
+    },
+    {
+      "name": "Magic Mirror",
+      "icon": "/src/assets/graphics/spells/Heroes_III_MagicMirror.webp",
+      "type": "combat",
+      "level": "5",
+      "mana_cost": "25",
+      "basic_level": "One friendly target unit has a 20% chance of redirecting a hostile spell to a random enemy troop",
+      "advanced_level": "One friendly target unit has a 30% chance of redirecting a hostile spell to a random enemy troop",
+      "expert_level": "One friendly target unit has a 40% chance of redirecting a hostile spell to a random enemy troop"
+    },
+    {
+      "name": "Summon Air Elemental",
+      "icon": "/src/assets/graphics/spells/Heroes_III_AirElemental.webp",
+      "type": "combat",
+      "level": "5",
+      "mana_cost": "25",
+      "basic_level": "A troop containing (Power x 2) air elementals appears on the side of the casting player. Only one type of elemental can be summoned",
+      "advanced_level": "Same as Basic effect, except that (Power x 3) air elementals are summoned",
+      "expert_level": "Same as Basic effect, except that (Power x 4) air elementals are summoned"
+    }
+  ]
+}

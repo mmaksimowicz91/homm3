@@ -1,0 +1,164 @@
+{
+  "spells": [
+    {
+      "name": "Bloodlust",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Bloodlust.webp",
+      "type": "combat",
+      "level": "1",
+      "mana_cost": "5",
+      "basic_level": "One friendly target unit receives a +3 attack rating bonus for hand-to-hand attacks",
+      "advanced_level": "One friendly target unit receives a +6 attack rating bonus for hand-to-hand attacks",
+      "expert_level": "All friendly units receives a +6 attack rating bonus for hand-to-hand attacks"
+    },
+    {
+      "name": "Curse",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Curse.webp",
+      "type": "combat",
+      "level": "1",
+      "mana_cost": "6",
+      "basic_level": "One enemy target unit inflicts minimum damage when it attacks",
+      "advanced_level": "One enemy target unit inflicts ((80% of their minimum damage) - 1) when it attacks",
+      "expert_level": "All enemy units inflict ((80% of their minimum damage) - 1) when they attack"
+    },
+    {
+      "name": "Protection From Fire",
+      "icon": "/src/assets/graphics/spells/Heroes_III_ProtectionFromFire.webp",
+      "type": "combat",
+      "level": "1",
+      "mana_cost": "5",
+      "basic_level": "Damage from Fire Magic spells is reduced by 30% for target, allied troop",
+      "advanced_level": "Damage from Fire Magic spells is reduced by 50% for target, allied troop",
+      "expert_level": "Damage from Fire Magic spells is reduced by 50% for all allied troops"
+    },
+    {
+      "name": "Blind",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Blind.webp",
+      "type": "combat",
+      "level": "2",
+      "mana_cost": "10",
+      "basic_level": "One enemy target unit is frozen until they are attacked. Deactivating attack is retaliated at 50% of base attack rating",
+      "advanced_level": "One enemy target unit is frozen until they are attacked. Deactivating attack is retaliated at 25% of base attack rating",
+      "expert_level": "One enemy target unit is frozen until they are attacked. Deactivating attack is not retaliated"
+    },
+    {
+      "name": "Fire Wall",
+      "icon": "/src/assets/graphics/spells/Heroes_III_FireWall.webp",
+      "type": "combat",
+      "level": "2",
+      "mana_cost": "8",
+      "basic_level": "A two hex wide wall of fire is produced at target hex. A troop passing through these hexes takes ((Power x 10) + 10) damage",
+      "advanced_level": "Same as Basic effect, except that wall of fire is three hexes wide and damage is ((Power x 10) +20)",
+      "expert_level": "Same as Advanced effect, except that damage is ((Power x 10) + 50)"
+    },
+    {
+      "name": "Fireball",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Fireball.webp",
+      "type": "combat",
+      "level": "3",
+      "mana_cost": "15",
+      "basic_level": "Troops in target hex and its surrounding hexes take ((Power x 10) + 15) damage",
+      "advanced_level": "Same as Basic effect, except that damage is ((Power x 10) + 30)",
+      "expert_level": "Same as Basic effect, except that damage is ((Power x 10) + 60)"
+    },
+    {
+      "name": "Land Mine",
+      "icon": "/src/assets/graphics/spells/Heroes_III_LandMine.webp",
+      "type": "combat",
+      "level": "3",
+      "mana_cost": "18",
+      "basic_level": "Landmines are placed in four random hexes on the battlefield. A troop stepping on a mine takes ((Power x 10) + 25) damage. Enemy creatures battling on their native terrain can see the mines and can cross them safely. To all others they are invisible",
+      "advanced_level": "Same as Basic effect, except that six mines are placed, and damage is ((Power x 10) + 50)",
+      "expert_level": "Same as Basic effect, except that six mines are placed, and damage is ((Power x 10) + 100)"
+    },
+    {
+      "name": "Misfortune",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Misfortune.webp",
+      "type": "combat",
+      "level": "3",
+      "mana_cost": "12",
+      "basic_level": "One enemy target unit's luck rating is reduced by one",
+      "advanced_level": "One enemy target unit's luck rating is reduced by two",
+      "expert_level": "All enemy units' luck rating are reduced by two"
+    },
+    {
+      "name": "Armageddon",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Armageddon.webp",
+      "type": "combat",
+      "level": "4",
+      "mana_cost": "24",
+      "basic_level": "All troops take ((Power x 50) + 30) points of damage",
+      "advanced_level": "All troops take ((Power x 50) + 60) points of damage",
+      "expert_level": "All troops take ((Power x 50) + 120) points of damage"
+    },
+    {
+      "name": "Berserk",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Berserk.webp",
+      "type": "combat",
+      "level": "4",
+      "mana_cost": "20",
+      "basic_level": "Target attacks nearest troop. All creatures in a 1 hex radius affected",
+      "advanced_level": "Target attacks nearest troop. All creatures in a 2 hex radius (7 hexes total) affected",
+      "expert_level": "Target attacks nearest troop. All creatures in a 3 hex radius (19 hexes total) affected"
+    },
+    {
+      "name": "Fire Shield",
+      "icon": "/src/assets/graphics/spells/Heroes_III_FireShield.webp",
+      "type": "combat",
+      "level": "4",
+      "mana_cost": "16",
+      "basic_level": "20% of hand-to-hand damage inflicted on target, allied troop is counter-inflicted on attackers of the troop",
+      "advanced_level": "Same as Basic effect except that 25% of damage is counter-inflicted",
+      "expert_level": "Same as Basic effect except that 30% of damage is counter-inflicted"
+    },
+    {
+      "name": "Frenzy",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Frenzy.webp",
+      "type": "combat",
+      "level": "4",
+      "mana_cost": "16",
+      "basic_level": "One friendly unit's attack rating is increased by 100% of the troop's defense rating, and its defense rating is reduced to zero",
+      "advanced_level": "Same as Basic effect, except attack rating is increased to 150% of the troop's defense rating",
+      "expert_level": "Same as Advanced effect, except attack rating is increased to 200% of the troop's defense rating"
+    },
+    {
+      "name": "Inferno",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Inferno.webp",
+      "type": "combat",
+      "level": "4",
+      "mana_cost": "16",
+      "basic_level": "Strikes target hex, and all hexes within two hexes for ((Power x 10) + 20) damage",
+      "advanced_level": "Same as Basic effect, except that damage is ((Power x 10) + 40)",
+      "expert_level": "Same as Basic effect, except that damage is ((Power x 10) + 80)"
+    },
+    {
+      "name": "Slayer",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Slayer.webp",
+      "type": "combat",
+      "level": "4",
+      "mana_cost": "16",
+      "basic_level": "One friendly target unit's attack rating is increased by eight against behemoths, dragons, and hydras",
+      "advanced_level": "Same as Basic effect, except that attack bonus also affects devils and angels",
+      "expert_level": "Same as Advanced effect, except attack bonus also affects titans"
+    },
+    {
+      "name": "Sacrifice",
+      "icon": "/src/assets/graphics/spells/Heroes_III_Sacrifice.webp",
+      "type": "combat",
+      "level": "5",
+      "mana_cost": "25",
+      "basic_level": "Target, non-undead troop is sacrificed (destroyed). Then another target troop has ((Power + destroyed unit's creature base Health + 3) x # of creatures sacrificed) in health total of creatures returned to life",
+      "advanced_level": "Same as Basic effect, except that health total of creatures resurrected is ((Power + destroyed unit's creature base Health + 6) x # of creatures sacrificed)",
+      "expert_level": "Same as Basic effect, except that health total of creatures resurrected is ((Power + destroyed unit's creature base Health + 10) x # of creatures sacrificed)"
+    },
+    {
+      "name": "Summon Fire Elemental",
+      "icon": "/src/assets/graphics/spells/Heroes_III_FireElemental.webp",
+      "type": "combat",
+      "level": "5",
+      "mana_cost": "25",
+      "basic_level": "A troop containing (Power x 2) fire elementals appears on the side of the casting player. Only one type of elemental can be summoned",
+      "advanced_level": "Same as Basic effect, except that (Power x 3) fire elementals are summoned",
+      "expert_level": "Same as Basic effect, except that (Power x 4) fire elementals are summoned"
+    }
+  ]
+}
