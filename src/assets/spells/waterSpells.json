@@ -2,7 +2,7 @@
   "spells": [
     {
       "name": "Bless",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Bless.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Bless.webp",
       "type": "combat",
       "level": "1",
       "mana_cost": "5",
@@ -12,7 +12,7 @@
     },
     {
       "name": "Cure",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Cure.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Cure.webp",
       "type": "combat",
       "level": "1",
       "mana_cost": "5",
@@ -22,7 +22,7 @@
     },
     {
       "name": "Dispel",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Dispel.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Dispel.webp",
       "type": "combat",
       "level": "1",
       "mana_cost": "5",
@@ -32,7 +32,7 @@
     },
     {
       "name": "Protection From Water",
-      "icon": "/src/assets/graphics/spells/Heroes_III_ProtectionFromWater.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_ProtectionFromWater.webp",
       "type": "combat",
       "level": "1",
       "mana_cost": "5",
@@ -42,7 +42,7 @@
     },
     {
       "name": "Summon Boat",
-      "icon": "/src/assets/graphics/spells/Heroes_III_SummonBoat.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_SummonBoat.webp",
       "type": "adventure",
       "level": "1",
       "mana_cost": "6",
@@ -52,7 +52,7 @@
     },
     {
       "name": "Ice Bolt",
-      "icon": "/src/assets/graphics/spells/Heroes_III_IceBolt.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_IceBolt.webp",
       "type": "combat",
       "level": "2",
       "mana_cost": "8",
@@ -62,7 +62,7 @@
     },
     {
       "name": "Remove Obstacle",
-      "icon": "/src/assets/graphics/spells/Heroes_III_RemoveObstacle.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_RemoveObstacle.webp",
       "type": "combat",
       "level": "2",
       "mana_cost": "7",
@@ -72,7 +72,7 @@
     },
     {
       "name": "Scuttle Boat",
-      "icon": "/src/assets/graphics/spells/Heroes_III_ScuttleBoat.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_ScuttleBoat.webp",
       "type": "adventure",
       "level": "2",
       "mana_cost": "8",
@@ -82,7 +82,7 @@
     },
     {
       "name": "Weakness",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Weakness.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Weakness.webp",
       "type": "combat",
       "level": "2",
       "mana_cost": "8",
@@ -92,7 +92,7 @@
     },
     {
       "name": "Forgetfulness",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Forgetfulness.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Forgetfulness.webp",
       "type": "combat",
       "level": "3",
       "mana_cost": "12",
@@ -102,7 +102,7 @@
     },
     {
       "name": "Frost Ring",
-      "icon": "/src/assets/graphics/spells/Heroes_III_FrostRing.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_FrostRing.webp",
       "type": "combat",
       "level": "3",
       "mana_cost": "12",
@@ -112,7 +112,7 @@
     },
     {
       "name": "Mirth",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Mirth.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Mirth.webp",
       "type": "combat",
       "level": "3",
       "mana_cost": "12",
@@ -122,7 +122,7 @@
     },
     {
       "name": "Teleport",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Teleport.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Teleport.webp",
       "type": "combat",
       "level": "3",
       "mana_cost": "15",
@@ -132,7 +132,7 @@
     },
     {
       "name": "Clone",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Clone.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Clone.webp",
       "type": "combat",
       "level": "4",
       "mana_cost": "24",
@@ -142,7 +142,7 @@
     },
     {
       "name": "Prayer",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Prayer.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Prayer.webp",
       "type": "combat",
       "level": "4",
       "mana_cost": "16",
@@ -152,7 +152,7 @@
     },
     {
       "name": "Water Walk",
-      "icon": "/src/assets/graphics/spells/Heroes_III_WaterWalk.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_WaterWalk.webp",
       "type": "adventure",
       "level": "4",
       "mana_cost": "12",
@@ -162,7 +162,7 @@
     },
     {
       "name": "Summon Water Elemental",
-      "icon": "/src/assets/graphics/spells/Heroes_III_WaterElemental.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_WaterElemental.webp",
       "type": "combat",
       "level": "5",
       "mana_cost": "25",

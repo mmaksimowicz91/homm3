@@ -1,12 +1,7 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { FactionsComponent } from './factions.component';
-import { FortressComponent } from './fortress/fortress.component';
-import { InfernoComponent } from './inferno/inferno.component';
-import { NecropolisComponent } from './necropolis/necropolis.component';
-import { RampartComponent } from './rampart/rampart.component';
-import { StrongholdComponent } from './stronghold/stronghold.component';
-import { TowerComponent } from './tower/tower.component';
+
 const routes: Routes = [
   {
     path: '',

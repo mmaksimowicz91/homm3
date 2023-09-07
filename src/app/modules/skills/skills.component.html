@@ -1,0 +1,56 @@
+<h1>Skills</h1>
+<div class="mat-elevation-z8" *ngIf="dataSource">
+  <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
+    <ng-container matColumnDef="name">
+      <th mat-header-cell *matHeaderCellDef>Name</th>
+      <td mat-cell *matCellDef="let skills">
+        {{ skills.name }}
+      </td>
+    </ng-container>
+
+    <ng-container matColumnDef="description">
+      <th mat-header-cell *matHeaderCellDef>Description</th>
+      <td mat-cell *matCellDef="let skills">{{ skills.description }}</td>
+    </ng-container>
+
+    <ng-container matColumnDef="basic_icon">
+      <th mat-header-cell *matHeaderCellDef>Basic Icon</th>
+      <td mat-cell *matCellDef="let skills">
+        <img [src]="skills.basic_icon" />
+      </td>
+    </ng-container>
+
+    <ng-container matColumnDef="basic_description">
+      <th mat-header-cell *matHeaderCellDef>Basic</th>
+      <td mat-cell *matCellDef="let skills">{{ skills.basic_description }}</td>
+    </ng-container>
+
+    <ng-container matColumnDef="advanced_icon">
+      <th mat-header-cell *matHeaderCellDef>Advanced Icon</th>
+      <td mat-cell *matCellDef="let skills">
+        <img [src]="skills.advanced_icon" />
+      </td>
+    </ng-container>
+
+    <ng-container matColumnDef="advanced_description">
+      <th mat-header-cell *matHeaderCellDef>Advanced</th>
+      <td mat-cell *matCellDef="let skills">
+        {{ skills.advanced_description }}
+      </td>
+    </ng-container>
+
+    <ng-container matColumnDef="expert_icon">
+      <th mat-header-cell *matHeaderCellDef>Expert Icon</th>
+      <td mat-cell *matCellDef="let skills">
+        <img [src]="skills.expert_icon" />
+      </td>
+    </ng-container>
+    <ng-container matColumnDef="expert_description">
+      <th mat-header-cell *matHeaderCellDef>Expert Description</th>
+      <td mat-cell *matCellDef="let skills">{{ skills.expert_description }}</td>
+    </ng-container>
+
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns"></tr>
+  </table>
+</div>

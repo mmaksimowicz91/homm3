@@ -19,6 +19,16 @@ const routes: Routes = [
         (m) => m.FactionsModule
       ),
   },
+  {
+    path: 'spells',
+    loadChildren: () =>
+      import('./modules/spells/spells.module').then((m) => m.SpellsModule),
+  },
+  {
+    path: 'skills',
+    loadChildren: () =>
+      import('./modules/skills/skills.module').then((m) => m.SkillsModule),
+  },
 ];
 
 @NgModule({

@@ -1,0 +1,284 @@
+{
+  "skills": [
+    {
+      "name": "Air Magic",
+      "description": "Air Magic is one of the four schools of magic. It increases the effectiveness and lowers the cost of Air Magic spells",
+      "basic_icon": "/assets/graphics/skills/Heroes_III_AirMagicBasic.webp",
+      "basic_description": "Basic Air Magic lowers the cost of Air Magic spells: First level spells have their cost lowered by one spell point, second level spells have their cost lowered by two spell points, and so on. It also increases their effectiveness",
+      "advanced_icon": "/assets/graphics/skills/Heroes_III_AirMagicAdvanced.webp",
+      "advanced_description": "Advanced Air Magic increases the effectiveness of Air Magic spells even more",
+      "expert_icon": "/assets/graphics/skills/Heroes_III_AirMagicExpert.webp",
+      "expert_description": "Expert Air Magic increases the effectiveness of Air Magic spells (H3) to the highest level"
+    },
+    {
+      "name": "Archery",
+      "description": "Archery gives support to ranged units",
+      "basic_icon": "/assets/graphics/skills/Heroes_III_ArcheryBasic.webp",
+      "basic_description": "Basic Archery gives +10% damage",
+      "advanced_icon": "/assets/graphics/skills/Heroes_III_ArcheryAdvanced.webp",
+      "advanced_description": "Advanced Archery gives +25% damage",
+      "expert_icon": "/assets/graphics/skills/Heroes_III_ArcheryExpert.webp",
+      "expert_description": "Expert Archery gives +50% damage"
+    },
+    {
+      "name": "Armorer",
+      "description": "It reduces the amount of damage received by the hero's troops in combat",
+      "basic_icon": "/assets/graphics/skills/Heroes_III_ArmorerBasic.webp",
+      "basic_description": "Basic Armorer reduces damage by 5%",
+      "advanced_icon": "/assets/graphics/skills/Heroes_III_ArmorerAdvanced.webp",
+      "advanced_description": "Advanced Armorer reduces damage by 10%",
+      "expert_icon": "/assets/graphics/skills/Heroes_III_ArmorerExpert.webp",
+      "expert_description": "Expert Armorer reduces damage by 15%"
+    },
+    {
+      "name": "Artillery",
+      "description": "It gives the hero manual control over their ballista, increases its number of shots per round to two, and increases the ballista's chance for dealing double damage. During sieges, the skill allows the defending hero to control the shooting towers",
+      "basic_icon": "/assets/graphics/skills/Heroes_III_ArtilleryBasic.webp",
+      "basic_description": "Basic Artillery gives ballista shots a 50% chance of dealing double damage",
+      "advanced_icon": "/assets/graphics/skills/Heroes_III_ArtilleryAdvanced.webp",
+      "advanced_description": "Advanced Artillery gives ballista shots a 75% chance of dealing double damage",
+      "expert_icon": "/assets/graphics/skills/Heroes_III_ArtilleryExpert.webp",
+      "expert_description": "Expert Artillery gives ballista shots a 100% chance of dealing double damage"
+    },
+    {
+      "name": "Ballistics",
+      "description": "Ballistics improves the catapult's accuracy, damage and the number of shots",
+      "basic_icon": "/assets/graphics/skills/Heroes_III_BallisticsBasic.webp",
+      "basic_description": "Basic Ballistics provides one shot with a 60% chance to hit the intended target wall. Chances to inflict maximum damage are 50%. Until all siege walls are destroyed, chances to hit arrow towers or the drawbridge is less than 60%",
+      "advanced_icon": "/assets/graphics/skills/Heroes_III_BallisticsAdvanced.webp",
+      "advanced_description": "Advanced Ballistics gives the same effects as basic, except the Catapult can lob two shots",
+      "expert_icon": "/assets/graphics/skills/Heroes_III_BallisticsExpert.webp",
+      "expert_description": "Expert Ballistics provides two shots for maximum damage, each with a 75% chance to hit the intended target wall. Until all siege walls are destroyed, chances to hit arrow towers or the drawbridge is less than 75%"
+    },
+    {
+      "name": "Diplomacy",
+      "description": "Diplomacy increases the chances of neutral creatures joining the hero. It also decreases the cost of surrendering",
+      "basic_icon": "/assets/graphics/skills/Heroes_III_DiplomacyBasic.webp",
+      "basic_description": "Basic Diplomacy: 25% of creatures normally fleeing from your army offer to join. Cost of surrendering is reduced by 20%",
+      "advanced_icon": "/assets/graphics/skills/Heroes_III_DiplomacyAdvanced.webp",
+      "advanced_description": "Advanced Diplomacy: 50% of creatures normally fleeing from your army offer to join. Cost of surrendering is reduced by 40%",
+      "expert_icon": "/assets/graphics/skills/Heroes_III_DiplomacyExpert.webp",
+      "expert_description": "Expert Diplomacy: All creatures normally fleeing from your army offer to join. Cost of surrendering is reduced by 60%"
+    },
+    {
+      "name": "Eagle Eye",
+      "description": "Eagle Eye lets the hero learn a spell cast by the enemy in battle",
+      "basic_icon": "/assets/graphics/skills/Heroes_III_EagleEyeBasic.webp",
+      "basic_description": "Basic Eagle Eye gives the hero a 40% chance to learn spells of second level or below",
+      "advanced_icon": "/assets/graphics/skills/Heroes_III_EagleEyeAdvanced.webp",
+      "advanced_description": "Advanced Eagle Eye gives the hero a 50% chance to learn spells of third level or below",
+      "expert_icon": "/assets/graphics/skills/Heroes_III_EagleEyeExpert.webp",
+      "expert_description": "Expert Eagle Eye gives the hero a 60% chance to learn spells of fourth level or below"
+    },
+    {
+      "name": "Earth Magic",
+      "description": "Earth Magic is one of the four schools of magic. It increases the effectiveness and lowers the cost of Earth Magic spells",
+      "basic_icon": "/assets/graphics/skills/Heroes_III_EarthMagicBasic.webp",
+      "basic_description": "Basic Earth Magic lowers the cost of Earth Magic spells: First level spells have their cost lowered by one spell point, second level spells have their cost lowered by two spell points, and so on. It also increases their effectiveness",
+      "advanced_icon": "/assets/graphics/skills/Heroes_III_EarthMagicAdvanced.webp",
+      "advanced_description": "Advanced Earth Magic increases the effectiveness of Earth Magic spells even more",
+      "expert_icon": "/assets/graphics/skills/Heroes_III_EarthMagicExpert.webp",
+      "expert_description": "Expert Earth Magic increases the effectiveness of Earth Magic spells to the highest level"
+    },
+    {
+      "name": "Estates",
+      "description": "Estates gives additional gold per day",
+      "basic_icon": "/assets/graphics/skills/Heroes_III_EstatesBasic.webp",
+      "basic_description": "Basic Estates gives 125 gold per day",
+      "advanced_icon": "/assets/graphics/skills/Heroes_III_EstatesAdvanced.webp",
+      "advanced_description": "Advanced Estates gives 250 gold per day",
+      "expert_icon": "/assets/graphics/skills/Heroes_III_EstatesExpert.webp",
+      "expert_description": "Expert Estates gives 500 gold per day"
+    },
+    {
+      "name": "Fire Magic",
+      "description": "Fire Magic is one of the four schools of magic. It increases the effectiveness and lowers the cost of Fire Magic spells",
+      "basic_icon": "/assets/graphics/skills/Heroes_III_FireMagicBasic.webp",
+      "basic_description": "Basic Fire Magic lowers the cost of Fire Magic spells: First level spells have their cost lowered by one spell point, second level spells have their cost lowered by two spell points, and so on. It also increases their effectiveness",
+      "advanced_icon": "/assets/graphics/skills/Heroes_III_FireMagicAdvanced.webp",
+      "advanced_description": "Advanced Fire Magic increases the effectiveness of Fire Magic spells even more",
+      "expert_icon": "/assets/graphics/skills/Heroes_III_FireMagicExpert.webp",
+      "expert_description": "Expert Fire Magic increases the effectiveness of Fire Magic spells to the highest level"
+    },
+    {
+      "name": "First Aid",
+      "description": "First Aid skill supports the first aid tent, to increase its healing power",
+      "basic_icon": "/assets/graphics/skills/Heroes_III_FirstAidBasic.webp",
+      "basic_description": "Basic First Aid regenerates up to 50 health points of the top creature in a troop",
+      "advanced_icon": "/assets/graphics/skills/Heroes_III_FirstAidAdvanced.webp",
+      "advanced_description": "Advanced First Aid regenerates up to 75 health points of the top creature in a troop",
+      "expert_icon": "/assets/graphics/skills/Heroes_III_FirstAidExpert.webp",
+      "expert_description": "Expert First Aid regenerates up to 100 health points of the top creature in a troop"
+    },
+    {
+      "name": "Intelligence",
+      "description": "The hero raises their spell point value, multiplied by the number of Knowledge",
+      "basic_icon": "/assets/graphics/skills/Heroes_III_IntelligenceBasic.webp",
+      "basic_description": "Basic Intelligence increases maximum spell points by 25%",
+      "advanced_icon": "/assets/graphics/skills/Heroes_III_IntelligenceAdvanced.webp",
+      "advanced_description": "Advanced Intelligence increases maximum spell points by 50%",
+      "expert_icon": "/assets/graphics/skills/Heroes_III_IntelligenceExpert.webp",
+      "expert_description": "Expert Intelligence doubles maximum spell points"
+    },
+    {
+      "name": "Leadership",
+      "description": "The hero gives a morale bonus to their units",
+      "basic_icon": "/assets/graphics/skills/Heroes_III_LeadershipBasic.webp",
+      "basic_description": "Basic Leadership gives +1 morale",
+      "advanced_icon": "/assets/graphics/skills/Heroes_III_LeadershipAdvanced.webp",
+      "advanced_description": "Advanced Leadership gives +2 morale",
+      "expert_icon": "/assets/graphics/skills/Heroes_III_LeadershipExpert.webp",
+      "expert_description": "Expert Leadership gives +3 morale"
+    },
+    {
+      "name": "Learning",
+      "description": "Learning gives the hero an experience bonus",
+      "basic_icon": "/assets/graphics/skills/Heroes_III_LearningBasic.webp",
+      "basic_description": "Basic Learning gives 5% experience bonus",
+      "advanced_icon": "/assets/graphics/skills/Heroes_III_LearningAdvanced.webp",
+      "advanced_description": "Advanced Learning gives 10% experience bonus",
+      "expert_icon": "/assets/graphics/skills/Heroes_III_LearningExpert.webp",
+      "expert_description": "Expert Learning gives 15% experience bonus"
+    },
+    {
+      "name": "Logistics",
+      "description": "Logistics increases the movement rate of the hero over the land",
+      "basic_icon": "/assets/graphics/skills/Heroes_III_LogisticsBasic.webp",
+      "basic_description": "Basic Logistics gives +10% movement",
+      "advanced_icon": "/assets/graphics/skills/Heroes_III_LogisticsAdvanced.webp",
+      "advanced_description": "Advanced Logistics gives +20% movement",
+      "expert_icon": "/assets/graphics/skills/Heroes_III_LogisticsExpert.webp",
+      "expert_description": "Expert Logistics gives +30% movement"
+    },
+    {
+      "name": "Luck",
+      "description": "Luck skill increases the hero's primary stat Luck",
+      "basic_icon": "/assets/graphics/skills/Heroes_III_LuckBasic.webp",
+      "basic_description": "Basic Luck increases the Luck stat by 1",
+      "advanced_icon": "/assets/graphics/skills/Heroes_III_LuckAdvanced.webp",
+      "advanced_description": "Advanced Luck increases the Luck stat by 2",
+      "expert_icon": "/assets/graphics/skills/Heroes_III_LuckExpert.webp",
+      "expert_description": "Expert Luck increases the Luck stat by 3"
+    },
+    {
+      "name": "Mysticism",
+      "description": "Mysticism increases the spell point regeneration rate",
+      "basic_icon": "/assets/graphics/skills/Heroes_III_MysticismBasic.webp",
+      "basic_description": "Basic Mysticism regains two spell points per day",
+      "advanced_icon": "/assets/graphics/skills/Heroes_III_MysticismAdvanced.webp",
+      "advanced_description": "Advanced Mysticism regains three spell points per day",
+      "expert_icon": "/assets/graphics/skills/Heroes_III_MysticismExpert.webp",
+      "expert_description": "Expert Mysticism regains four spell points per day"
+    },
+    {
+      "name": "Navigation",
+      "description": "Navigation increases the hero's movement rate on water",
+      "basic_icon": "/assets/graphics/skills/Heroes_III_NavigationBasic.webp",
+      "basic_description": "Basic Navigation gives +50% movement",
+      "advanced_icon": "/assets/graphics/skills/Heroes_III_NavigationAdvanced.webp",
+      "advanced_description": "Advanced Navigation gives +100% movement",
+      "expert_icon": "/assets/graphics/skills/Heroes_III_NavigationExpert.webp",
+      "expert_description": "Expert Navigation gives +150% movement"
+    },
+    {
+      "name": "Necromancy",
+      "description": "Necromancy is related to Necropolis armies, providing them with reinforcements after every battle",
+      "basic_icon": "/assets/graphics/skills/Heroes_III_NecromancyBasic.webp",
+      "basic_description": "Basic Necromancy resurrects 10% of enemy creatures killed",
+      "advanced_icon": "/assets/graphics/skills/Heroes_III_NecromancyAdvanced.webp",
+      "advanced_description": "Advanced Necromancy resurrects 20% of enemy creatures killed",
+      "expert_icon": "/assets/graphics/skills/Heroes_III_NecromancyExpert.webp",
+      "expert_description": "Expert Necromancy resurrects 30% of enemy creatures killed"
+    },
+    {
+      "name": "Offense",
+      "description": "Offense increases the melee damage of all allied units",
+      "basic_icon": "/assets/graphics/skills/OffenseBasicHIII.webp",
+      "basic_description": "Basic Offense increases inflicted damage by 10%",
+      "advanced_icon": "/assets/graphics/skills/Heroes_III_OffenseAdvanced.webp",
+      "advanced_description": "Advanced Offense increases inflicted damage by 20%",
+      "expert_icon": "/assets/graphics/skills/Heroes_III_OffenseExpert.webp",
+      "expert_description": "Expert Offense increases inflicted damage by 30%"
+    },
+    {
+      "name": "Pathfinding",
+      "description": "Pathfinding reduces the movement penalties when moving on snow, rough or swamp terrains",
+      "basic_icon": "/assets/graphics/skills/Heroes_III_PathfindingBasic.webp",
+      "basic_description": "Basic Pathfinding reduces the penalty by 25%",
+      "advanced_icon": "/assets/graphics/skills/Heroes_III_PathfindingAdvanced.webp",
+      "advanced_description": "Advanced Pathfinding reduces the penalty by 50%",
+      "expert_icon": "/assets/graphics/skills/Heroes_III_PathfindingExpert.webp",
+      "expert_description": "Expert Pathfinding eliminates the penalty"
+    },
+    {
+      "name": "Resistance",
+      "description": "The skill gives the hero a chance of protecting their creatures from enemy spells",
+      "basic_icon": "/assets/graphics/skills/Heroes_III_ResistanceBasic.webp",
+      "basic_description": "Basic Resistance gives a 5% chance of spell failure",
+      "advanced_icon": "/assets/graphics/skills/Heroes_III_ResistanceAdvanced.webp",
+      "advanced_description": "Advanced Resistance gives a 10% chance of spell failure",
+      "expert_icon": "/assets/graphics/skills/Heroes_III_ResistanceExpert.webp",
+      "expert_description": "Expert Resistance gives a 20% chance of spell failure"
+    },
+    {
+      "name": "Scholar",
+      "description": "Scholar allows the hero to exchange spells with other heroes",
+      "basic_icon": "/assets/graphics/skills/Heroes_III_ScholarBasic.webp",
+      "basic_description": "Basic Scholar lets heroes teach and learn spells of second level and below",
+      "advanced_icon": "/assets/graphics/skills/Heroes_III_ScholarAdvanced.webp",
+      "advanced_description": "Advanced Scholar lets heroes teach and learn spells of third level and below",
+      "expert_icon": "/assets/graphics/skills/Heroes_III_ScholarExpert.webp",
+      "expert_description": "Expert Scholar lets heroes teach and learn spells of fourth level and below"
+    },
+    {
+      "name": "Scouting",
+      "description": "Scouting increases the hero's line of sight",
+      "basic_icon": "/assets/graphics/skills/Heroes_III_ScoutingBasic.webp",
+      "basic_description": "Basic Scouting increases sight radius by 1 square",
+      "advanced_icon": "/assets/graphics/skills/Heroes_III_ScoutingAdvanced.webp",
+      "advanced_description": "Advanced Scouting increases sight radius by 2 squares",
+      "expert_icon": "/assets/graphics/skills/Heroes_III_ScoutingExpert.webp",
+      "expert_description": "Expert Scouting increases sight radius by 3 squares"
+    },
+    {
+      "name": "Sorcery",
+      "description": "Sorcery boosts combat spells' damage",
+      "basic_icon": "/assets/graphics/skills/Heroes_III_SorceryBasic.webp",
+      "basic_description": "Basic Sorcery increases effectiveness of cast spells by 5%",
+      "advanced_icon": "/assets/graphics/skills/Heroes_III_SorceryAdvanced.webp",
+      "advanced_description": "Advanced Sorcery increases effectiveness of cast spells by 10%",
+      "expert_icon": "/assets/graphics/skills/Heroes_III_SorceryExpert.webp",
+      "expert_description": "Expert Sorcery increases effectiveness of cast spells by 15%"
+    },
+    {
+      "name": "Tactics",
+      "description": "Tactics allows the hero to move their creatures around on the battlefield before combat",
+      "basic_icon": "/assets/graphics/skills/Heroes_III_TacticsBasic.webp",
+      "basic_description": "Basic Tactics lets them move creatures within the first two columns",
+      "advanced_icon": "/assets/graphics/skills/Heroes_III_TacticsAdvanced.webp",
+      "advanced_description": "Advanced Tactics lets them move creatures within the first four columns",
+      "expert_icon": "/assets/graphics/skills/Heroes_III_TacticsExpert.webp",
+      "expert_description": "Expert Tactics lets them move creatures within the first six columns"
+    },
+    {
+      "name": "Water Magic",
+      "description": "Water Magic is one of the four schools of magic. It increases the effectiveness and lowers the cost of Water Magic spells",
+      "basic_icon": "/assets/graphics/skills/Heroes_III_WaterMagicBasic.webp",
+      "basic_description": "Basic Water Magic lowers the cost of Water Magic spells: First level spells have their cost lowered by one spell point, second level spells have their cost lowered by two spell points, and so on. It also increases their effectiveness",
+      "advanced_icon": "/assets/graphics/skills/Heroes_III_WaterMagicAdvanced.webp",
+      "advanced_description": "Advanced Water Magic increases the effectiveness of Water Magic spells even more",
+      "expert_icon": "/assets/graphics/skills/Heroes_III_WaterMagicExpert.webp",
+      "expert_description": "Expert Water Magic increases the effectiveness of Water Magic spells to the highest level"
+    },
+    {
+      "name": "Wisdom",
+      "description": "Wisdom allows the hero to learn level three or higher spells",
+      "basic_icon": "/assets/graphics/skills/Heroes_III_WisdomBasic.webp",
+      "basic_description": "Basic Wisdom can let the hero learn level three spells",
+      "advanced_icon": "/assets/graphics/skills/Heroes_III_WisdomAdvanced.webp",
+      "advanced_description": "Advanced Wisdom can let the hero learn level four spells",
+      "expert_icon": "/assets/graphics/skills/Heroes_III_WisdomExpert.webp",
+      "expert_description": "Expert Wisdom can let the hero learn level five spells"
+    }
+  ]
+}

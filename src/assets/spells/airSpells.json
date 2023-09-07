@@ -2,7 +2,7 @@
   "spells": [
     {
       "name": "Haste",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Haste.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Haste.webp",
       "type": "combat",
       "level": "1",
       "mana_cost": "6",
@@ -12,7 +12,7 @@
     },
     {
       "name": "Magic Arrow",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Magic_Arrow.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Magic_Arrow.webp",
       "type": "combat",
       "level": "1",
       "mana_cost": "5",
@@ -22,7 +22,7 @@
     },
     {
       "name": "View Air",
-      "icon": "/src/assets/graphics/spells/Heroes_III_ViewAir.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_ViewAir.webp",
       "type": "adventure",
       "level": "1",
       "mana_cost": "2",
@@ -32,7 +32,7 @@
     },
     {
       "name": "Disguise",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Disguise.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Disguise.webp",
       "type": "adventure",
       "level": "2",
       "mana_cost": "4",
@@ -42,7 +42,7 @@
     },
     {
       "name": "Disrupting Ray",
-      "icon": "/src/assets/graphics/spells/Heroes_III_DisruptingRay.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_DisruptingRay.webp",
       "type": "combat",
       "level": "2",
       "mana_cost": "10",
@@ -52,7 +52,7 @@
     },
     {
       "name": "Fortune",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Fortune.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Fortune.webp",
       "type": "combat",
       "level": "2",
       "mana_cost": "7",
@@ -62,7 +62,7 @@
     },
     {
       "name": "Remove Obstacle",
-      "icon": "/src/assets/graphics/spells/Heroes_III_RemoveObstacle.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_RemoveObstacle.webp",
       "type": "combat",
       "level": "2",
       "mana_cost": "7",
@@ -72,7 +72,7 @@
     },
     {
       "name": "Lightning",
-      "icon": "/src/assets/graphics/spells/Heroes_III_LightningBolt.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_LightningBolt.webp",
       "type": "combat",
       "level": "2",
       "mana_cost": "10",
@@ -82,7 +82,7 @@
     },
     {
       "name": "Precision",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Precision.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Precision.webp",
       "type": "combat",
       "level": "2",
       "mana_cost": "8",
@@ -92,7 +92,7 @@
     },
     {
       "name": "Protection From Air",
-      "icon": "/src/assets/graphics/spells/Heroes_III_ProtectionFromAir.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_ProtectionFromAir.webp",
       "type": "combat",
       "level": "2",
       "mana_cost": "7",
@@ -102,7 +102,7 @@
     },
     {
       "name": "Visions",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Visions.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Visions.webp",
       "type": "adventure",
       "level": "2",
       "mana_cost": "4",
@@ -112,7 +112,7 @@
     },
     {
       "name": "Air Shield",
-      "icon": "/src/assets/graphics/spells/Heroes_III_AirShield.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_AirShield.webp",
       "type": "combat",
       "level": "3",
       "mana_cost": "12",
@@ -122,7 +122,7 @@
     },
     {
       "name": "Destroy Undead",
-      "icon": "/src/assets/graphics/spells/Heroes_III_DestroyUndead.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_DestroyUndead.webp",
       "type": "combat",
       "level": "3",
       "mana_cost": "15",
@@ -132,7 +132,7 @@
     },
     {
       "name": "Hypnotize",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Hypnotize.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Hypnotize.webp",
       "type": "combat",
       "level": "3",
       "mana_cost": "18",
@@ -142,7 +142,7 @@
     },
     {
       "name": "Chain Lightning",
-      "icon": "/src/assets/graphics/spells/Heroes_III_ChainLightning.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_ChainLightning.webp",
       "type": "combat",
       "level": "4",
       "mana_cost": "24",
@@ -152,7 +152,7 @@
     },
     {
       "name": "Counterstrike",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Counterstrike.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Counterstrike.webp",
       "type": "combat",
       "level": "4",
       "mana_cost": "24",
@@ -162,7 +162,7 @@
     },
     {
       "name": "Dimension Door",
-      "icon": "/src/assets/graphics/spells/Heroes_III_DimensionDoor.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_DimensionDoor.webp",
       "type": "adventure",
       "level": "5",
       "mana_cost": "25",
@@ -172,7 +172,7 @@
     },
     {
       "name": "Fly",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Fly.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Fly.webp",
       "type": "adventure",
       "level": "5",
       "mana_cost": "20",
@@ -182,7 +182,7 @@
     },
     {
       "name": "Magic Mirror",
-      "icon": "/src/assets/graphics/spells/Heroes_III_MagicMirror.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_MagicMirror.webp",
       "type": "combat",
       "level": "5",
       "mana_cost": "25",
@@ -192,7 +192,7 @@
     },
     {
       "name": "Summon Air Elemental",
-      "icon": "/src/assets/graphics/spells/Heroes_III_AirElemental.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_AirElemental.webp",
       "type": "combat",
       "level": "5",
       "mana_cost": "25",

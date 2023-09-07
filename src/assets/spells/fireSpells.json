@@ -2,7 +2,7 @@
   "spells": [
     {
       "name": "Bloodlust",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Bloodlust.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Bloodlust.webp",
       "type": "combat",
       "level": "1",
       "mana_cost": "5",
@@ -12,7 +12,7 @@
     },
     {
       "name": "Curse",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Curse.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Curse.webp",
       "type": "combat",
       "level": "1",
       "mana_cost": "6",
@@ -22,7 +22,7 @@
     },
     {
       "name": "Protection From Fire",
-      "icon": "/src/assets/graphics/spells/Heroes_III_ProtectionFromFire.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_ProtectionFromFire.webp",
       "type": "combat",
       "level": "1",
       "mana_cost": "5",
@@ -32,7 +32,7 @@
     },
     {
       "name": "Blind",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Blind.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Blind.webp",
       "type": "combat",
       "level": "2",
       "mana_cost": "10",
@@ -42,7 +42,7 @@
     },
     {
       "name": "Fire Wall",
-      "icon": "/src/assets/graphics/spells/Heroes_III_FireWall.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_FireWall.webp",
       "type": "combat",
       "level": "2",
       "mana_cost": "8",
@@ -52,7 +52,7 @@
     },
     {
       "name": "Fireball",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Fireball.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Fireball.webp",
       "type": "combat",
       "level": "3",
       "mana_cost": "15",
@@ -62,7 +62,7 @@
     },
     {
       "name": "Land Mine",
-      "icon": "/src/assets/graphics/spells/Heroes_III_LandMine.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_LandMine.webp",
       "type": "combat",
       "level": "3",
       "mana_cost": "18",
@@ -72,7 +72,7 @@
     },
     {
       "name": "Misfortune",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Misfortune.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Misfortune.webp",
       "type": "combat",
       "level": "3",
       "mana_cost": "12",
@@ -82,7 +82,7 @@
     },
     {
       "name": "Armageddon",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Armageddon.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Armageddon.webp",
       "type": "combat",
       "level": "4",
       "mana_cost": "24",
@@ -92,7 +92,7 @@
     },
     {
       "name": "Berserk",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Berserk.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Berserk.webp",
       "type": "combat",
       "level": "4",
       "mana_cost": "20",
@@ -102,7 +102,7 @@
     },
     {
       "name": "Fire Shield",
-      "icon": "/src/assets/graphics/spells/Heroes_III_FireShield.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_FireShield.webp",
       "type": "combat",
       "level": "4",
       "mana_cost": "16",
@@ -112,7 +112,7 @@
     },
     {
       "name": "Frenzy",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Frenzy.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Frenzy.webp",
       "type": "combat",
       "level": "4",
       "mana_cost": "16",
@@ -122,7 +122,7 @@
     },
     {
       "name": "Inferno",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Inferno.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Inferno.webp",
       "type": "combat",
       "level": "4",
       "mana_cost": "16",
@@ -132,7 +132,7 @@
     },
     {
       "name": "Slayer",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Slayer.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Slayer.webp",
       "type": "combat",
       "level": "4",
       "mana_cost": "16",
@@ -142,7 +142,7 @@
     },
     {
       "name": "Sacrifice",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Sacrifice.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Sacrifice.webp",
       "type": "combat",
       "level": "5",
       "mana_cost": "25",
@@ -152,7 +152,7 @@
     },
     {
       "name": "Summon Fire Elemental",
-      "icon": "/src/assets/graphics/spells/Heroes_III_FireElemental.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_FireElemental.webp",
       "type": "combat",
       "level": "5",
       "mana_cost": "25",

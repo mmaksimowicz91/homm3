@@ -2,7 +2,7 @@
   "spells": [
     {
       "name": "Shield",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Shield.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Shield.webp",
       "type": "combat",
       "level": "1",
       "mana_cost": "5",
@@ -12,7 +12,7 @@
     },
     {
       "name": "Slow",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Slow.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Slow.webp",
       "type": "combat",
       "level": "1",
       "mana_cost": "6",
@@ -22,7 +22,7 @@
     },
     {
       "name": "Stone skin",
-      "icon": "/src/assets/graphics/spells/Heroes_III_StoneSkin.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_StoneSkin.webp",
       "type": "combat",
       "level": "1",
       "mana_cost": "5",
@@ -32,7 +32,7 @@
     },
     {
       "name": "View Earth",
-      "icon": "/src/assets/graphics/spells/Heroes_III_ViewEarth.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_ViewEarth.webp",
       "type": "adventure",
       "level": "1",
       "mana_cost": "2",
@@ -42,7 +42,7 @@
     },
     {
       "name": "Death Ripple",
-      "icon": "/src/assets/graphics/spells/Heroes_III_DeathRipple.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_DeathRipple.webp",
       "type": "combat",
       "level": "2",
       "mana_cost": "10",
@@ -52,7 +52,7 @@
     },
     {
       "name": "Quicksand",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Quicksand.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Quicksand.webp",
       "type": "combat",
       "level": "2",
       "mana_cost": "8",
@@ -62,7 +62,7 @@
     },
     {
       "name": "Animate Dead",
-      "icon": "/src/assets/graphics/spells/Heroes_III_AnimateDead.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_AnimateDead.webp",
       "type": "combat",
       "level": "3",
       "mana_cost": "15",
@@ -72,7 +72,7 @@
     },
     {
       "name": "Anti-magic",
-      "icon": "/src/assets/graphics/spells/Heroes_III_AntiMagic.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_AntiMagic.webp",
       "type": "combat",
       "level": "3",
       "mana_cost": "15",
@@ -82,7 +82,7 @@
     },
     {
       "name": "Earthquake",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Earthquake.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Earthquake.webp",
       "type": "combat",
       "level": "3",
       "mana_cost": "20",
@@ -92,7 +92,7 @@
     },
     {
       "name": "Force Field",
-      "icon": "/src/assets/graphics/spells/Heroes_III_ForceField.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_ForceField.webp",
       "type": "combat",
       "level": "3",
       "mana_cost": "12",
@@ -102,7 +102,7 @@
     },
     {
       "name": "Protection From Earth",
-      "icon": "/src/assets/graphics/spells/Heroes_III_ProtectionFromEarth.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_ProtectionFromEarth.webp",
       "type": "combat",
       "level": "3",
       "mana_cost": "12",
@@ -112,7 +112,7 @@
     },
     {
       "name": "Meteor Shower",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Meteor_Shower.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Meteor_Shower.webp",
       "type": "combat",
       "level": "4",
       "mana_cost": "16",
@@ -122,7 +122,7 @@
     },
     {
       "name": "Resurrection",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Resurrection.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Resurrection.webp",
       "type": "combat",
       "level": "4",
       "mana_cost": "20",
@@ -132,7 +132,7 @@
     },
     {
       "name": "Sorrow",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Sorrow.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Sorrow.webp",
       "type": "combat",
       "level": "4",
       "mana_cost": "16",
@@ -142,7 +142,7 @@
     },
     {
       "name": "Town Portal",
-      "icon": "/src/assets/graphics/spells/Heroes_III_TownPortal.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_TownPortal.webp",
       "type": "adventure",
       "level": "4",
       "mana_cost": "16",
@@ -152,7 +152,7 @@
     },
     {
       "name": "Implosion",
-      "icon": "/src/assets/graphics/spells/Heroes_III_Implosion.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_Implosion.webp",
       "type": "combat",
       "level": "5",
       "mana_cost": "30",
@@ -162,7 +162,7 @@
     },
     {
       "name": "Summon Earth Elemental",
-      "icon": "/src/assets/graphics/spells/Heroes_III_EarthElemental.webp",
+      "icon": "/assets/graphics/spells/Heroes_III_EarthElemental.webp",
       "type": "combat",
       "level": "5",
       "mana_cost": "25",
