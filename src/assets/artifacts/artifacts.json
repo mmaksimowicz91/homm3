@@ -1,1033 +1,998 @@
 {
   "artifacts": [
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Blackshard of the Dead Knight",
+      "image": "/assets/graphics/artifacts/Blackshard_of_the_Dead_Knight.webp",
+      "slot": "Main Hand",
+      "rarity": "Minor",
+      "description": "This right handed weapon increases your Attack skill by +3"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Centaur's Axe",
+      "image": "/assets/graphics/artifacts/Centaurs_Axe.webp",
+      "slot": "Main Hand",
+      "rarity": "Treasure",
+      "description": "This right handed weapon increases your Attack skill by +2"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Greater Gnoll's Flail",
+      "image": "/assets/graphics/artifacts/Greater_Gnolls_Flail.webp",
+      "slot": "Main Hand",
+      "rarity": "Minor",
+      "description": "This right handed weapon increases your Attack skill by +4"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Ogre's Club of Havoc",
+      "image": "/assets/graphics/artifacts/Ogres_Club_of_Havoc.webp",
+      "slot": "Main Hand",
+      "rarity": "Major",
+      "description": "This right handed weapon increases your Attack skill by +5"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Red Dragon Flame Tongue",
+      "image": "/assets/graphics/artifacts/Red_Dragon_Flame_Tongue.webp",
+      "slot": "Main Hand",
+      "rarity": "Minor",
+      "description": "Held with the right hand, this item increases your Attack and Defense skills by +2"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Sword of Hellfire",
+      "image": "/assets/graphics/artifacts/SwordOfHellfireIII.webp",
+      "slot": "Main Hand",
+      "rarity": "Major",
+      "description": "This right handed weapon increases your Attack skill by +6"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Sword of Judgement",
+      "image": "/assets/graphics/artifacts/Sword_of_Judgement.webp",
+      "slot": "Main Hand",
+      "rarity": "Relic",
+      "description": "Held with the right hand, the Sword of Judgement increases all four primary skills by +5"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Titan's Gladius",
+      "image": "/assets/graphics/artifacts/Titans_Gladius.webp",
+      "slot": "Main Hand",
+      "rarity": "Relic",
+      "description": "Held with the right hand, this massive relic increases your Attack skill by +12, but reduces your Defense skill by -3"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Buckler of the Gnoll King",
+      "image": "/assets/graphics/artifacts/Buckler_of_the_Gnoll_King.webp",
+      "slot": "Off Hand",
+      "rarity": "Minor",
+      "description": "This left handed item increases your Defense skill by +4"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Dragon Scale Shield",
+      "image": "/assets/graphics/artifacts/Dragon_Scale_Shield.webp",
+      "slot": "Off Hand",
+      "rarity": "Major",
+      "description": "Held with the left hand, this item increases your Attack and Defense skills by +3"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Lion's Shield of Courage",
+      "image": "/assets/graphics/artifacts/LionsShieldOfCourageIII.webp",
+      "slot": "Off Hand",
+      "rarity": "Relic",
+      "description": "Held with the left hand, the Lion's Shield of Courage increases all four primary skills by +4"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Sentinel's Shield",
+      "image": "/assets/graphics/artifacts/Sentinels_Shield.webp",
+      "slot": "Off Hand",
+      "rarity": "Relic",
+      "description": "Held with the left hand, this relic increases your Defense skill by +12, but reduces your Attack skill by -3"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Shield of the Damned",
+      "image": "/assets/graphics/artifacts/Shield_of_the_Damned.webp",
+      "slot": "Off Hand",
+      "rarity": "Major",
+      "description": "This left handed item increases your Defense skill by +6"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Shield of the Dwarven Lords",
+      "image": "/assets/graphics/artifacts/Shield_of_the_Dwarven_Lords.webp",
+      "slot": "Off Hand",
+      "rarity": "Treasure",
+      "description": "This left handed item increases your Defense skill by +2"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Shield of the Yawning Dead",
+      "image": "/assets/graphics/artifacts/Shield_of_the_Yawning_Dead.webp",
+      "slot": "Off Hand",
+      "rarity": "Minor",
+      "description": "This left handed item increases your Defense skill by +3"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Targ of the Rampaging Ogre",
+      "image": "/assets/graphics/artifacts/Targ_of_the_Rampaging_Ogre.webp",
+      "slot": "Off Hand",
+      "rarity": "Major",
+      "description": "This left handed item increases your Defense skill by +5"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Crown of Dragontooth",
+      "image": "/assets/graphics/artifacts/Crown_of_Dragontooth.webp",
+      "slot": "Head",
+      "rarity": "Relic",
+      "description": "Worn on the head, this item increases your Knowledge and Power skills by +4"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Crown of the Supreme Magi",
+      "image": "/assets/graphics/artifacts/Crown_of_the_Supreme_Magi.webp",
+      "slot": "Head",
+      "rarity": "Minor",
+      "description": "Worn on the head, this item increases your Knowledge skill by +4"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Hellstorm Helmet",
+      "image": "/assets/graphics/artifacts/Hellstorm_Helmet.webp",
+      "slot": "Head",
+      "rarity": "Major",
+      "description": "Worn on the head, this item increases your Knowledge skill by +5"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Helm of Chaos",
+      "image": "/assets/graphics/artifacts/Helm_of_Chaos.webp",
+      "slot": "Head",
+      "rarity": "Minor",
+      "description": "Worn on the head, this item increases your Knowledge skill by +3"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Helm of Heavenly Enlightenment",
+      "image": "/assets/graphics/artifacts/Helm_of_Heavenly_Enlightenment.webp",
+      "slot": "Head",
+      "rarity": "Relic",
+      "description": "Worn on the head, the Helm of Heavenly Enlightenment increases all four primary skills by +6"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Helm of the Alabaster Unicorn",
+      "image": "/assets/graphics/artifacts/Helm_of_the_Alabaster_Unicorn.webp",
+      "slot": "Head",
+      "rarity": "Treasure",
+      "description": "Worn on the head, this item increases your Knowledge skill by +1"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Sea Captain's Hat",
+      "image": "/assets/graphics/artifacts/Sea_Captains_Hat.webp",
+      "slot": "Head",
+      "rarity": "Relic",
+      "description": "When worn, this hat increases your movement at sea, allows you to summon and destroy boats, and protects you from whirlpools"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Skull Helmet",
+      "image": "/assets/graphics/artifacts/Skull_Helmet.webp",
+      "slot": "Head",
+      "rarity": "Treasure",
+      "description": "Worn on the head, this item increases your Knowledge skill by +2"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Spellbinder's Hat",
+      "image": "/assets/graphics/artifacts/Spellbinders_Hat.webp",
+      "slot": "Head",
+      "rarity": "Relic",
+      "description": "When worn, this hat allows you to cast all 5th level spells"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Thunder Helmet",
+      "image": "/assets/graphics/artifacts/ThunderHelmet.webp",
+      "slot": "Head",
+      "rarity": "Relic",
+      "description": "When worn, this relic increases your Knowledge skill by +10, but reduces your Power skill by -2"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Amulet of the Undertaker",
+      "image": "/assets/graphics/artifacts/Amulet_of_the_Undertaker.webp",
+      "slot": "Neck",
+      "rarity": "Treasure",
+      "description": "Worn about the neck, this amulet increases your Necromancy skill by 5%"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Celestial Necklace of Bliss",
+      "image": "/assets/graphics/artifacts/Celestial_Necklace_of_Bliss.webp",
+      "slot": "Neck",
+      "rarity": "Relic",
+      "description": "Worn about the neck, the Celestial Necklace of Bliss increases all four primary skills by +3"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Collar of Conjuring",
+      "image": "/assets/graphics/artifacts/Collar_of_Conjuring.webp",
+      "slot": "Neck",
+      "rarity": "Treasure",
+      "description": "Worn about the neck, this item increases the duration of all your spells by 1"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Garniture of Interference",
+      "image": "/assets/graphics/artifacts/Garniture_of_Interference.webp",
+      "slot": "Neck",
+      "rarity": "Major",
+      "description": "Worn about the neck, this item increases your Magic Resistance by 5%"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Necklace of Dragonteeth",
+      "image": "/assets/graphics/artifacts/Necklace_of_Dragonteeth.webp",
+      "slot": "Neck",
+      "rarity": "Major",
+      "description": "Worn about the neck, this item increases your Knowledge and Power skills by +3"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Necklace of Ocean Guidance",
+      "image": "/assets/graphics/artifacts/NecklaceOfOceanGuidanceIII.webp",
+      "slot": "Neck",
+      "rarity": "Major",
+      "description": "Worn about the neck, this necklace increases your hero's movement rate at sea"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Necklace of Swiftness",
+      "image": "/assets/graphics/artifacts/Necklace_of_Swiftness.webp",
+      "slot": "Neck",
+      "rarity": "Treasure",
+      "description": "Worn about the neck, this necklace increases the combat speed of all your units by +1"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Pendant of Courage",
+      "image": "/assets/graphics/artifacts/Pendant_of_Courage.webp",
+      "slot": "Neck",
+      "rarity": "Major",
+      "description": "When worn, this item bestows +3 Luck and Morale to your hero's troops"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Pendant of Death",
+      "image": "/assets/graphics/artifacts/Pendant_of_Death.webp",
+      "slot": "Neck",
+      "rarity": "Treasure",
+      "description": "Wearing this item renders your units immune to the Destroy Undead spell"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Pendant of Dispassion",
+      "image": "/assets/graphics/artifacts/Pendant_of_Dispassion.webp",
+      "slot": "Neck",
+      "rarity": "Treasure",
+      "description": "Wearing this item renders your units immune to the Berserk spell"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Pendant of Free Will",
+      "image": "/assets/graphics/artifacts/Pendant_of_Free_Will.webp",
+      "slot": "Neck",
+      "rarity": "Treasure",
+      "description": "Wearing this item renders your units immune to the Hypnotize spell"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Pendant of Holiness",
+      "image": "/assets/graphics/artifacts/Pendant_of_Holiness.webp",
+      "slot": "Neck",
+      "rarity": "Treasure",
+      "description": "Wearing this item renders your units immune to the Curse spell"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Pendant of Life",
+      "image": "/assets/graphics/artifacts/Pendant_of_Life.webp",
+      "slot": "Neck",
+      "rarity": "Treasure",
+      "description": "Wearing this item renders your units immune to the Death Ripple spell"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Pendant of Negativity",
+      "image": "/assets/graphics/artifacts/Pendant_of_Negativity.webp",
+      "slot": "Neck",
+      "rarity": "Major",
+      "description": "Wearing this item renders your units immune to the Lightning Bolt and Chain Lightning spells"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Pendant of Total Recall",
+      "image": "/assets/graphics/artifacts/Pendant_of_Total_Recall.webp",
+      "slot": "Neck",
+      "rarity": "Treasure",
+      "description": "Wearing this item renders your units immune to the Forgetfulness spell"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Pendant of Second Sight",
+      "image": "/assets/graphics/artifacts/Pendant_of_Second_Sight.webp",
+      "slot": "Neck",
+      "rarity": "Major",
+      "description": "Wearing this item renders your units immune to the Blind spell"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Statesman's Medal",
+      "image": "/assets/graphics/artifacts/Statesmans_Medal.webp",
+      "slot": "Neck",
+      "rarity": "Major",
+      "description": "Worn about the neck, the Statesman's Medal reduces the cost of surrendering"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Armor of Wonder",
+      "image": "/assets/graphics/artifacts/Armor_of_Wonder.webp",
+      "slot": "Body",
+      "rarity": "Minor",
+      "description": "Worn on the torso, the Armor of Wonder increases all four primary skills by +1"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Breastplate of Brimstone",
+      "image": "/assets/graphics/artifacts/Breastplate_of_Brimstone.webp",
+      "slot": "Body",
+      "rarity": "Major",
+      "description": "Worn on the torso, this item increases your Power skill by +5"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Breastplate of Petrified Wood",
+      "image": "/assets/graphics/artifacts/Breastplate_of_Petrified_Wood.webp",
+      "slot": "Body",
+      "rarity": "Treasure",
+      "description": "Worn on the torso, this item increases your Power skill by +1"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Dragon Scale Armor",
+      "image": "/assets/graphics/artifacts/Dragon_Scale_Armor.webp",
+      "slot": "Body",
+      "rarity": "Relic",
+      "description": "Worn on a torso, this item increases your Attack and Defense skills by +4"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Rib Cage",
+      "image": "/assets/graphics/artifacts/Rib_Cage.webp",
+      "slot": "Body",
+      "rarity": "Minor",
+      "description": "Worn on the torso, this item increases your Power skill by +2"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Scales of the Greater Basilisk",
+      "image": "/assets/graphics/artifacts/Scales_of_the_Greater_Basilisk.webp",
+      "slot": "Body",
+      "rarity": "Minor",
+      "description": "Worn on the torso, this item increases your Power skill by +3"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Titan's Cuirass",
+      "image": "/assets/graphics/artifacts/TitansCuirassIII.webp",
+      "slot": "Body",
+      "rarity": "Relic",
+      "description": "When worn, this massive relic increases your Power skill by +10, but reduces your Knowledge skill by -2"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Tunic of the Cyclops King",
+      "image": "/assets/graphics/artifacts/Tunic_of_the_Cyclops_King.webp",
+      "slot": "Body",
+      "rarity": "Major",
+      "description": "Worn on the torso, this item increases your Power skill by +4"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Boots of Levitation",
+      "image": "/assets/graphics/artifacts/Boots_of_Levitation.webp",
+      "slot": "Feet",
+      "rarity": "Relic",
+      "description": "When worn, these boots allow you to walk across water"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Boots of Polarity",
+      "image": "/assets/graphics/artifacts/Boots_of_Polarity.webp",
+      "slot": "Feet",
+      "rarity": "Relic",
+      "description": "Worn on the feet, these boots increase your Magic Resistance by 15%"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Boots of Speed",
+      "image": "/assets/graphics/artifacts/Boots_of_Speed.webp",
+      "slot": "Feet",
+      "rarity": "Minor",
+      "description": "Worn on the feet, these boots increase your hero's movement rate over land"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Dead Man's Boots",
+      "image": "/assets/graphics/artifacts/Dead_Mans_Boots.webp",
+      "slot": "Feet",
+      "rarity": "Major",
+      "description": "Worn on the feet, these boots increase your Necromancy skill by 15%"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Dragonbone Greaves",
+      "image": "/assets/graphics/artifacts/Dragonbone_Greaves.webp",
+      "slot": "Feet",
+      "rarity": "Treasure",
+      "description": "Worn on the feet, this item increases your Knowledge and Power skills by +1"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Sandals of the Saint",
+      "image": "/assets/graphics/artifacts/Sandals_of_the_Saint.webp",
+      "slot": "Feet",
+      "rarity": "Relic",
+      "description": "Worn on the feet, the Sandals of the Saint increase all four primary skills by +2"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Ambassador's Sash",
+      "image": "/assets/graphics/artifacts/AmbassadorsSashIII.webp",
+      "slot": "Cloaks",
+      "rarity": "Major",
+      "description": "Worn about the shoulders, the Ambassador's Sash reduces the cost of surrendering"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Angel Wings",
+      "image": "/assets/graphics/artifacts/AngelWingsIII.webp",
+      "slot": "Cloaks",
+      "rarity": "Relic",
+      "description": "Worn about the shoulders, these wings allow you to fly"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Cape of Conjuring",
+      "image": "/assets/graphics/artifacts/Cape_of_Conjuring.webp",
+      "slot": "Cloaks",
+      "rarity": "Treasure",
+      "description": "Worn about the shoulders, this item increases the duration of all your spells by 3"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Cape of Velocity",
+      "image": "/assets/graphics/artifacts/Cape_of_Velocity.webp",
+      "slot": "Cloaks",
+      "rarity": "Major",
+      "description": "Worn about the shoulders, this cape increases the combat speed of all your units by +2"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Dragon Wing Tabard",
+      "image": "/assets/graphics/artifacts/Dragon_Wing_Tabard.webp",
+      "slot": "Cloaks",
+      "rarity": "Minor",
+      "description": "Worn on the shoulders, this item increases your Knowledge and Power skills by +2"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Everflowing Crystal Cloak",
+      "image": "/assets/graphics/artifacts/Everflowing_Crystal_Cloak.webp",
+      "slot": "Cloaks",
+      "rarity": "Major",
+      "description": "When worn, this cloak increases your Crystal production by +1 per day"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Recanter's Cloak",
+      "image": "/assets/graphics/artifacts/Recanters_Cloak.webp",
+      "slot": "Cloaks",
+      "rarity": "Major",
+      "description": "While wearing this cloak, neither you nor your opponent will be able to cast level 3 or higher spells during combat"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Surcoat of Counterpoise",
+      "image": "/assets/graphics/artifacts/Surcoat_of_Counterpoise.webp",
+      "slot": "Cloaks",
+      "rarity": "Major",
+      "description": "Worn about the shoulders, this item increases your Magic Resistance by 10%"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Vampire's Cowl",
+      "image": "/assets/graphics/artifacts/Vampires_Cowl.webp",
+      "slot": "Cloaks",
+      "rarity": "Minor",
+      "description": "Worn about the shoulders, this cowl increases your Necromancy skill by 10%"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Diplomat's Ring",
+      "image": "/assets/graphics/artifacts/Diplomats_Ring.webp",
+      "slot": "Hands",
+      "rarity": "Major",
+      "description": "Worn on the finger, the Diplomat's Ring reduces the cost of surrendering"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Equestrian's Gloves",
+      "image": "/assets/graphics/artifacts/Equestrians_Gloves.webp",
+      "slot": "Hands",
+      "rarity": "Minor",
+      "description": "Worn on the hands, these gloves increase your hero's movement rate over land"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Eversmoking Ring of Sulfur",
+      "image": "/assets/graphics/artifacts/EversmokingRingOfSulfurIII.webp",
+      "slot": "Hands",
+      "rarity": "Major",
+      "description": "When worn, this ring increases your Sulfur production by +1 per day"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Quiet Eye of the Dragon",
+      "image": "/assets/graphics/artifacts/Quiet_Eye_of_the_Dragon.webp",
+      "slot": "Hands",
+      "rarity": "Treasure",
+      "description": "Worn on a finger, this item increases your Attack and Defense skills by +1"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Ring of Conjuring",
+      "image": "/assets/graphics/artifacts/Ring_of_Conjuring.webp",
+      "slot": "Hands",
+      "rarity": "Treasure",
+      "description": "Worn on a finger, this item increases the duration of all your spells by 2"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Ring of Infinite Gems",
+      "image": "/assets/graphics/artifacts/Ring_of_Infinite_Gems.webp",
+      "slot": "Hands",
+      "rarity": "Major",
+      "description": "When worn, this ring increases your Gem production by +1 per day"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Ring of Life",
+      "image": "/assets/graphics/artifacts/RingOfLifeIII.webp",
+      "slot": "Hands",
+      "rarity": "Minor",
+      "description": "This item increases the health of all your units by +1"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Ring of the Wayfarer",
+      "image": "/assets/graphics/artifacts/Ring_of_the_Wayfarer.webp",
+      "slot": "Hands",
+      "rarity": "Major",
+      "description": "When placed on the finger, this ring increases the combat speed of all your units by +1"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Ring of Vitality",
+      "image": "/assets/graphics/artifacts/Ring_of_Vitality.webp",
+      "slot": "Hands",
+      "rarity": "Treasure",
+      "description": "This item increases the health of all your units by +1"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Still Eye of the Dragon",
+      "image": "/assets/graphics/artifacts/Still_Eye_of_the_Dragon.webp",
+      "slot": "Hands",
+      "rarity": "Treasure",
+      "description": "Worn on the finger, this item increases your Luck and Morale by +1"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Angel Feather Arrows",
+      "image": "/assets/graphics/artifacts/Angel_Feather_Arrows.webp",
+      "slot": "Accessories",
+      "rarity": "Major",
+      "description": "These arrows increase your Archery skill by 15%"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Arms of Legion",
+      "image": "/assets/graphics/artifacts/Arms_of_Legion.webp",
+      "slot": "Accessories",
+      "rarity": "Major",
+      "description": "This item, when equipped by a hero in a town, increases the growth of your 5th level units (in that town) by 2 per week"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Badge of Courage",
+      "image": "/assets/graphics/artifacts/Badge_of_Courage.webp",
+      "slot": "Accessories",
+      "rarity": "Treasure",
+      "description": "The Badge of Courage increases your Morale by +1 and confers Mind spell immunity (although the latter effect is undocumented)"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Bird of Perception",
+      "image": "/assets/graphics/artifacts/Bird_of_Perception.webp",
+      "slot": "Accessories",
+      "rarity": "Treasure",
+      "description": "This figurine increases your Eagle Eye skill by 5%"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Bow of Elven Cherrywood",
+      "image": "/assets/graphics/artifacts/Bow_of_Elven_Cherrywood.webp",
+      "slot": "Accessories",
+      "rarity": "Treasure",
+      "description": "This bow increases your Archery skill by 5%"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Bowstring of the Unicorn's Mane",
+      "image": "/assets/graphics/artifacts/Bowstring_of_the_Unicorns_Mane.webp",
+      "slot": "Accessories",
+      "rarity": "Minor",
+      "description": "This bowstring increases your Archery skill by 10%"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Cards of Prophecy",
+      "image": "/assets/graphics/artifacts/Cards_of_Prophecy.webp",
+      "slot": "Accessories",
+      "rarity": "Treasure",
+      "description": "The Cards of Prophecy increase your Luck by +1"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Charm of Mana",
+      "image": "/assets/graphics/artifacts/Charm_of_Mana.webp",
+      "slot": "Accessories",
+      "rarity": "Treasure",
+      "description": "This charm helps you recover 1 extra spell point per day"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Clover of Fortune",
+      "image": "/assets/graphics/artifacts/Clover_of_Fortune.webp",
+      "slot": "Accessories",
+      "rarity": "Treasure",
+      "description": "The Clover of Fortune increases your Luck by +1"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Crest of Valor",
+      "image": "/assets/graphics/artifacts/Crest_of_Valor.webp",
+      "slot": "Accessories",
+      "rarity": "Treasure",
+      "description": "The Crest of Valor increases your Morale by +1"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Emblem of Cognizance",
+      "image": "/assets/graphics/artifacts/Emblem_of_Cognizance.webp",
+      "slot": "Accessories",
+      "rarity": "Minor",
+      "description": "This item increases your Eagle Eye skill by 15%"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Endless Bag of Gold",
+      "image": "/assets/graphics/artifacts/EndlessBagOfGoldIII.webp",
+      "slot": "Accessories",
+      "rarity": "Major",
+      "description": "When equipped, the Endless Bag of Gold increases your income by 750 gold per day"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Endless Purse of Gold",
+      "image": "/assets/graphics/artifacts/Endless_Purse_of_Gold.webp",
+      "slot": "Accessories",
+      "rarity": "Major",
+      "description": "When equipped, the Endless Purse of Gold increases your income by 500 gold per day"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Endless Sack of Gold",
+      "image": "/assets/graphics/artifacts/Endless_Sack_of_Gold.webp",
+      "slot": "Accessories",
+      "rarity": "Relic",
+      "description": "When equipped, the Endless Sack of Gold increases your income by 1000 gold per day"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Everpouring Vial of Mercury",
+      "image": "/assets/graphics/artifacts/EverpouringVialOfMercuryIII.webp",
+      "slot": "Accessories",
+      "rarity": "Major",
+      "description": "When equipped, this vial increases your Mercury production by +1 per day"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Glyph of Gallantry",
+      "image": "/assets/graphics/artifacts/Glyph_og_Gallantry.webp",
+      "slot": "Accessories",
+      "rarity": "Treasure",
+      "description": "The Glyph of Gallantry increases your Morale by +1"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Golden Bow",
+      "image": "/assets/graphics/artifacts/Golden_Bow.webp",
+      "slot": "Accessories",
+      "rarity": "Major",
+      "description": "When wielded, the Golden Bow allows your troops to shoot through any obstacle or at any range without penalty"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Head of Legion",
+      "image": "/assets/graphics/artifacts/HeadOfLegionIII.webp",
+      "slot": "Accessories",
+      "rarity": "Major",
+      "description": "This item, when equipped by a hero in a town, increases the growth of your 6th level units (in that town) by 1 per week"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Hourglass of the Evil Hour",
+      "image": "/assets/graphics/artifacts/Hourglass_of_the_Evil_Hour.webp",
+      "slot": "Accessories",
+      "rarity": "Treasure",
+      "description": "This item negates all Luck bonuses during combat for both you and your opponent"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Inexhaustible Cart of Lumber",
+      "image": "/assets/graphics/artifacts/Inexhaustible_Cart_of_Lumber.webp",
+      "slot": "Accessories",
+      "rarity": "Minor",
+      "description": "When equipped, this cart provides you with an additional +1 Wood per day"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Inexhaustible Cart of Ore",
+      "image": "/assets/graphics/artifacts/Inexhaustible_Cart_of_Ore.webp",
+      "slot": "Accessories",
+      "rarity": "Minor",
+      "description": "When equipped, this cart provides you with an additional +1 Ore per day"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Ladybird of Luck",
+      "image": "/assets/graphics/artifacts/Ladybird_of_Luck.webp",
+      "slot": "Accessories",
+      "rarity": "Treasure",
+      "description": "The Ladybird of Luck increases your Luck by +1"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Legs of Legion",
+      "image": "/assets/graphics/artifacts/Legs_of_Legion.webp",
+      "slot": "Accessories",
+      "rarity": "Treasure",
+      "description": "This item, when equipped by a hero in a town, increases the growth of your 2nd level units (in that town) by 5 per week"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Loins of Legion",
+      "image": "/assets/graphics/artifacts/LoinsOfLegionIII.webp",
+      "slot": "Accessories",
+      "rarity": "Minor",
+      "description": "This item, when equipped by a hero in a town, increases the growth of your 3rd level units (in that town) by 4 per week"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Mystic Orb of Mana",
+      "image": "/assets/graphics/artifacts/Mystic_Orb_of_Mana.webp",
+      "slot": "Accessories",
+      "rarity": "Treasure",
+      "description": "This orb helps you recover 3 extra spell points per day"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Orb of Driving Rain",
+      "image": "/assets/graphics/artifacts/Orb_of_Driving_Rain.webp",
+      "slot": "Accessories",
+      "rarity": "Major",
+      "description": "This powerful orb causes your Water spells to inflict an additional 50% damage"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Orb of Inhibition",
+      "image": "/assets/graphics/artifacts/Orb_of_Inhibition.webp",
+      "slot": "Accessories",
+      "rarity": "Relic",
+      "description": "This powerful orb prevents all spell casting in combat"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Orb of Silt",
+      "image": "/assets/graphics/artifacts/OrbOfSiltIII.webp",
+      "slot": "Accessories",
+      "rarity": "Major",
+      "description": "This powerful orb causes your Earth spells to inflict an additional 50% damage"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Orb of Tempestuous Fire",
+      "image": "/assets/graphics/artifacts/OrbOfTempestuousFireIII.webp",
+      "slot": "Accessories",
+      "rarity": "Major",
+      "description": "This powerful orb causes your Fire spells to inflict an additional 50% damage"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Orb of the Firmament",
+      "image": "/assets/graphics/artifacts/Orb_of_the_Firmament.webp",
+      "slot": "Accessories",
+      "rarity": "Major",
+      "description": "This powerful orb causes your Air spells to inflict an additional 50% damage"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Orb of Vulnerability",
+      "image": "/assets/graphics/artifacts/OrbOfVulnerabilityIII.webp",
+      "slot": "Accessories",
+      "rarity": "Relic",
+      "description": "During combat, this orb negates the natural magic resistance of all creatures on the battlefield"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Shackles of War",
+      "image": "/assets/graphics/artifacts/Shackles_of_War.webp",
+      "slot": "Accessories",
+      "rarity": "Major",
+      "description": "When these shackles are wielded in combat, neither you nor your opponent may retreat or surrender"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Speculum",
+      "image": "/assets/graphics/artifacts/Speculum.webp",
+      "slot": "Accessories",
+      "rarity": "Treasure",
+      "description": "The Speculum increases your Scouting radius by +1"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Sphere of Permanence",
+      "image": "/assets/graphics/artifacts/Sphere_of_Permanence.webp",
+      "slot": "Accessories",
+      "rarity": "Major",
+      "description": "Wielding this sphere renders your units immune to the Dispel spell"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Spirit of Oppression",
+      "image": "/assets/graphics/artifacts/Spirit_of_Oppression.webp",
+      "slot": "Accessories",
+      "rarity": "Treasure",
+      "description": "This item negates all morale bonuses during combat for both you and your opponent"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Spyglass",
+      "image": "/assets/graphics/artifacts/Spyglass.webp",
+      "slot": "Accessories",
+      "rarity": "Treasure",
+      "description": "The Spyglass increases your Scouting radius by +1"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Stoic Watchman",
+      "image": "/assets/graphics/artifacts/Stoic_Watchman.webp",
+      "slot": "Accessories",
+      "rarity": "Treasure",
+      "description": "This figurine increases your Eagle Eye skill by 10%"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Talisman of Mana",
+      "image": "/assets/graphics/artifacts/Talisman_of_Mana.webp",
+      "slot": "Accessories",
+      "rarity": "Treasure",
+      "description": "This talisman helps you recover 2 extra spell points per day"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Tome of Air Magic",
+      "image": "/assets/graphics/artifacts/TomeOfAirMagicIII.webp",
+      "slot": "Accessories",
+      "rarity": "Relic",
+      "description": "This heavy book contains all spells in the school of Air Magic. It must be equipped for the spells to be available"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Tome of Earth Magic",
+      "image": "/assets/graphics/artifacts/Tome_of_Earth_Magic.webp",
+      "slot": "Accessories",
+      "rarity": "Relic",
+      "description": "This heavy book contains all spells in the school of Earth Magic. It must be equipped for the spells to be available"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Tome of Fire Magic",
+      "image": "/assets/graphics/artifacts/TomeOfFireMagicIII.webp",
+      "slot": "Accessories",
+      "rarity": "Relic",
+      "description": "This heavy book contains all spells in the school of Fire Magic. It must be equipped for the spells to be available"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Tome of Water Magic",
+      "image": "/assets/graphics/artifacts/TomeOfWaterMagicIII.webp",
+      "slot": "Accessories",
+      "rarity": "Relic",
+      "description": "This heavy book contains all spells in the school of Water Magic. It must be equipped for the spells to be available"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Torso of Legion",
+      "image": "/assets/graphics/artifacts/Torso_of_Legion.webp",
+      "slot": "Accessories",
+      "rarity": "Minor",
+      "description": "This item, when equipped by a hero in a town, increases the growth of your 4th level units (in that town) by 3 per week"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Vial of Lifeblood",
+      "image": "/assets/graphics/artifacts/Vial_of_Lifeblood.webp",
+      "slot": "Accessories",
+      "rarity": "Major",
+      "description": "This item increases the health of all your units by +2"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Spellbook",
+      "image": "/assets/graphics/artifacts/Spellbookicon-H3.webp",
+      "slot": "Others",
+      "rarity": "N/A",
+      "description": "Allows the hero to cast spells. Can be bought in mage guilds"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Spell Scroll",
+      "image": "/assets/graphics/artifacts/SpellscrollH3.webp",
+      "slot": "Others",
+      "rarity": "N/A",
+      "description": "Allows the hero to cast the Spell scroll's spell as long as the scroll is in an accessory slot"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Grail",
+      "image": "/assets/graphics/artifacts/Grail_-_H3.webp",
+      "slot": "Others",
+      "rarity": "N/A",
+      "description": "Allows the hero to build a special building in one of the player's towns. Can be found with the help of the puzzle map. On some maps getting the Grail is a victory condition"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Catapult",
+      "image": "/assets/graphics/artifacts/Catapulticon-H3.webp",
+      "slot": "Others",
+      "rarity": "N/A",
+      "description": "Every hero has one by default. Attacks fortifications during siege"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Ballista",
+      "image": "/assets/graphics/artifacts/Ballistaicon-H3.webp",
+      "slot": "Others",
+      "rarity": "N/A",
+      "description": "Can be bought in some towns' blacksmith. Attacks enemies during combat"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Ammo Cart",
+      "image": "/assets/graphics/artifacts/Ammocarticon-H3.webp",
+      "slot": "Others",
+      "rarity": "N/A",
+      "description": "Can be bought in some towns' blacksmith. Gives ranged creatures infinite ammo during combat"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "First Aid Tent",
+      "image": "/assets/graphics/artifacts/Firstaidtenticon-H3.webp",
+      "slot": "Others",
+      "rarity": "N/A",
+      "description": "Can be bought in some towns' blacksmith. Heals friendly creatures during combat"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Pandora's Box",
+      "image": "/assets/graphics/artifacts/Pandorasbox-H3.webp",
+      "slot": "Others",
+      "rarity": "Relic",
+      "description": "It can only appear on the adventure map and can't be placed into heroes' inventories. Can give experience, skills, artifacts, spells or creatures, give or take away resources, luck, morale or spell points. Often guarded by various creatures"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Armageddon's Blade",
+      "image": "/assets/graphics/artifacts/ArmageddonsBlade.webp",
+      "slot": "Armageddon's Blade Artifacts",
+      "rarity": "Relic",
+      "description": "This right handed weapon gives +3 attack, +3 defense, +6 knowledge, +3 spellpower, also gives the hero the Armageddon spell and renders the hero's army immune to the Armageddon spell"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Vial of Dragon Blood",
+      "image": "/assets/graphics/artifacts/Artdragon-1-.webp",
+      "slot": "Armageddon's Blade Artifacts",
+      "rarity": "Relic",
+      "description": "his item gives +5 attack and +5 defense to all dragons under the hero's command"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Admiral's Hat",
+      "image": "/assets/graphics/artifacts/AdmiralsHat.webp",
+      "slot": "Shadow of Death Artifacts",
+      "rarity": "Relic",
+      "description": "Worn on the head this item removes movement penalties for boarding or unboarding a boat"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Angelic Alliance",
+      "image": "/assets/graphics/artifacts/AngelicAlliance.webp",
+      "slot": "Shadow of Death Artifacts",
+      "rarity": "Relic",
+      "description": "This right handed weapon allows Rampart, Tower, Fortress, Stronghold, and Castle creatures to be mixed without a morale penalty and casts the Prayer spell at the start of every combat"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Armor of the Damned",
+      "image": "/assets/graphics/artifacts/Armerofthedamned.webp",
+      "slot": "Shadow of Death Artifacts",
+      "rarity": "Relic",
+      "description": "Worn on the torso, this armor casts Slow, Weakness, Misfortune and Curse on the enemy at the start of every battle. The effect lasts for fifty turns"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Bow of the Sharpshooter",
+      "image": "/assets/graphics/artifacts/BowOfTheSharpshooter.webp",
+      "slot": "Shadow of Death Artifacts",
+      "rarity": "Relic",
+      "description": "This item lets ranged creatures shoot while adjacent to enemies, and allows them to do full damage regardless of range or obstacles"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Cloak of the Undead King",
+      "image": "/assets/graphics/artifacts/CloakoftheUndeadKing.webp",
+      "slot": "Shadow of Death Artifacts",
+      "rarity": "Relic",
+      "description": "Worn about the shoulders, this cloak gives a 30% boost to the hero's Necromancy skill. Also allows the hero to raise walking dead, wights, and liches after winning battles"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Cornucopia",
+      "image": "/assets/graphics/artifacts/Cornucopia.webp",
+      "slot": "Shadow of Death Artifacts",
+      "rarity": "Relic",
+      "description": "This item generates four of each precious resource (gems, crystal, mercury, and sulfur) every day"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Elixir of Life",
+      "image": "/assets/graphics/artifacts/ElixirOfLife.webp",
+      "slot": "Shadow of Death Artifacts",
+      "rarity": "Relic",
+      "description": "This item gives all creatures, apart from undead or unliving ones, +25% hit points and the regeneration ability"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Power of the Dragon Father",
+      "image": "/assets/graphics/artifacts/PowerOfTheDragonFather.webp",
+      "slot": "Shadow of Death Artifacts",
+      "rarity": "Relic",
+      "description": "This armor gives +6 to all primary skills, and all troops in the hero's army are immune to spells below fifth level"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Ring of the Magi",
+      "image": "/assets/graphics/artifacts/RingOfTheMagi.webp",
+      "slot": "Shadow of Death Artifacts",
+      "rarity": "Relic",
+      "description": "Worn on a finger, this ring adds fifty rounds to spell duration"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Statue of Legion",
+      "image": "/assets/graphics/artifacts/StatueOfLegion.webp",
+      "slot": "Shadow of Death Artifacts",
+      "rarity": "Relic",
+      "description": "This item increases creature production in all towns by 50%"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Titan's Thunder",
+      "image": "/assets/graphics/artifacts/TitansThunder.webp",
+      "slot": "Shadow of Death Artifacts",
+      "rarity": "Relic",
+      "description": "This right handed weapon gives a total of +9 to a hero's attack and defense skill, and +8 to their spell power and knowledge. Also gives a free spell book with the unique Titan's Lightning Bolt spell"
     },
     {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
-    },
-    {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
-    },
-    {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
-    },
-    {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
-    },
-    {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
-    },
-    {
-      "name": "",
-      "image": "",
-      "slot": "",
-      "rarity": "",
-      "description": ""
+      "name": "Wizard's Well",
+      "image": "/assets/graphics/artifacts/WizardsWell.webp",
+      "slot": "Shadow of Death Artifacts",
+      "rarity": "Relic",
+      "description": "This item regenerates all of the hero's spell points every day"
     }
   ]
 }

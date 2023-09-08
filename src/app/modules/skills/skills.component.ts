@@ -9,7 +9,7 @@ import { SkillsService } from 'src/app/services/skills.service';
   styleUrls: ['./skills.component.scss'],
 })
 export class SkillsComponent implements OnInit {
-  spells: Skills[] = [];
+  skills: Skills[] = [];
   dataSource!: MatTableDataSource<Skills>;
   displayedColumns: string[] = [
     'name',

@@ -29,6 +29,13 @@ const routes: Routes = [
     loadChildren: () =>
       import('./modules/skills/skills.module').then((m) => m.SkillsModule),
   },
+  {
+    path: 'artifacts',
+    loadChildren: () =>
+      import('./modules/artifacts/artifacts.module').then(
+        (m) => m.SkillsModule
+      ),
+  },
 ];
 
 @NgModule({
