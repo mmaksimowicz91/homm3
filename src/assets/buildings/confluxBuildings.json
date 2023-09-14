@@ -100,7 +100,7 @@
     },
     {
       "structure": "Mage Guild Level 4",
-      "image": "/assets/graphics/buildings/Mage_guild_level_4_Castle_H3.webp",
+      "image": "/assets/graphics/buildings/Mage_guild_level_4_Conflux_H3.webp",
       "cost": "5 wood, 5 ore, 8 mercury, 8 sulfur, 8 crystal, 8 gem, 1000 gold",
       "requirements": "Mage Guild Level 3",
       "benefits": "Two level 4 spells become available for heroes to learn"

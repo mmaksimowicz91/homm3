@@ -6,29 +6,28 @@ const routes: Routes = [
   {
     path: '',
     component: DungeonComponent,
-    children: [
-      {
-        path: 'dungeonbuildings',
-        loadChildren: () =>
-          import('./buildings/dungeonbuildings.module').then(
-            (m) => m.DungeonBuildingsModule
-          ),
-      },
-      {
-        path: 'dungeonheroes',
-        loadChildren: () =>
-          import('./heroes/dungeonheroes.module').then(
-            (m) => m.DungeonHeroesModule
-          ),
-      },
-      {
-        path: 'dungeonunits',
-        loadChildren: () =>
-          import('./units/dungeonunits.module').then(
-            (m) => m.DungeonUnitsModule
-          ),
-      },
-    ],
+  },
+  {
+    path: 'dungeonbuildings',
+    loadChildren: () =>
+      import('./buildings/dungeonbuildings.module').then(
+        (m) => m.DungeonBuildingsModule
+      ),
+    data: { breadcrumb: 'Buildings' },
+  },
+  {
+    path: 'dungeonheroes',
+    loadChildren: () =>
+      import('./heroes/dungeonheroes.module').then(
+        (m) => m.DungeonHeroesModule
+      ),
+    data: { breadcrumb: 'Heroes' },
+  },
+  {
+    path: 'dungeonunits',
+    loadChildren: () =>
+      import('./units/dungeonunits.module').then((m) => m.DungeonUnitsModule),
+    data: { breadcrumb: 'Units' },
   },
 ];
 

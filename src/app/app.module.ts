@@ -9,9 +9,10 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 
 import { MatTableModule } from '@angular/material/table';
+import { BreadcrumbsComponent } from './shared/breadcrumbs/breadcrumbs.component';
 
 @NgModule({
-  declarations: [AppComponent],
+  declarations: [AppComponent, BreadcrumbsComponent],
   imports: [
     // RouterModule.forRoot(routes),
     BrowserModule,

@@ -6,27 +6,26 @@ const routes: Routes = [
   {
     path: '',
     component: TowerComponent,
-    children: [
-      {
-        path: 'towerbuildings',
-        loadChildren: () =>
-          import('./buildings/towerbuildings.module').then(
-            (m) => m.TowerBuildingsModule
-          ),
-      },
-      {
-        path: 'towerheroes',
-        loadChildren: () =>
-          import('./heroes/towerheroes.module').then(
-            (m) => m.TowerHeroesModule
-          ),
-      },
-      {
-        path: 'towerunits',
-        loadChildren: () =>
-          import('./units/towerunits.module').then((m) => m.TowerUnitsModule),
-      },
-    ],
+  },
+  {
+    path: 'towerbuildings',
+    loadChildren: () =>
+      import('./buildings/towerbuildings.module').then(
+        (m) => m.TowerBuildingsModule
+      ),
+    data: { breadcrumb: 'Buildings' },
+  },
+  {
+    path: 'towerheroes',
+    loadChildren: () =>
+      import('./heroes/towerheroes.module').then((m) => m.TowerHeroesModule),
+    data: { breadcrumb: 'Heroes' },
+  },
+  {
+    path: 'towerunits',
+    loadChildren: () =>
+      import('./units/towerunits.module').then((m) => m.TowerUnitsModule),
+    data: { breadcrumb: 'Units' },
   },
 ];
 

@@ -6,29 +6,28 @@ const routes: Routes = [
   {
     path: '',
     component: InfernoComponent,
-    children: [
-      {
-        path: 'infernobuildings',
-        loadChildren: () =>
-          import('./buildings/infernobuildings.module').then(
-            (m) => m.InfernoBuildingsModule
-          ),
-      },
-      {
-        path: 'infernoheroes',
-        loadChildren: () =>
-          import('./heroes/infernoheroes.module').then(
-            (m) => m.InfernoHeroesModule
-          ),
-      },
-      {
-        path: 'infernounits',
-        loadChildren: () =>
-          import('./units/infernounits.module').then(
-            (m) => m.InfernoUnitsModule
-          ),
-      },
-    ],
+  },
+  {
+    path: 'infernobuildings',
+    loadChildren: () =>
+      import('./buildings/infernobuildings.module').then(
+        (m) => m.InfernoBuildingsModule
+      ),
+    data: { breadcrumb: 'Buildings' },
+  },
+  {
+    path: 'infernoheroes',
+    loadChildren: () =>
+      import('./heroes/infernoheroes.module').then(
+        (m) => m.InfernoHeroesModule
+      ),
+    data: { breadcrumb: 'Heroes' },
+  },
+  {
+    path: 'infernounits',
+    loadChildren: () =>
+      import('./units/infernounits.module').then((m) => m.InfernoUnitsModule),
+    data: { breadcrumb: 'Units' },
   },
 ];
 

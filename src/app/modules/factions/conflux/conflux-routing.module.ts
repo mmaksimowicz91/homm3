@@ -6,29 +6,28 @@ const routes: Routes = [
   {
     path: '',
     component: ConfluxComponent,
-    children: [
-      {
-        path: 'confluxbuildings',
-        loadChildren: () =>
-          import('./buildings/confluxbuildings.module').then(
-            (m) => m.ConfluxBuildingsModule
-          ),
-      },
-      {
-        path: 'confluxheroes',
-        loadChildren: () =>
-          import('./heroes/confluxheroes.module').then(
-            (m) => m.ConfluxHeroesModule
-          ),
-      },
-      {
-        path: 'confluxunits',
-        loadChildren: () =>
-          import('./units/confluxunits.module').then(
-            (m) => m.ConfluxUnitsModule
-          ),
-      },
-    ],
+  },
+  {
+    path: 'confluxbuildings',
+    loadChildren: () =>
+      import('./buildings/confluxbuildings.module').then(
+        (m) => m.ConfluxBuildingsModule
+      ),
+    data: { breadcrumb: 'Buildings' },
+  },
+  {
+    path: 'confluxheroes',
+    loadChildren: () =>
+      import('./heroes/confluxheroes.module').then(
+        (m) => m.ConfluxHeroesModule
+      ),
+    data: { breadcrumb: 'Heroes' },
+  },
+  {
+    path: 'confluxunits',
+    loadChildren: () =>
+      import('./units/confluxunits.module').then((m) => m.ConfluxUnitsModule),
+    data: { breadcrumb: 'Units' },
   },
 ];
 

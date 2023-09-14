@@ -6,29 +6,28 @@ const routes: Routes = [
   {
     path: '',
     component: FortressComponent,
-    children: [
-      {
-        path: 'fortressbuildings',
-        loadChildren: () =>
-          import('./buildings/fortressbuildings.module').then(
-            (m) => m.FortressBuildingsModule
-          ),
-      },
-      {
-        path: 'fortressheroes',
-        loadChildren: () =>
-          import('./heroes/fortressheroes.module').then(
-            (m) => m.FortressHeroesModule
-          ),
-      },
-      {
-        path: 'fortressunits',
-        loadChildren: () =>
-          import('./units/fortressunits.module').then(
-            (m) => m.FortressUnitsModule
-          ),
-      },
-    ],
+  },
+  {
+    path: 'fortressbuildings',
+    loadChildren: () =>
+      import('./buildings/fortressbuildings.module').then(
+        (m) => m.FortressBuildingsModule
+      ),
+    data: { breadcrumb: 'Buildings' },
+  },
+  {
+    path: 'fortressheroes',
+    loadChildren: () =>
+      import('./heroes/fortressheroes.module').then(
+        (m) => m.FortressHeroesModule
+      ),
+    data: { breadcrumb: 'Heroes' },
+  },
+  {
+    path: 'fortressunits',
+    loadChildren: () =>
+      import('./units/fortressunits.module').then((m) => m.FortressUnitsModule),
+    data: { breadcrumb: 'Units' },
   },
 ];
 
