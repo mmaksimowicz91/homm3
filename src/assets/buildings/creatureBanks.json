@@ -1,0 +1,64 @@
+{
+  "banks": [
+    {
+      "name": "Crypt",
+      "image": "/src/assets/graphics/adventure-structures/CryptIII.webp",
+      "description": "The hero can battle various necropolis creatures and be rewarded with gold and artifacts. Revisiting Crypt will reduce morale by 1"
+    },
+    {
+      "name": "Cyclops stockpile",
+      "image": "/src/assets/graphics/adventure-structures/CyclopsStockpileIII.webp",
+      "description": "The hero can fight cyclopes and be rewarded with a small sum of each resource"
+    },
+    {
+      "name": "Derelict ship",
+      "image": "/src/assets/graphics/adventure-structures/DerelictShipH3.webp",
+      "description": "The hero can battle with water elementals and be rewarded with gold and artifacts"
+    },
+    {
+      "name": "Dragon fly hive",
+      "image": "/src/assets/graphics/adventure-structures/DragonFlyHiveIII.webp",
+      "description": "The hero can fight dragon flies and serpent flies and be rewarded with with a group of wyverns"
+    },
+    {
+      "name": "Dragon Utopia",
+      "image": "/src/assets/graphics/adventure-structures/A_dragonutopia.webp",
+      "description": "The hero can fight dragons and be rewarded with gold and artifacts"
+    },
+    {
+      "name": "Dwarven treasury",
+      "image": "/src/assets/graphics/adventure-structures/DwarvenTreasuryH3.webp",
+      "description": "The hero can battle with dwarves and be rewarded with gold and crystals"
+    },
+    {
+      "name": "Imp cache",
+      "image": "/src/assets/graphics/adventure-structures/ImpCacheH3.webp",
+      "description": "The hero can battle with imps and be rewarded with gold and mercury"
+    },
+    {
+      "name": "Griffin conservatory",
+      "image": "/src/assets/graphics/adventure-structures/GriffinConservatoryIII.webp",
+      "description": "The hero can fight griffinss and be rewarded with with a group of angels"
+    },
+    {
+      "name": "Medusa stores",
+      "image": "/src/assets/graphics/adventure-structures/MedusaStoresIII.webp",
+      "description": "The hero can battle with medusas and be rewarded with gold and sulfur"
+    },
+    {
+      "name": "Naga bank",
+      "image": "/src/assets/graphics/adventure-structures/NagaBankIII.webp",
+      "description": "The hero can battle with nagas and be rewarded with gold and gems"
+    },
+    {
+      "name": "Pyramid",
+      "image": "/src/assets/graphics/adventure-structures/Pyramid_III.webp",
+      "description": "The hero can fight gold golems and diamond golems and be rewarded with a random fifth-level spell"
+    },
+    {
+      "name": "Shipwreck",
+      "image": "/src/assets/graphics/adventure-structures/ShipwreckH3.webp",
+      "description": "The hero can battle with wights and be rewarded with gold and artifacts"
+    }
+  ]
+}

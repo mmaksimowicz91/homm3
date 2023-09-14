@@ -2,6 +2,7 @@
   "units": [
     {
       "name": "Peasant",
+      "image": "/assets/graphics/units/Creature_Peasant.gif",
       "tier": "1",
       "type": "melee",
       "dwelling": "Hovel",
@@ -16,6 +17,7 @@
     },
     {
       "name": "Halfling",
+      "image": "/assets/graphics/units/Creature_Halfling.gif",
       "tier": "1",
       "type": "ranged",
       "dwelling": "Thatched Hut",
@@ -30,6 +32,7 @@
     },
     {
       "name": "Rogue",
+      "image": "/assets/graphics/units/Creature_Rogue.gif",
       "tier": "2",
       "type": "melee",
       "dwelling": "Rogue Caverns",
@@ -44,6 +47,7 @@
     },
     {
       "name": "Boar",
+      "image": "/assets/graphics/units/Creature_Boar.gif",
       "tier": "2",
       "type": "melee",
       "dwelling": "Boar Glen",
@@ -58,6 +62,7 @@
     },
     {
       "name": "Nomad",
+      "image": "/assets/graphics/units/Creature_Nomad.gif",
       "tier": "3",
       "type": "melee",
       "dwelling": "Nomad Tent",
@@ -72,6 +77,7 @@
     },
     {
       "name": "Mummy",
+      "image": "/assets/graphics/units/Creature_Mummy.gif",
       "tier": "3",
       "type": "melee",
       "dwelling": "Tomb of Curses",
@@ -86,6 +92,7 @@
     },
     {
       "name": "Sharpshooter",
+      "image": "/assets/graphics/units/Creature_Sharpshooter.gif",
       "tier": "4",
       "type": "ranged",
       "dwelling": "Treetop Tower",
@@ -100,6 +107,7 @@
     },
     {
       "name": "Troll",
+      "image": "/assets/graphics/units/Creature_Troll.gif",
       "tier": "5",
       "type": "melee",
       "dwelling": "Troll Bridge",
@@ -114,6 +122,7 @@
     },
     {
       "name": "Gold Golem",
+      "image": "/assets/graphics/units/Creature_Gold_Golem.gif",
       "tier": "5",
       "type": "melee",
       "dwelling": "Golem Factory (only on the adventure map)",
@@ -128,6 +137,7 @@
     },
     {
       "name": "Diamond Golem",
+      "image": "/assets/graphics/units/Creature_Diamondgolem.gif",
       "tier": "6",
       "type": "melee",
       "dwelling": "Golem Factory (only on the adventure map)",
@@ -142,6 +152,7 @@
     },
     {
       "name": "Enchanter",
+      "image": "/assets/graphics/units/Creature_Enchanter.gif",
       "tier": "6",
       "type": "ranged",
       "dwelling": "Enchanter's Hollow",
@@ -156,6 +167,7 @@
     },
     {
       "name": "Faerie Dragon",
+      "image": "/assets/graphics/units/Creature_Faerie_Dragon.gif",
       "tier": "7",
       "type": "melee",
       "dwelling": "Magic Forest",
@@ -170,6 +182,7 @@
     },
     {
       "name": "Rust Dragon",
+      "image": "/assets/graphics/units/Creature_Rust_Dragon.gif",
       "tier": "7",
       "type": "melee",
       "dwelling": "Sulfurous Lair",
@@ -184,6 +197,7 @@
     },
     {
       "name": "Crystal Dragon",
+      "image": "/assets/graphics/units/Creature_Crystal_Dragon.gif",
       "tier": "7",
       "type": "melee",
       "dwelling": "Crystal Cavern",
@@ -198,6 +212,7 @@
     },
     {
       "name": "Azure Dragon",
+      "image": "/assets/graphics/units/Creature_Azure_Dragon.gif",
       "tier": "7",
       "type": "melee",
       "dwelling": "Frozen Cliffs",

@@ -36,9 +36,16 @@ const routes: Routes = [
     path: 'artifacts',
     loadChildren: () =>
       import('./modules/artifacts/artifacts.module').then(
-        (m) => m.SkillsModule
+        (m) => m.ArtifactsModule
       ),
     data: { breadcrumb: 'Artifacts' },
+  },
+  {
+    path: 'adventure',
+    loadChildren: () =>
+      import('./modules/adventure/adventure.module').then(
+        (m) => m.AdventureModule
+      ),
   },
 ];
 

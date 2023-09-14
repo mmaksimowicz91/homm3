@@ -15,4 +15,4 @@ import { ArtifactsRoutingModule } from './artifacts-routing.module';
     MatFormFieldModule,
   ],
 })
-export class SkillsModule {}
+export class ArtifactsModule {}

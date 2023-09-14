@@ -1,0 +1,73 @@
+<h1>Neutral Units</h1>
+<div class="mat-elevation-z8" *ngIf="dataSource">
+  <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
+    <ng-container matColumnDef="name">
+      <th mat-header-cell *matHeaderCellDef>Name</th>
+      <td mat-cell *matCellDef="let units">
+        {{ units.name }}
+      </td>
+    </ng-container>
+
+    <ng-container matColumnDef="image">
+      <th mat-header-cell *matHeaderCellDef>Image</th>
+      <td mat-cell *matCellDef="let units">
+        <img [src]="units.image" />
+      </td>
+    </ng-container>
+
+    <ng-container matColumnDef="tier">
+      <th mat-header-cell *matHeaderCellDef>Tier</th>
+      <td mat-cell *matCellDef="let units">{{ units.tier }}</td>
+    </ng-container>
+
+    <ng-container matColumnDef="upgraded">
+      <th mat-header-cell *matHeaderCellDef>Upgraded</th>
+      <td mat-cell *matCellDef="let units">{{ units.upgraded }}</td>
+    </ng-container>
+
+    <ng-container matColumnDef="type">
+      <th mat-header-cell *matHeaderCellDef>Type</th>
+      <td mat-cell *matCellDef="let units">{{ units.type }}</td>
+    </ng-container>
+
+    <ng-container matColumnDef="dwelling">
+      <th mat-header-cell *matHeaderCellDef>Dwelling</th>
+      <td mat-cell *matCellDef="let units">{{ units.dwelling }}</td>
+    </ng-container>
+    <ng-container matColumnDef="cost">
+      <th mat-header-cell *matHeaderCellDef>Cost</th>
+      <td mat-cell *matCellDef="let units">{{ units.cost }}</td>
+    </ng-container>
+    <ng-container matColumnDef="attack">
+      <th mat-header-cell *matHeaderCellDef>Attack</th>
+      <td mat-cell *matCellDef="let units">{{ units.attack }}</td>
+    </ng-container>
+    <ng-container matColumnDef="defense">
+      <th mat-header-cell *matHeaderCellDef>Defense</th>
+      <td mat-cell *matCellDef="let units">{{ units.defense }}</td>
+    </ng-container>
+    <ng-container matColumnDef="hp">
+      <th mat-header-cell *matHeaderCellDef>HP</th>
+      <td mat-cell *matCellDef="let units">{{ units.hp }}</td>
+    </ng-container>
+    <ng-container matColumnDef="damage">
+      <th mat-header-cell *matHeaderCellDef>Damage</th>
+      <td mat-cell *matCellDef="let units">{{ units.damage }}</td>
+    </ng-container>
+    <ng-container matColumnDef="speed">
+      <th mat-header-cell *matHeaderCellDef>Speed</th>
+      <td mat-cell *matCellDef="let units">{{ units.speed }}</td>
+    </ng-container>
+    <ng-container matColumnDef="growth">
+      <th mat-header-cell *matHeaderCellDef>Growth</th>
+      <td mat-cell *matCellDef="let units">{{ units.growth }}</td>
+    </ng-container>
+    <ng-container matColumnDef="special">
+      <th mat-header-cell *matHeaderCellDef>Special</th>
+      <td mat-cell *matCellDef="let units">{{ units.special }}</td>
+    </ng-container>
+
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns"></tr>
+  </table>
+</div>
