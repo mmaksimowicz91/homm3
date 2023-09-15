@@ -1,0 +1,104 @@
+{
+  "dwelling": [
+    {
+      "name": "Air Elemental Conflux",
+      "image": "/assets/graphics/adventure-structures/Air_elemental_conflux_-_H3.webp",
+      "description": "Allows visiting heroes to recruit air elementals. Replenishes every week. Cannot be flagged by heroes"
+    },
+    {
+      "name": "Boar Glen",
+      "image": "/assets/graphics/adventure-structures/Boar_glen_-_H3.webp",
+      "description": "Allows visiting heroes to recruit boars. Replenishes every week"
+    },
+    {
+      "name": "Crystal Cavern",
+      "image": "/assets/graphics/adventure-structures/Crystal_cavern_-_H3.webp",
+      "description": "Allows visiting heroes to recruit crystal dragons. Replenishes every week. Guarded by few crystal dragons"
+    },
+    {
+      "name": "Earth Elemental Conflux",
+      "image": "/assets/graphics/adventure-structures/Earth_elemental_conflux_-_H3.webp",
+      "description": "Allows visiting heroes to recruit earth elementals. Replenishes every week. Guarded by a pack of earth elementals. Cannot be flagged by heroes"
+    },
+    {
+      "name": "Enchanter's Hollow",
+      "image": "/assets/graphics/adventure-structures/Enchanters_hollow_-_H3.webp",
+      "description": "Allows visiting heroes to recruit enchanters. Replenishes every week. Guarded by several enchanters"
+    },
+    {
+      "name": "Elemental Conflux",
+      "image": "/assets/graphics/adventure-structures/Elemental_conflux_-_H3.webp",
+      "description": "Allows visiting heroes to recruit air, water, fire and earth elementals. Replenishes every week. Guarded by a pack of earth elementals. Cannot be flagged by heroes"
+    },
+    {
+      "name": "Fire Elemental Conflux",
+      "image": "/assets/graphics/adventure-structures/Fire_elemental_conflux_-_H3.webp",
+      "description": "Allows visiting heroes to recruit fire elementals. Replenishes every week. Cannot be flagged by heroes"
+    },
+    {
+      "name": "Frozen Cliffs",
+      "image": "/assets/graphics/adventure-structures/Frozen_cliffs_-_H3.webp",
+      "description": "Allows visiting heroes to recruit azure dragons. Replenishes every week. Guarded a few azure dragons"
+    },
+    {
+      "name": "Hovel",
+      "image": "/assets/graphics/adventure-structures/Hovel_-_H3.webp",
+      "description": "Gives peasants to a visiting hero for free once per week"
+    },
+    {
+      "name": "Magic Forest",
+      "image": "/assets/graphics/adventure-structures/Magic_forest_-_H3.webp",
+      "description": "Allows visiting heroes to recruit faerie dragons. Replenishes every week. Guarded by a few faerie dragons"
+    },
+    {
+      "name": "Nomad Tent",
+      "image": "/assets/graphics/adventure-structures/Nomad_tent_-_H3.webp",
+      "description": "Allows visiting heroes to recruit nomads. Replenishes every week"
+    },
+    {
+      "name": "Refugee Camp",
+      "image": "/assets/graphics/adventure-structures/Refugee_camp_-_H3.webp",
+      "description": "In this camp, heroes can recruit random creatures every week"
+    },
+    {
+      "name": "Rogue Cavern",
+      "image": "/assets/graphics/adventure-structures/Rogue_cavern_-_H3.webp",
+      "description": "Allows visiting heroes to recruit rogues. Replenishes every week"
+    },
+    {
+      "name": "Sulfurous Lair",
+      "image": "/assets/graphics/adventure-structures/Sulfurous_lair_-_H3.webp",
+      "description": "Allows visiting heroes to recruit rust dragons. Replenishes every week. Guarded by a few rust dragons"
+    },
+    {
+      "name": "Thatched Hut",
+      "image": "/assets/graphics/adventure-structures/Thatched_hut_-_H3.webp",
+      "description": "Gives halflings to a visiting hero for free once per week"
+    },
+    {
+      "name": "Tomb of Curses",
+      "image": "/assets/graphics/adventure-structures/Tomb_of_curses_-_H3.webp",
+      "description": "Allows visiting heroes to recruit mummies. Replenishes every week"
+    },
+    {
+      "name": "Treetop Tower",
+      "image": "/assets/graphics/adventure-structures/Treetop_tower_-_H3.webp",
+      "description": "Allows visiting heroes to recruit sharpshooters. Replenishes every week"
+    },
+    {
+      "name": "Troll Bridge",
+      "image": "/assets/graphics/adventure-structures/Troll_bridge_-_H3.webp",
+      "description": "Allows visiting heroes to recruit trolls. Replenishes every week. Guarded by a several trolls"
+    },
+    {
+      "name": "War Machine Factory",
+      "image": "/assets/graphics/adventure-structures/War_machine_factory_-_H3.webp",
+      "description": "The factory allows heroes to buy war machines"
+    },
+    {
+      "name": "Water Elemental Conflux",
+      "image": "/assets/graphics/adventure-structures/Water_elemental_conflux_-_H3.webp",
+      "description": "Allows visiting heroes to recruit water elementals. Replenishes every week. Cannot be flagged by heroes"
+    }
+  ]
+}

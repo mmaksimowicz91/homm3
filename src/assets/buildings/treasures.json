@@ -1,0 +1,64 @@
+{
+  "treasures": [
+    {
+      "name": "Campfire",
+      "image": "/assets/graphics/adventure-structures/Campfire_-_H3.webp",
+      "description": "The first hero to visit the campfire finds a random amount of gold and resources. The campfire can only be visited once, and then it disappears"
+    },
+    {
+      "name": "Flotsam",
+      "image": "/assets/graphics/adventure-structures/Flotsam_-_H3.webp",
+      "description": "The first hero to visit the flotsam finds a random amount of wood and gold. The flotsam can only be visited once, and then it disappears"
+    },
+    {
+      "name": "Lean to",
+      "image": "/assets/graphics/adventure-structures/Lean_to_-_H3.webp",
+      "description": "The first hero to visit the lean to finds a random amount of resources. The lean to gives no further resources on subsequent visits. They usually appear on snowy terrain on official maps"
+    },
+    {
+      "name": "Mystical Garden",
+      "image": "/assets/graphics/adventure-structures/MysticalGardenIII.webp",
+      "description": "Leprechaun in that garden gives gems or gold. The garden can only be visited for a reward once per week"
+    },
+    {
+      "name": "Sea Chest",
+      "image": "/assets/graphics/adventure-structures/Sea_chest_-_H3.webp",
+      "description": "Usually contains gold, and sometimes artifacts. There is no battle, and it may only be visited once"
+    },
+    {
+      "name": "Shipwreck Survivor",
+      "image": "/assets/graphics/adventure-structures/Shipwreck_survivor_-_H3.webp",
+      "description": "The first hero to rescue the survivor, is granted a random artifact. There is no cost, no battle, and can only be visited once"
+    },
+    {
+      "name": "Skeleton",
+      "image": "/assets/graphics/adventure-structures/Skeleton_29_-_H3.webp",
+      "description": "When the hero approaches the skeleton, they have a chance of obtaining a minor artifact or nothing at all"
+    },
+    {
+      "name": "Treasure Chest",
+      "image": "/assets/graphics/adventure-structures/Treasure_chest_-_H3.webp",
+      "description": "Treasure chest contains a varying amount of gold. When picked up by a hero, they can either keep the gold, or give it away for experience"
+    },
+    {
+      "name": "Wagon",
+      "image": "/assets/graphics/adventure-structures/Wagon_-_H3.webp",
+      "description": "When a hero approaches the wagon, they have a chance of obtaining a minor artifact, random resource or nothing at all"
+    },
+    {
+      "name": "Warrior's Tomb",
+      "image": "/assets/graphics/adventure-structures",
+      "description": "When a hero approaches the tomb, they have a chance of obtaining a random artifact, but reduces the morale of troops by -3. It will also reduce morale on subsequent visits"
+    },
+    {
+      "name": "Waterwheel",
+      "image": "/assets/graphics/adventure-structures/Waterwill_-_H3.webp",
+      "description": "The waterwheel provides a random amount of gold when visited by a hero. It can only be visited once per week"
+    },
+    {
+      "name": "Windmill",
+      "image": "/assets/graphics/adventure-structures/WindmillH3.webp",
+      "description": "The windmill provides a small amount of a random resource when visited by a hero. It can only be visited once per week"
+    }
+  ]
+}

@@ -14,6 +14,11 @@ const routes: Routes = [
         (m) => m.NeutralUnitsModule
       ),
   },
+  {
+    path: 'structures',
+    loadChildren: () =>
+      import('./structures/structures.module').then((m) => m.StructuresModule),
+  },
 ];
 
 @NgModule({

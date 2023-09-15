@@ -1,0 +1,39 @@
+{
+  "dwelling": [
+    {
+      "name": "Guardhouse",
+      "image": "/assets/graphics/adventure-structures/Guardhouse_map_-_H3.webp",
+      "description": "Gives pikemen to a visiting hero for free once per week"
+    },
+    {
+      "name": "Archers' tower",
+      "image": "/assets/graphics/adventure-structures/Archers_tower_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit archers. Replenishes every week"
+    },
+    {
+      "name": "Griffin tower",
+      "image": "/assets/graphics/adventure-structures/Griffin_tower_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit griffins. Replenishes every week"
+    },
+    {
+      "name": "Barracks",
+      "image": "/assets/graphics/adventure-structures/Barracks_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit swordsmen. Replenishes every week"
+    },
+    {
+      "name": "Monastery",
+      "image": "/assets/graphics/adventure-structures/Monastery_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit monks. Replenishes every week. Guarded by several monks"
+    },
+    {
+      "name": "Training grounds",
+      "image": "/assets/graphics/adventure-structures/Training_grounds_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit cavaliers. Replenishes every week. Guarded by several cavaliers"
+    },
+    {
+      "name": "Portal of Glory",
+      "image": "/assets/graphics/adventure-structures/Portal_of_glory_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit angels. Replenishes every week. Guarded by a few angels"
+    }
+  ]
+}

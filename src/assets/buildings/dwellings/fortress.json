@@ -1,0 +1,39 @@
+{
+  "dwelling": [
+    {
+      "name": "Gnoll Hut",
+      "image": "/assets/graphics/adventure-structures/Gnoll_hut_map_-_H3.webp",
+      "description": "Gives gnolls to a visiting hero for free once per week"
+    },
+    {
+      "name": "Lizard Den",
+      "image": "/assets/graphics/adventure-structures/Lizard_den_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit lizardmen. Replenishes every week"
+    },
+    {
+      "name": "Serpent Fly Hive",
+      "image": "/assets/graphics/adventure-structures/Serpent_fly_hive_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit serpent flies. Replenishes every week"
+    },
+    {
+      "name": "Basilisk Pit",
+      "image": "/assets/graphics/adventure-structures/Basilisk_pit_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit basilisks. Replenishes every week"
+    },
+    {
+      "name": "Gorgon Lair",
+      "image": "/assets/graphics/adventure-structures/Gorgon_lair_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit gorgons. Replenishes every week. Guarded by several gorgons"
+    },
+    {
+      "name": "Wyvern Nest",
+      "image": "/assets/graphics/adventure-structures/Wyvern_nest_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit wyverns. Replenishes every week. Guarded by several wyverns"
+    },
+    {
+      "name": "Hydra Pond",
+      "image": "/assets/graphics/adventure-structures/Hydra_pond_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit hydras. Replenishes every week. Guarded by a few hydras"
+    }
+  ]
+}

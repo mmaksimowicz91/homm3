@@ -1,0 +1,174 @@
+{
+  "miscellaneous": [
+    {
+      "name": "Altar of Sacrifice",
+      "image": "/assets/graphics/adventure-structures/Altar_of_sacrifice_-_H3.webp",
+      "description": "Heroes can sacrifice creatures from their army in this structure to gain experience. The amount of experience gained is based on the hit points of the sacrificed creatures"
+    },
+    {
+      "name": "Black Market",
+      "image": "/assets/graphics/adventure-structures/Black_market_-_H3.webp",
+      "description": "The market allows heroes to buy and sell artifacts"
+    },
+    {
+      "name": "Boat",
+      "image": "/assets/graphics/adventure-structures/Boat_-_H3.webp",
+      "description": "Boats are used by heroes on the adventure map to travel across water. They can be built at shipyards or summoned with the summon boat spell"
+    },
+    {
+      "name": "Border Gate",
+      "image": "/assets/graphics/adventure-structures/Border_gate_-_H3.webp",
+      "description": "This structure's purpose is to block access to parts of the map. It will only let heroes pass after they visit the Keymaster's tent of the same color"
+    },
+    {
+      "name": "Border Guard",
+      "image": "/assets/graphics/adventure-structures/Border_guard_-_H3.webp",
+      "description": "This structure's purpose is to block access to parts of the map. It will only let heroes pass after they visit the Keymaster's tent of the same color"
+    },
+    {
+      "name": "Cartographer",
+      "image": "/assets/graphics/adventure-structures/Cartographer_-_H3.webp",
+      "description": "The cartographer proposes to reveal the entire surface on the map for 1000 gold. It is very rare"
+    },
+    {
+      "name": "Cover of Darkness",
+      "image": "/assets/graphics/adventure-structures/Cover_of_darkness_-_H3.webp",
+      "description": "Visiting the Cover of Darkness will cover the nearest city with a permanent shroud for all players"
+    },
+    {
+      "name": "Den of Thieves",
+      "image": "/assets/graphics/adventure-structures/Den_of_thieves_-_H3.webp",
+      "description": "Visiting the structure, the player learns information about the enemy heroes"
+    },
+    {
+      "name": "Dungeon Cartographer",
+      "image": "/assets/graphics/adventure-structures/Cartographer_29_-_H3.webp",
+      "description": "The cartographer proposes to reveal the entire dungeon on the map for 1000 gold"
+    },
+    {
+      "name": "Eye of the Magi",
+      "image": "/assets/graphics/adventure-structures/EyeOfTheMagi_III.webp",
+      "description": "Eye will reveal the area around after visiting the Hut of the Magi"
+    },
+    {
+      "name": "Freelancer's Guild",
+      "image": "/assets/graphics/adventure-structures/Freelancer_guild_29_-_H3.webp",
+      "description": "Structure allows heroes to sell creatures for resources"
+    },
+    {
+      "name": "Garrison",
+      "image": "/assets/graphics/adventure-structures/Garrison_H3.webp",
+      "description": "It is a gate that blocks passage to anyone except the player and their allies, and the enemy must defeat the garrisoned creatures to pass. They are often garrisoned by neutral creatures"
+    },
+    {
+      "name": "Hill Fort",
+      "image": "/assets/graphics/adventure-structures/HillFort_III.webp",
+      "description": "This structure can upgrade any creature in the visiting hero's army, usually at a reduced price"
+    },
+    {
+      "name": "Hut of the Magi",
+      "image": "/assets/graphics/adventure-structures/HutOfTheMagi_III.webp",
+      "description": "Visiting it will reveal the area around the Eye of the Magi. The eye cannot be interacted with, and its only use is to provide sight through the Hut"
+    },
+    {
+      "name": "Jail",
+      "image": "/assets/graphics/adventure-structures/H3-Imprisoned.webp",
+      "description": "The jail holds a hero that will join the side of anyone who frees them. Rescuing a prisoner from a jail is sometimes one of the objectives of a scenario"
+    },
+    {
+      "name": "Lighthouse",
+      "image": "/assets/graphics/adventure-structures/Lighthouse_-_H3.webp",
+      "description": "When a hero gains control of the lighthouse, the faction's heroes gain a bonus to water movement"
+    },
+    {
+      "name": "Keymaster's Tent",
+      "image": "/assets/graphics/adventure-structures/Keymasters_tent_-_H3.webp",
+      "description": "After a hero visits the tent, all of the player's heroes will be able to go through the border gates and border guards of the corresponding color"
+    },
+    {
+      "name": "Magellan's Maps",
+      "image": "/assets/graphics/adventure-structures/Magellans_maps_-_H3.webp",
+      "description": "Retired captain offers to reveal all of the water on the map for 1000 gold"
+    },
+    {
+      "name": "Monolith",
+      "image": "/assets/graphics/adventure-structures/Two-way_monolith_-_H3.webp",
+      "description": "Going into a monolith will take the hero to another monolith. There are two kinds of monoliths: one-way and two-way"
+    },
+    {
+      "name": "Obelisk",
+      "image": "/assets/graphics/adventure-structures/Obelisk_-_H3.webp",
+      "description": "The obelisk reveals a piece of the puzzle map so the player can find the grail. They can appear in many different colors, but functionally they are all identical"
+    },
+    {
+      "name": "Ocean Bottle",
+      "image": "/assets/graphics/adventure-structures/Ocean_bottle_-_H3.webp",
+      "description": "A bottle contains a message for the player"
+    },
+    {
+      "name": "Pillar of Fire",
+      "image": "/assets/graphics/adventure-structures/Pillar_of_fire_-_H3.webp",
+      "description": "This structure removes the fog of war in a big circle around itself when visited by a hero. They can only be found in dungeons"
+    },
+    {
+      "name": "Quest Guard",
+      "image": "/assets/graphics/adventure-structures/QuestGuardH3.webp",
+      "description": "This structure's purpose is to block access to parts of the map. It will give a quest to a visiting hero, and when the hero returns after completing the quest the quest guard disappears and allows passage"
+    },
+    {
+      "name": "Redwood Observatory",
+      "image": "/assets/graphics/adventure-structures/RedwoodObservatoryH3.webp",
+      "description": "This structure removes the fog of war in a big circle around itself when visited by a hero"
+    },
+    {
+      "name": "Sanctuary",
+      "image": "/assets/graphics/adventure-structures/Sanctuary_-_H3.webp",
+      "description": "Entering the sanctuary, the hero will be protected from attacks by enemy heroes"
+    },
+    {
+      "name": "Seer's Hut",
+      "image": "/assets/graphics/adventure-structures/Seers_hut_-_H3.webp",
+      "description": "This structure gives a quest to a visiting hero, and gives a reward when the hero returns after completing the quest"
+    },
+    {
+      "name": "Shipyard",
+      "image": "/assets/graphics/adventure-structures/Shipyard_-_H3.webp",
+      "description": "A visiting hero can purchase ships here. The cost is 1000 gold and 10 wood per ship"
+    },
+    {
+      "name": "Sign",
+      "image": "/assets/graphics/adventure-structures/Sign_-_H3.webp",
+      "description": "A sign indicates a direction or contains a message for player"
+    },
+    {
+      "name": "Sirens",
+      "image": "/assets/graphics/adventure-structures/SirensIII.webp",
+      "description": "They can be found at sea, and if anyone visits them, they will kill 30% of that hero's army, but give them experience based on the hit points of the creatures"
+    },
+    {
+      "name": "Stables",
+      "image": "/assets/graphics/adventure-structures/StablesIII.webp",
+      "description": "Increases the hero's movement day for the rest of that week, allowing them to move further on the adventure map"
+    },
+    {
+      "name": "Subterranean Gate",
+      "image": "/assets/graphics/adventure-structures/SubterraneanGateH3.webp",
+      "description": "Gate used to travel between the surface and the underground"
+    },
+    {
+      "name": "Tavern",
+      "image": "/assets/graphics/adventure-structures/TavernIII.webp",
+      "description": "Taverns on the adventure map allow to recruit other heroes while away from their town"
+    },
+    {
+      "name": "Trading Post",
+      "image": "/assets/graphics/adventure-structures/Trading_post_29_-_H3.webp",
+      "description": "The trading post acts as a marketplace"
+    },
+    {
+      "name": "Whirlpool",
+      "image": "/assets/graphics/adventure-structures/Whirlpool_H3.webp",
+      "description": "The whirlpool can be used to travel to another part of the map, but that will kill 50% of the creatures in the hero's lowest-tier stack"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "dwelling": [
+    {
+      "name": "Magic lantern",
+      "image": "/assets/graphics/adventure-structures/Magic_lantern_map_-_H3.webp",
+      "description": "Gives pixies to a visiting hero for free once per week"
+    },
+    {
+      "name": "Altar of Air",
+      "image": "/assets/graphics/adventure-structures/Altar_of_air_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit air elementals. Replenishes every week"
+    },
+    {
+      "name": "Altar of Water",
+      "image": "/assets/graphics/adventure-structures/Altar_of_water_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit water elementals. Replenishes every week"
+    },
+    {
+      "name": "Altar of Fire",
+      "image": "/assets/graphics/adventure-structures/Altar_of_fire_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit fire elementals. Replenishes every week"
+    },
+    {
+      "name": "Altar of Earth",
+      "image": "/assets/graphics/adventure-structures/Altar_of_earth_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit earth elementals. Replenishes every week. Guarded by several earth elementals"
+    },
+    {
+      "name": "Altar of Thought",
+      "image": "/assets/graphics/adventure-structures/Altar_of_thought_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit psychic elementals. Replenishes every week. Guarded by several psychic elementals"
+    },
+    {
+      "name": "Pyre",
+      "image": "/assets/graphics/adventure-structures/Pyre_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit firebirds. Replenishes every week. Guarded by a few firebirds"
+    }
+  ]
+}

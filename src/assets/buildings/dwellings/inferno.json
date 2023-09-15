@@ -1,0 +1,39 @@
+{
+  "dwelling": [
+    {
+      "name": "Imp Crucible",
+      "image": "/assets/graphics/adventure-structures/Imp_crucible_map_-_H3.webp",
+      "description": "Gives imps to a visiting hero for free once per week"
+    },
+    {
+      "name": "Hall of Sins",
+      "image": "/assets/graphics/adventure-structures/Hall_of_sins_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit gogs. Replenishes every week"
+    },
+    {
+      "name": "Kennels",
+      "image": "/assets/graphics/adventure-structures/Kennels_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit hell hounds. Replenishes every week"
+    },
+    {
+      "name": "Demon Gate",
+      "image": "/assets/graphics/adventure-structures/Demon_gate_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit demons. Replenishes every week"
+    },
+    {
+      "name": "Hell Hole",
+      "image": "/assets/graphics/adventure-structures/Hell_hole_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit pit fiends. Replenishes every week. Guarded by several pit fiends"
+    },
+    {
+      "name": "Fire Lake",
+      "image": "/assets/graphics/adventure-structures/Fire_lake_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit efreet. Replenishes every week. Guarded by several efreet"
+    },
+    {
+      "name": "Forsaken Palace",
+      "image": "/assets/graphics/adventure-structures/Forsaken_palace_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit devils. Replenishes every week. Guarded by a few devils"
+    }
+  ]
+}

@@ -14,8 +14,21 @@ import { TowerDwellingComponent } from './structures/dwellings/tower-dwelling/to
 import { InfernoDwellingComponent } from './structures/dwellings/inferno-dwelling/inferno-dwelling.component';
 import { RampartDwellingComponent } from './structures/dwellings/rampart-dwelling/rampart-dwelling.component';
 import { CastleDwellingComponent } from './structures/dwellings/castle-dwelling/castle-dwelling.component';
+import { TravelMiscComponent } from './structures/travel-misc/travel-misc.component';
 @NgModule({
-  declarations: [AdventureComponent, NecropolisDwellingComponent, ConfluxDwellingComponent, FortressDwellingComponent, DungeonDwellingComponent, StrongholdDwellingComponent, TowerDwellingComponent, InfernoDwellingComponent, RampartDwellingComponent, CastleDwellingComponent],
+  declarations: [
+    AdventureComponent,
+    NecropolisDwellingComponent,
+    ConfluxDwellingComponent,
+    FortressDwellingComponent,
+    DungeonDwellingComponent,
+    StrongholdDwellingComponent,
+    TowerDwellingComponent,
+    InfernoDwellingComponent,
+    RampartDwellingComponent,
+    CastleDwellingComponent,
+    TravelMiscComponent,
+  ],
   imports: [
     CommonModule,
     AdventureRoutingModule,

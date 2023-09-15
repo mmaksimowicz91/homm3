@@ -1,0 +1,39 @@
+{
+  "dwelling": [
+    {
+      "name": "Cursed Temple",
+      "image": "/assets/graphics/adventure-structures/Cursed_temple_map_-_H3.webp",
+      "description": "Gives skeletons to a visiting hero for free once per week"
+    },
+    {
+      "name": "Graveyard",
+      "image": "/assets/graphics/adventure-structures/Graveyard_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit walking dead. Replenishes every week"
+    },
+    {
+      "name": "Tomb of Souls",
+      "image": "/assets/graphics/adventure-structures/Tomb_of_souls_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit wights. Replenishes every week"
+    },
+    {
+      "name": "Estate",
+      "image": "/assets/graphics/adventure-structures/Estate_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit vampires. Replenishes every week"
+    },
+    {
+      "name": "Mausoleum",
+      "image": "/assets/graphics/adventure-structures/Mausoleum_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit liches. Replenishes every week. Guarded by several liches"
+    },
+    {
+      "name": "Hall of Darkness",
+      "image": "/assets/graphics/adventure-structures/Hall_of_darkness_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit black knights. Replenishes every week. Guarded by several black knights"
+    },
+    {
+      "name": "Dragon Vault",
+      "image": "/assets/graphics/adventure-structures/Dragon_vault_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit bone dragons. Replenishes every week. Guarded by a few bone dragons"
+    }
+  ]
+}

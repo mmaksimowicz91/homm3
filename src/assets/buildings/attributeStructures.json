@@ -1,0 +1,134 @@
+{
+  "attribute": [
+    {
+      "name": "Arena",
+      "image": "/assets/graphics/adventure-structures/ArenaIII.webp",
+      "description": "The hero can choose to gain +2 attack or +2 defense. Can be visited once per hero"
+    },
+    {
+      "name": "Buoy",
+      "image": "/assets/graphics/adventure-structures/Buoy_-_H3.webp",
+      "description": "Provides +1 morale for the next battle that the hero fights"
+    },
+    {
+      "name": "Garden of Revelation",
+      "image": "/assets/graphics/adventure-structures/Garden_of_revelation_-_H3.webp",
+      "description": "The structure grants a one-time bonus of +1 to the knowledge skill of visiting heroes"
+    },
+    {
+      "name": "Faerie ring",
+      "image": "/assets/graphics/adventure-structures/FaerieRingH3.webp",
+      "description": "Provides +1 luck for the next battle that the hero fights"
+    },
+    {
+      "name": "Fountain of Fortune",
+      "image": "/assets/graphics/adventure-structures/Fountain_-_H3.webp",
+      "description": "Randomly changes the visiting hero's luck for the next battle that the hero fights. The effect can be positive, negative, or neutral"
+    },
+    {
+      "name": "Fountain of Youth",
+      "image": "/assets/graphics/adventure-structures/Fountain_of_youth_-_H3.webp",
+      "description": "Provides +1 morale for the next battle that the hero fights. Increases the hero's movement by one day, allowing them to move further along the adventure map"
+    },
+    {
+      "name": "Idol of Fortune",
+      "image": "/assets/graphics/adventure-structures/Idol_-_H3.webp",
+      "description": "Provides +1 luck on odd days of the week, +1 morale on even days, and both on the seventh day"
+    },
+    {
+      "name": "Learning stone",
+      "image": "/assets/graphics/adventure-structures/Learning_stone_-_H3.webp",
+      "description": "Adds 1000 experience to visiting hero. Can be visited once per hero"
+    },
+    {
+      "name": "Library of Enlightenment",
+      "image": "/assets/graphics/adventure-structures/Library_of_enlightenment_-_H3.webp",
+      "description": "Provides +2 to all four primary skills of visiting heroes that have reached level 10. Can be visited once per hero"
+    },
+    {
+      "name": "Magic well",
+      "image": "/assets/graphics/adventure-structures/Magic_well_-_H3.webp",
+      "description": "Restores the hero's spell points to the maximum amount"
+    },
+    {
+      "name": "Marletto tower",
+      "image": "/assets/graphics/adventure-structures/Marletto_Tower_-_H3.webp",
+      "description": "The structure grants a one-time bonus of +1 to the defense skill of visiting heroes"
+    },
+    {
+      "name": "Mercenary camp",
+      "image": "/assets/graphics/adventure-structures/Mercenary_camp_-_H3.webp",
+      "description": "The structure grants a one-time bonus of +1 to the attack skill of visiting heroes"
+    },
+    {
+      "name": "Mermaid",
+      "image": "/assets/graphics/adventure-structures/A_mermaids.webp",
+      "description": "Provides +1 luck for the next battle that the hero fights"
+    },
+    {
+      "name": "Rally flag",
+      "image": "/assets/graphics/adventure-structures/Rally_flag_-_H3.webp",
+      "description": "Provides +1 luck and morale for the next battle that the hero fights. Increases the hero's movement by one day, allowing them to move further along the adventure map"
+    },
+    {
+      "name": "Scholar",
+      "image": "/assets/graphics/adventure-structures/Scholar_-_H3.webp",
+      "description": "Provides +1 to the primary skill / learn a random secondary skill / learn a random spell of visiting heroes. After the first visit, he disappears"
+    },
+    {
+      "name": "School of Magic",
+      "image": "/assets/graphics/adventure-structures/School_of_Magic_-_H3.webp",
+      "description": "Provides +1 to the spellpower/knowledge skill of visiting heroes for the 1000 gold. Can be visited once per hero"
+    },
+    {
+      "name": "School of War",
+      "image": "/assets/graphics/adventure-structures/School_of_War_-_H3.webp",
+      "description": "Provides +1 to the attack/defense skill of visiting heroes for the 1000 gold. Can be visited once per hero"
+    },
+    {
+      "name": "Shrine of Magic Incantation",
+      "image": "/assets/graphics/adventure-structures/Shrine_of_Magic_Incantation_-_H3.webp",
+      "description": "As long as the hero has a spellbook, a shrine will teach them a level one spell"
+    },
+    {
+      "name": "Shrine of Magic Gesture",
+      "image": "/assets/graphics/adventure-structures/Shrine_of_Magic_Gesture_-_H3.webp",
+      "description": "As long as the hero has a spellbook, a shrine will teach them a level two spell"
+    },
+    {
+      "name": "Shrine of Magic Thought",
+      "image": "/assets/graphics/adventure-structures/Shrine_of_Magic_Thought_-_H3.webp",
+      "description": "As long as the hero has a spellbook and Wisdom-skill, a shrine will teach them a level three spell"
+    },
+    {
+      "name": "Star axis",
+      "image": "/assets/graphics/adventure-structures/Star_axis_-_H3.webp",
+      "description": "The structure grants a one-time bonus of +1 to the spellpower skill of visiting heroes"
+    },
+    {
+      "name": "Swan pond",
+      "image": "/assets/graphics/adventure-structures/Swan_pond_-_H3.webp",
+      "description": "Provides +2 luck for the next battle that the hero fights. The hero loses the rest of the movement"
+    },
+    {
+      "name": "Temple",
+      "image": "/assets/graphics/adventure-structures/Temple_-_H3.webp",
+      "description": "Provides to hero +2 morale on the seventh day of the week, and +1 morale on other days for the next battle"
+    },
+    {
+      "name": "Tree of Knowledge",
+      "image": "/assets/graphics/adventure-structures/TreeOfKnowledgeIII.webp",
+      "description": "Structure provide an extra level for any hero that visits it, usually at a cost"
+    },
+    {
+      "name": "Witch's hut",
+      "image": "/assets/graphics/adventure-structures/Witchs_hut_-_H3.webp",
+      "description": "Hero can visit the hut to learn a random secondary skill"
+    },
+    {
+      "name": "University",
+      "image": "/assets/graphics/adventure-structures/University_-_H3.webp",
+      "description": "The hero can visit the university to learn each of the four random secondary skills for 2000 gold"
+    }
+  ]
+}

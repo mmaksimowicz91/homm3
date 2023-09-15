@@ -1,0 +1,39 @@
+{
+  "dwelling": [
+    {
+      "name": "Centaur Stables",
+      "image": "/assets/graphics/adventure-structures/Centaur_stables_map_-_H3.webp",
+      "description": "Gives centaurs to a visiting hero for free once per week"
+    },
+    {
+      "name": "Dwarf Cottage",
+      "image": "/assets/graphics/adventure-structures/Dwarf_cottage_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit dwarves. Replenishes every week"
+    },
+    {
+      "name": "Homestead",
+      "image": "/assets/graphics/adventure-structures/Homestead_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit wood elves. Replenishes every week"
+    },
+    {
+      "name": "Enchanted Spring",
+      "image": "/assets/graphics/adventure-structures/Enchanted_spring_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit pegasi. Replenishes every week"
+    },
+    {
+      "name": "Dendroid Arches",
+      "image": "/assets/graphics/adventure-structures/Dendroid_arches_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit dendroid guards. Replenishes every week. Guarded by several dendroid guards"
+    },
+    {
+      "name": "Unicorn Glade",
+      "image": "/assets/graphics/adventure-structures/Unicorn_glade_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit unicorns. Replenishes every week. Guarded by several unicorns"
+    },
+    {
+      "name": "Dragon Cliffs",
+      "image": "/assets/graphics/adventure-structures/Dragon_cliffs_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit green dragons. Replenishes every week. Guarded by a few green dragons"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "dwelling": [
+    {
+      "name": "Workshop",
+      "image": "/assets/graphics/adventure-structures/Workshop_map_-_H3.webp",
+      "description": "Gives gremlins to a visiting hero for free once per week"
+    },
+    {
+      "name": "Parapet",
+      "image": "/assets/graphics/adventure-structures/Parapet_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit stone gargoyles. Replenishes every week"
+    },
+    {
+      "name": "Golem Factory",
+      "image": "/assets/graphics/adventure-structures/Golem_factory_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit stone, iron, gold and diamond golems. Replenishes every week. Guarded by a pack of gold golems and diamond golems"
+    },
+    {
+      "name": "Mage Tower",
+      "image": "/assets/graphics/adventure-structures/Mage_tower_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit mages. Replenishes every week"
+    },
+    {
+      "name": "Altar of Wishes",
+      "image": "/assets/graphics/adventure-structures/Altar_of_wishes_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit genies. Replenishes every week. Guarded by several genies"
+    },
+    {
+      "name": "Golden Pavilion",
+      "image": "/assets/graphics/adventure-structures/Golden_pavilion_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit nagas. Replenishes every week. Guarded by several nagas"
+    },
+    {
+      "name": "Cloud Temple",
+      "image": "/assets/graphics/adventure-structures/Cloud_temple_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit giants. Replenishes every week. Guarded by a few giants"
+    }
+  ]
+}

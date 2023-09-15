@@ -46,6 +46,7 @@ const routes: Routes = [
       import('./modules/adventure/adventure.module').then(
         (m) => m.AdventureModule
       ),
+    data: { breadcrumb: 'Adventure' },
   },
 ];
 

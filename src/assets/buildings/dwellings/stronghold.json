@@ -1,0 +1,39 @@
+{
+  "dwelling": [
+    {
+      "name": "Goblin Barracks",
+      "image": "/assets/graphics/adventure-structures/Goblin_barracks_map_-_H3.webp",
+      "description": "Gives goblins to a visiting hero for free once per week"
+    },
+    {
+      "name": "Wolf pen",
+      "image": "/assets/graphics/adventure-structures/Wolf_pen_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit wolf riders. Replenishes every week"
+    },
+    {
+      "name": "Orc Tower",
+      "image": "/assets/graphics/adventure-structures/Orc_tower_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit orcs. Replenishes every week"
+    },
+    {
+      "name": "Ogre Fort",
+      "image": "/assets/graphics/adventure-structures/Ogre_fort_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit ogres. Replenishes every week"
+    },
+    {
+      "name": "Cliff Nest",
+      "image": "/assets/graphics/adventure-structures/Cliff_nest_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit rocs. Replenishes every week. Guarded by several rocs"
+    },
+    {
+      "name": "Cyclops Cave",
+      "image": "/assets/graphics/adventure-structures/Cyclops_cave_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit cyclopes. Replenishes every week. Guarded by several cyclopes"
+    },
+    {
+      "name": "Behemoth Lair",
+      "image": "/assets/graphics/adventure-structures/Behemoth_lair_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit behemoths. Replenishes every week. Guarded by a few behemoths"
+    }
+  ]
+}

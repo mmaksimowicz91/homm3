@@ -1,0 +1,44 @@
+{
+  "mines": [
+    {
+      "name": "Abandoned Mine",
+      "image": "/assets/graphics/adventure-structures/Abandoned_mine_-_H3.webp",
+      "description": "Abandoned Mine works as any other mine, but is guarded by a throng of Troglodytes. Its production is randomly chosen and it cannot produce wood"
+    },
+    {
+      "name": "Alchemist's Lab",
+      "image": "/assets/graphics/adventure-structures/AlchemistsLabH3.webp",
+      "description": "Provides 1 mercury per day"
+    },
+    {
+      "name": "Crystal Cavern",
+      "image": "/assets/graphics/adventure-structures/CrystalCavernH3.webp",
+      "description": "Provides 1 crystal per day"
+    },
+    {
+      "name": "Gem Pond",
+      "image": "/assets/graphics/adventure-structures/GemPondH3.webp",
+      "description": "Provides 1 gem per day"
+    },
+    {
+      "name": "Gold Mine",
+      "image": "/assets/graphics/adventure-structures/GoldMineH3.webp",
+      "description": "Provides 1000 gold per day"
+    },
+    {
+      "name": "Ore Pit",
+      "image": "/assets/graphics/adventure-structures/OrePitH3.webp",
+      "description": "Provides 2 ore per day"
+    },
+    {
+      "name": "Sawmill",
+      "image": "/assets/graphics/adventure-structures/Sawmill_H3.webp",
+      "description": "Provides 2 wood per day"
+    },
+    {
+      "name": "Sulfur Dune",
+      "image": "/assets/graphics/adventure-structures/SulfurDuneH3.webp",
+      "description": "Provides 1 sulfur per day"
+    }
+  ]
+}

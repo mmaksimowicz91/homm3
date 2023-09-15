@@ -1,0 +1,39 @@
+{
+  "dwelling": [
+    {
+      "name": "Warren",
+      "image": "/assets/graphics/adventure-structures/Warren_map_-_H3.webp",
+      "description": "Gives troglodytes to a visiting hero for free once per week"
+    },
+    {
+      "name": "Harpy loft",
+      "image": "/assets/graphics/adventure-structures/Harpy_loft_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit harpies. Replenishes every week"
+    },
+    {
+      "name": "Pillar of Eyes",
+      "image": "/assets/graphics/adventure-structures/Pillar_of_eyes_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit beholders. Replenishes every week"
+    },
+    {
+      "name": "Chapel of Stilled Voices",
+      "image": "/assets/graphics/adventure-structures/Chapel_of_s_v_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit medusae. Replenishes every week"
+    },
+    {
+      "name": "Labyrinth",
+      "image": "/assets/graphics/adventure-structures/Labyrinth_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit minotaurs. Replenishes every week. Guarded by several minotaurs"
+    },
+    {
+      "name": "Manticore Lair",
+      "image": "/assets/graphics/adventure-structures/Manticore_lair_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit manticores. Replenishes every week. Guarded by several manticores"
+    },
+    {
+      "name": "Dragon Cave",
+      "image": "/assets/graphics/adventure-structures/Dragon_cave_map_-_H3.webp",
+      "description": "Allows visiting heroes to recruit red dragons. Replenishes every week. Guarded by a red dragons"
+    }
+  ]
+}
