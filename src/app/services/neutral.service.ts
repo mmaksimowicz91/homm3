@@ -20,7 +20,10 @@ export class NeutralService {
   towerDwellingUrl = 'assets/buildings/dwellings/tower.json';
   confluxDwellingUrl = 'assets/buildings/dwellings/conflux.json';
   fortressDwellingUrl = 'assets/buildings/dwellings/fortress.json';
-  miscellaneousUrl = '/src/assets/buildings/miscellaneous.json';
+  neutralDwellingUrl = '/assets/buildings/dwellings/neutral.json';
+  miscellaneousUrl = '/assets/buildings/miscellaneous.json';
+  minesUrl = '/assets/buildings/mines.json';
+  treasuresUrl = '/assets/buildings/treasures.json';
 
   constructor(private http: HttpClient) {}
 
@@ -78,5 +81,17 @@ export class NeutralService {
 
   getMiscellaneous(): Observable<AdventureStructures[]> {
     return this.http.get<AdventureStructures[]>(`${this.miscellaneousUrl}`);
+  }
+
+  getMines(): Observable<AdventureStructures[]> {
+    return this.http.get<AdventureStructures[]>(`${this.minesUrl}`);
+  }
+
+  getTreasures(): Observable<AdventureStructures[]> {
+    return this.http.get<AdventureStructures[]>(`${this.treasuresUrl}`);
+  }
+
+  getNeutralDwelling(): Observable<AdventureStructures[]> {
+    return this.http.get<AdventureStructures[]>(`${this.neutralDwellingUrl}`);
   }
 }

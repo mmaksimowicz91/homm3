@@ -47,7 +47,7 @@
     },
     {
       "name": "Warrior's Tomb",
-      "image": "/assets/graphics/adventure-structures",
+      "image": "/assets/graphics/adventure-structures/Warrior's_tomb_-_H3.webp",
       "description": "When a hero approaches the tomb, they have a chance of obtaining a random artifact, but reduces the morale of troops by -3. It will also reduce morale on subsequent visits"
     },
     {

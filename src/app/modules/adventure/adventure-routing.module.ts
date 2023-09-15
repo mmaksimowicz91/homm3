@@ -13,11 +13,13 @@ const routes: Routes = [
       import('./neutral-units/neutral-units.module').then(
         (m) => m.NeutralUnitsModule
       ),
+    data: { breadcrumb: 'Neutral Units' },
   },
   {
     path: 'structures',
     loadChildren: () =>
       import('./structures/structures.module').then((m) => m.StructuresModule),
+    data: { breadcrumb: 'Structures' },
   },
 ];
 
