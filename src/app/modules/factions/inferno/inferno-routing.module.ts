@@ -13,7 +13,7 @@ const routes: Routes = [
       import('./buildings/infernobuildings.module').then(
         (m) => m.InfernoBuildingsModule
       ),
-    data: { breadcrumb: 'Buildings' },
+    data: { breadcrumb: 'infernobuildings' },
   },
   {
     path: 'infernoheroes',
@@ -21,13 +21,13 @@ const routes: Routes = [
       import('./heroes/infernoheroes.module').then(
         (m) => m.InfernoHeroesModule
       ),
-    data: { breadcrumb: 'Heroes' },
+    data: { breadcrumb: 'infernoheroes' },
   },
   {
     path: 'infernounits',
     loadChildren: () =>
       import('./units/infernounits.module').then((m) => m.InfernoUnitsModule),
-    data: { breadcrumb: 'Units' },
+    data: { breadcrumb: 'infernounits' },
   },
 ];
 

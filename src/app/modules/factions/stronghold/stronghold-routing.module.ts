@@ -12,7 +12,7 @@ const routes: Routes = [
       import('./buildings/strongholdbuildings.module').then(
         (m) => m.StrongholdBuildingsModule
       ),
-    data: { breadcrumb: 'Buildings' },
+    data: { breadcrumb: 'strongholdbuildings' },
   },
   {
     path: 'strongholdheroes',
@@ -20,7 +20,7 @@ const routes: Routes = [
       import('./heroes/strongholdheroes.module').then(
         (m) => m.StrongholdHeroesModule
       ),
-    data: { breadcrumb: 'Heroes' },
+    data: { breadcrumb: 'strongholdheroes' },
   },
   {
     path: 'strongholdunits',
@@ -28,7 +28,7 @@ const routes: Routes = [
       import('./units/strongholdunits.module').then(
         (m) => m.StrongholdUnitsModule
       ),
-    data: { breadcrumb: 'Units' },
+    data: { breadcrumb: 'strongholdunits' },
   },
 ];
 

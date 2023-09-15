@@ -13,25 +13,25 @@ const routes: Routes = [
       import('./att-modifiers/att-modifiers.module').then(
         (m) => m.AttModifiersModule
       ),
-    data: { breadcrumb: 'Attribute Modifiers' },
+    data: { breadcrumb: 'att-modifiers' },
   },
   {
     path: 'banks',
     loadChildren: () =>
       import('./banks/banks.module').then((m) => m.BanksModule),
-    data: { breadcrumb: 'Creature Banks' },
+    data: { breadcrumb: 'banks' },
   },
   {
     path: 'mines',
     loadChildren: () =>
       import('./mines/mines.module').then((m) => m.MinesModule),
-    data: { breadcrumb: 'Mines' },
+    data: { breadcrumb: 'mines' },
   },
   {
     path: 'treasures',
     loadChildren: () =>
       import('./treasures/treasures.module').then((m) => m.TreasuresModule),
-    data: { breadcrumb: 'Treasures' },
+    data: { breadcrumb: 'treasures' },
   },
   {
     path: 'travel-misc',
@@ -39,13 +39,13 @@ const routes: Routes = [
       import('./travel-misc/travel-misc.module').then(
         (m) => m.TravelMiscModule
       ),
-    data: { breadcrumb: 'Travel and Miscellaneous' },
+    data: { breadcrumb: 'travel-misc' },
   },
   {
     path: 'dwellings',
     loadChildren: () =>
       import('./dwellings/dwellings.module').then((m) => m.DwellingsModule),
-    data: { breadcrumb: 'Dwellings' },
+    data: { breadcrumb: 'dwellings' },
   },
 ];
 

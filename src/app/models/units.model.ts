@@ -1,5 +1,3 @@
-import { Faction } from './faction.enum';
-
 enum AttackType {
   Ranged = 'ranged',
   Melee = 'melee',

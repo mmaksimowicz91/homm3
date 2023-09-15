@@ -1,5 +1,3 @@
-import { Faction } from './faction.enum';
-
 export interface Buildings {
   structure: string;
   image: string;

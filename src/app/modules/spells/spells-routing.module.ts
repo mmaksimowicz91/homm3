@@ -11,7 +11,7 @@ const routes: Routes = [
     path: 'airspells',
     loadChildren: () =>
       import('./airspells/airspells.module').then((m) => m.AirSpellsModule),
-    data: { breadcrumb: 'Air Spells' },
+    data: { breadcrumb: 'airspells' },
   },
   {
     path: 'earthspells',
@@ -19,7 +19,7 @@ const routes: Routes = [
       import('./earthspells/earthspells.module').then(
         (m) => m.EarthSpellsModule
       ),
-    data: { breadcrumb: 'Earth Spells' },
+    data: { breadcrumb: 'earthspells' },
   },
   {
     path: 'waterspells',
@@ -27,13 +27,13 @@ const routes: Routes = [
       import('./waterspells/waterspells.module').then(
         (m) => m.WaterSpellsModule
       ),
-    data: { breadcrumb: 'Water Spells' },
+    data: { breadcrumb: 'waterspells' },
   },
   {
     path: 'firespells',
     loadChildren: () =>
       import('./firespells/firespells.module').then((m) => m.FireSpellsModule),
-    data: { breadcrumb: 'Fire Spells' },
+    data: { breadcrumb: 'firespells' },
   },
 ];
 

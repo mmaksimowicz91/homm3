@@ -18,19 +18,19 @@ const routes: Routes = [
       import('./modules/factions/factions.module').then(
         (m) => m.FactionsModule
       ),
-    data: { breadcrumb: 'Factions' },
+    data: { breadcrumb: 'factions' },
   },
   {
     path: 'spells',
     loadChildren: () =>
       import('./modules/spells/spells.module').then((m) => m.SpellsModule),
-    data: { breadcrumb: 'Spells' },
+    data: { breadcrumb: 'spells' },
   },
   {
     path: 'skills',
     loadChildren: () =>
       import('./modules/skills/skills.module').then((m) => m.SkillsModule),
-    data: { breadcrumb: 'Skills' },
+    data: { breadcrumb: 'skills' },
   },
   {
     path: 'artifacts',
@@ -38,7 +38,7 @@ const routes: Routes = [
       import('./modules/artifacts/artifacts.module').then(
         (m) => m.ArtifactsModule
       ),
-    data: { breadcrumb: 'Artifacts' },
+    data: { breadcrumb: 'artifacts' },
   },
   {
     path: 'adventure',
@@ -46,7 +46,7 @@ const routes: Routes = [
       import('./modules/adventure/adventure.module').then(
         (m) => m.AdventureModule
       ),
-    data: { breadcrumb: 'Adventure' },
+    data: { breadcrumb: 'adventure' },
   },
 ];
 

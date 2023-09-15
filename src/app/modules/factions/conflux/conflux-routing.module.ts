@@ -13,7 +13,7 @@ const routes: Routes = [
       import('./buildings/confluxbuildings.module').then(
         (m) => m.ConfluxBuildingsModule
       ),
-    data: { breadcrumb: 'Buildings' },
+    data: { breadcrumb: 'confluxbuildings' },
   },
   {
     path: 'confluxheroes',
@@ -21,13 +21,13 @@ const routes: Routes = [
       import('./heroes/confluxheroes.module').then(
         (m) => m.ConfluxHeroesModule
       ),
-    data: { breadcrumb: 'Heroes' },
+    data: { breadcrumb: 'confluxheroes' },
   },
   {
     path: 'confluxunits',
     loadChildren: () =>
       import('./units/confluxunits.module').then((m) => m.ConfluxUnitsModule),
-    data: { breadcrumb: 'Units' },
+    data: { breadcrumb: 'confluxunits' },
   },
 ];
 

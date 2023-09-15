@@ -13,7 +13,7 @@ const routes: Routes = [
       import('./castle-dwelling/castle-dwelling.module').then(
         (m) => m.CastleDwellingModule
       ),
-    data: { breadcrumb: 'Castle Dwellings' },
+    data: { breadcrumb: 'castle-dwelling' },
   },
   {
     path: 'conflux-dwelling',
@@ -21,7 +21,7 @@ const routes: Routes = [
       import('./conflux-dwelling/conflux-dwelling.module').then(
         (m) => m.ConfluxDwellingModule
       ),
-    data: { breadcrumb: 'Conflux Dwellings' },
+    data: { breadcrumb: 'conflux-dwelling' },
   },
   {
     path: 'dungeon-dwelling',
@@ -29,7 +29,7 @@ const routes: Routes = [
       import('./dungeon-dwelling/dungeon-dwelling.module').then(
         (m) => m.DungeonDwellingModule
       ),
-    data: { breadcrumb: 'Dungeon Dwellings' },
+    data: { breadcrumb: 'dungeon-dwelling' },
   },
   {
     path: 'fortress-dwelling',
@@ -37,7 +37,7 @@ const routes: Routes = [
       import('./fortress-dwelling/fortress-dwelling.module').then(
         (m) => m.FortressDwellingModule
       ),
-    data: { breadcrumb: 'Fortress Dwellings' },
+    data: { breadcrumb: 'fortress-dwelling' },
   },
   {
     path: 'inferno-dwelling',
@@ -45,7 +45,7 @@ const routes: Routes = [
       import('./inferno-dwelling/inferno-dwelling.module').then(
         (m) => m.InfernoDwellingModule
       ),
-    data: { breadcrumb: 'Inferno Dwellings' },
+    data: { breadcrumb: 'inferno-dwelling' },
   },
   {
     path: 'necropolis-dwelling',
@@ -53,7 +53,7 @@ const routes: Routes = [
       import('./necropolis-dwelling/necropolis-dwelling.module').then(
         (m) => m.NecropolisDwellingModule
       ),
-    data: { breadcrumb: 'FNecropolis Dwellings' },
+    data: { breadcrumb: 'necropolis-dwelling' },
   },
   {
     path: 'neutral-dwelling',
@@ -61,7 +61,7 @@ const routes: Routes = [
       import('./neutral-dwelling/neutral-dwelling.module').then(
         (m) => m.NeutralDwellingModule
       ),
-    data: { breadcrumb: 'Neutral Dwellings' },
+    data: { breadcrumb: 'neutral-dwelling' },
   },
   {
     path: 'rampart-dwelling',
@@ -69,7 +69,7 @@ const routes: Routes = [
       import('./rampart-dwelling/rampart-dwelling.module').then(
         (m) => m.RampartDwellingModule
       ),
-    data: { breadcrumb: 'Rampart Dwellings' },
+    data: { breadcrumb: 'rampart-dwelling' },
   },
   {
     path: 'stronghold-dwelling',
@@ -77,7 +77,7 @@ const routes: Routes = [
       import('./stronghold-dwelling/stronghold-dwelling.module').then(
         (m) => m.StrongholdDwellingModule
       ),
-    data: { breadcrumb: 'Stronghold Dwellings' },
+    data: { breadcrumb: 'stronghold-dwelling' },
   },
   {
     path: 'tower-dwelling',
@@ -85,7 +85,7 @@ const routes: Routes = [
       import('./tower-dwelling/tower-dwelling.module').then(
         (m) => m.TowerDwellingModule
       ),
-    data: { breadcrumb: 'Tower Dwellings' },
+    data: { breadcrumb: 'tower-dwelling' },
   },
 ];
 

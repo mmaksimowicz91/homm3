@@ -13,7 +13,7 @@ const routes: Routes = [
       import('./buildings/necropolisbuildings.module').then(
         (m) => m.NecropolisBuildingsModule
       ),
-    data: { breadcrumb: 'Buildings' },
+    data: { breadcrumb: 'necropolisbuildings' },
   },
   {
     path: 'necropolisheroes',
@@ -21,7 +21,7 @@ const routes: Routes = [
       import('./heroes/necropolisheroes.module').then(
         (m) => m.NecropolisHeroesModule
       ),
-    data: { breadcrumb: 'Heroes' },
+    data: { breadcrumb: 'necropolisheroes' },
   },
   {
     path: 'necropolisunits',
@@ -29,7 +29,7 @@ const routes: Routes = [
       import('./units/necropolisunits.module').then(
         (m) => m.NecropolisUnitsModule
       ),
-    data: { breadcrumb: 'Units' },
+    data: { breadcrumb: 'necropolisunits' },
   },
 ];
 

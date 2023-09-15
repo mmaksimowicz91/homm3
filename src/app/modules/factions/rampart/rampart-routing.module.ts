@@ -13,7 +13,7 @@ const routes: Routes = [
       import('./buildings/rampartbuildings.module').then(
         (m) => m.RampartBuildingsModule
       ),
-    data: { breadcrumb: 'Buildings' },
+    data: { breadcrumb: 'rampartbuildings' },
   },
   {
     path: 'rampartheroes',
@@ -21,13 +21,13 @@ const routes: Routes = [
       import('./heroes/rampartheroes.module').then(
         (m) => m.RampartHeroesModule
       ),
-    data: { breadcrumb: 'Heroes' },
+    data: { breadcrumb: 'rampartheroes' },
   },
   {
     path: 'rampartunits',
     loadChildren: () =>
       import('./units/rampartunits.module').then((m) => m.RampartUnitsModule),
-    data: { breadcrumb: 'Units' },
+    data: { breadcrumb: 'rampartunits' },
   },
 ];
 

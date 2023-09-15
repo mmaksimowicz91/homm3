@@ -13,7 +13,7 @@ const routes: Routes = [
       import('./buildings/dungeonbuildings.module').then(
         (m) => m.DungeonBuildingsModule
       ),
-    data: { breadcrumb: 'Buildings' },
+    data: { breadcrumb: 'dungeonbuildings' },
   },
   {
     path: 'dungeonheroes',
@@ -21,13 +21,13 @@ const routes: Routes = [
       import('./heroes/dungeonheroes.module').then(
         (m) => m.DungeonHeroesModule
       ),
-    data: { breadcrumb: 'Heroes' },
+    data: { breadcrumb: 'dungeonheroes' },
   },
   {
     path: 'dungeonunits',
     loadChildren: () =>
       import('./units/dungeonunits.module').then((m) => m.DungeonUnitsModule),
-    data: { breadcrumb: 'Units' },
+    data: { breadcrumb: 'dungeonunits' },
   },
 ];
 

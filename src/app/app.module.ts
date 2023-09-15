@@ -10,9 +10,11 @@ import { AppComponent } from './app.component';
 
 import { MatTableModule } from '@angular/material/table';
 import { BreadcrumbsComponent } from './shared/breadcrumbs/breadcrumbs.component';
+import { HeaderComponent } from './shared/header/header.component';
+import { FooterComponent } from './shared/footer/footer.component';
 
 @NgModule({
-  declarations: [AppComponent, BreadcrumbsComponent],
+  declarations: [AppComponent, BreadcrumbsComponent, HeaderComponent, FooterComponent],
   imports: [
     // RouterModule.forRoot(routes),
     BrowserModule,

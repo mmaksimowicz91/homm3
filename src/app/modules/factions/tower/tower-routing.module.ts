@@ -13,19 +13,19 @@ const routes: Routes = [
       import('./buildings/towerbuildings.module').then(
         (m) => m.TowerBuildingsModule
       ),
-    data: { breadcrumb: 'Buildings' },
+    data: { breadcrumb: 'towerbuildings' },
   },
   {
     path: 'towerheroes',
     loadChildren: () =>
       import('./heroes/towerheroes.module').then((m) => m.TowerHeroesModule),
-    data: { breadcrumb: 'Heroes' },
+    data: { breadcrumb: 'towerheroes' },
   },
   {
     path: 'towerunits',
     loadChildren: () =>
       import('./units/towerunits.module').then((m) => m.TowerUnitsModule),
-    data: { breadcrumb: 'Units' },
+    data: { breadcrumb: 'towerunits' },
   },
 ];
 

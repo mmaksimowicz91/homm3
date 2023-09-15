@@ -13,7 +13,7 @@ const routes: Routes = [
       import('./buildings/fortressbuildings.module').then(
         (m) => m.FortressBuildingsModule
       ),
-    data: { breadcrumb: 'Buildings' },
+    data: { breadcrumb: 'fortressbuildings' },
   },
   {
     path: 'fortressheroes',
@@ -21,13 +21,13 @@ const routes: Routes = [
       import('./heroes/fortressheroes.module').then(
         (m) => m.FortressHeroesModule
       ),
-    data: { breadcrumb: 'Heroes' },
+    data: { breadcrumb: 'fortressheroes' },
   },
   {
     path: 'fortressunits',
     loadChildren: () =>
       import('./units/fortressunits.module').then((m) => m.FortressUnitsModule),
-    data: { breadcrumb: 'Units' },
+    data: { breadcrumb: 'fortressunits' },
   },
 ];
 
