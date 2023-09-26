@@ -11,7 +11,7 @@ export class BreadcrumbsComponent {
 
   constructor(private breadcrumbsService: BreadcrumbsService) {
     this.breadcrumbsService.breadcrumbs$.subscribe((paths) => {
-      this.breadcrumbs = paths.map((path) => ({ path, label: path }));
+      this.breadcrumbs = paths;
     });
   }
 }

@@ -5,10 +5,12 @@ import { BehaviorSubject } from 'rxjs';
   providedIn: 'root',
 })
 export class BreadcrumbsService {
-  private breadcrumbs = new BehaviorSubject<string[]>([]);
+  private breadcrumbs = new BehaviorSubject<{ label: string; path: string }[]>(
+    []
+  );
   breadcrumbs$ = this.breadcrumbs.asObservable();
 
-  setBreadcrumbs(paths: string[]) {
+  setBreadcrumbs(paths: { label: string; path: string }[]) {
     this.breadcrumbs.next(paths);
   }
 }

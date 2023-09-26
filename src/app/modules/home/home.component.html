@@ -1,8 +1,12 @@
 <h1>Home</h1>
-<div>
-  <a href="factions">Factions</a>
+<div class="button-row">
+  <button (click)="navigateTo('factions')">Factions</button>
+  <button (click)="navigateTo('artifacts')">Artifacts</button>
 </div>
-<div><a href="artifacts">Artifacts</a></div>
-<div><a href="spells">Spells</a></div>
-<div><a href="skills">Skills</a></div>
-<div><a href="adventure">Adventure Objects</a></div>
+<div class="button-row">
+  <button (click)="navigateTo('spells')">Spells</button>
+  <button (click)="navigateTo('skills')">Skills</button>
+</div>
+<div class="button-row">
+  <button (click)="navigateTo('adventure')">Adventure Objects</button>
+</div>

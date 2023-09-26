@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'factions',
@@ -6,5 +7,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./factions.component.scss'],
 })
 export class FactionsComponent {
-  constructor() {}
+  constructor(private router: Router) {}
+
+  navigateTo(path: string) {
+    this.router.navigate([path]);
+  }
 }

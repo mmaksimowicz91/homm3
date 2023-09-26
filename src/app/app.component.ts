@@ -18,13 +18,34 @@ export class AppComponent {
         filter((event) => event instanceof NavigationEnd),
         map(() => this.router.routerState.root),
         map((route) => {
-          const paths: string[] = [];
+          const paths: { label: string; path: string }[] = [];
+          let currentPath = '';
           while (route.firstChild) {
             route = route.firstChild;
             if (route.snapshot.data && route.snapshot.data['breadcrumb']) {
-              paths.push(route.snapshot.data['breadcrumb']);
+              currentPath +=
+                '/' +
+                route.snapshot.url.map((segment) => segment.path).join('/');
+              paths.push({
+                label: route.snapshot.data['breadcrumb'],
+                path: currentPath,
+              });
             }
           }
+
+          if (paths.length > 0) {
+            paths.pop();
+          }
+
+          if (
+            paths.length > 1 &&
+            paths[paths.length - 1].label === paths[paths.length - 2].label
+          ) {
+            paths.pop();
+          }
+
+          const homeBreadcrumb = { label: 'home', path: '/' };
+          paths.unshift(homeBreadcrumb);
           return paths;
         })
       )

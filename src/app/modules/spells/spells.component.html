@@ -1,7 +1,11 @@
 <header><h1>Spells</h1></header>
-<div><a routerLink="/spells/airspells">Air Spells</a></div>
-<div><a routerLink="/spells/earthspells">Earth Spells</a></div>
-<div><a routerLink="/spells/waterspells">Water Spells</a></div>
-<div><a routerLink="/spells/firespells">Fire Spells</a></div>
+<div class="button-row">
+  <button (click)="navigateTo('/spells/airspells')">Air Spells</button>
+  <button (click)="navigateTo('/spells/earthspells')">Earth Spells</button>
+</div>
+<div class="button-row">
+  <button (click)="navigateTo('/spells/waterspells')">Water Spells</button>
+  <button (click)="navigateTo('/spells/firespells')">Fire Spells</button>
+</div>
 
 <router-outlet></router-outlet>
