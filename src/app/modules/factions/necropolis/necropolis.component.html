@@ -1,5 +1,13 @@
 <h1>Necropolis</h1>
-<a routerLink="necropolisbuildings">Buildings</a><br />
-<a routerLink="necropolisheroes">Heroes</a><br />
-<a routerLink="necropolisunits">Units</a>
+<div class="button-row">
+  <button (click)="navigateTo('/factions/necropolis/necropolisbuildings')">
+    Buildings
+  </button>
+  <button (click)="navigateTo('/factions/necropolis/necropolisheroes')">
+    Heroes
+  </button>
+  <button (click)="navigateTo('/factions/necropolis/necropolisunits')">
+    Units
+  </button>
+</div>
 <router-outlet></router-outlet>

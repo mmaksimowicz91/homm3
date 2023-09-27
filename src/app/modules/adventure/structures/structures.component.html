@@ -1,8 +1,23 @@
 <header><h1>Structures</h1></header>
-<div><a routerLink="att-modifiers">Attribute Modifiers</a></div>
-<div><a routerLink="banks">Creature Banks</a></div>
-<div><a routerLink="dwellings">Creature Dwellings</a></div>
-<div><a routerLink="mines">Mines</a></div>
-<div><a routerLink="travel-misc">Travel and Miscellaneous</a></div>
-<div><a routerLink="treasures">Treasures</a></div>
+<div class="button-row">
+  <button (click)="navigateTo('/adventure/structures/att-modifiers')">
+    Attribute Modifiers
+  </button>
+  <button (click)="navigateTo('/adventure/structures/banks')">
+    Creature Banks
+  </button>
+  <button (click)="navigateTo('/adventure/structures/dwellings')">
+    Creature Dwellings
+  </button>
+</div>
+<div class="button-row">
+  <button (click)="navigateTo('/adventure/structures/mines')">Mines</button>
+  <button (click)="navigateTo('/adventure/structures/travel-misc')">
+    Travel and Miscellaneous
+  </button>
+  <button (click)="navigateTo('/adventure/structures/treasures')">
+    Treasures
+  </button>
+</div>
+
 <router-outlet></router-outlet>

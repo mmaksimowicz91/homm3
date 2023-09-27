@@ -1,5 +1,11 @@
 <h1>Rampart</h1>
-<a routerLink="rampartbuildings">Buildings</a><br />
-<a routerLink="rampartheroes">Heroes</a><br />
-<a routerLink="rampartunits">Units</a>
+<div class="button-row">
+  <button (click)="navigateTo('/factions/rampart/rampartbuildings')">
+    Buildings
+  </button>
+  <button (click)="navigateTo('/factions/rampart/rampartheroes')">
+    Heroes
+  </button>
+  <button (click)="navigateTo('/factions/rampart/rampartunits')">Units</button>
+</div>
 <router-outlet></router-outlet>

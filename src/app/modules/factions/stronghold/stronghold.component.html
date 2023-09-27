@@ -1,5 +1,13 @@
 <h1>Stronghold</h1>
-<a routerLink="strongholdbuildings">Buildings</a><br />
-<a routerLink="strongholdheroes">Heroes</a><br />
-<a routerLink="strongholdunits">Units</a>
+<div class="button-row">
+  <button (click)="navigateTo('/factions/stronghold/strongholdbuildings')">
+    Buildings
+  </button>
+  <button (click)="navigateTo('/factions/stronghold/strongholdheroes')">
+    Heroes
+  </button>
+  <button (click)="navigateTo('/factions/stronghold/strongholdunits')">
+    Units
+  </button>
+</div>
 <router-outlet></router-outlet>

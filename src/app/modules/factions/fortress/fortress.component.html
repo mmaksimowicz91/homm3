@@ -1,5 +1,13 @@
 <h1>Fortress</h1>
-<a routerLink="fortressbuildings">Buildings</a><br />
-<a routerLink="fortressheroes">Heroes</a><br />
-<a routerLink="fortressunits">Units</a>
+<div class="button-row">
+  <button (click)="navigateTo('/factions/fortress/fortressbuildings')">
+    Buildings
+  </button>
+  <button (click)="navigateTo('/factions/fortress/fortressheroes')">
+    Heroes
+  </button>
+  <button (click)="navigateTo('/factions/fortress/fortressunits')">
+    Units
+  </button>
+</div>
 <router-outlet></router-outlet>

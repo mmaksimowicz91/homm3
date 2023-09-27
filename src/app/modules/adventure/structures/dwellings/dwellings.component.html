@@ -1,16 +1,61 @@
 <header><h1>Creature Dwellings</h1></header>
-<div><a routerLink="castle-dwelling">Castle Dwellings</a></div>
-<div><a routerLink="rampart-dwelling">Rampart Dwellings</a></div>
-<div><a routerLink="tower-dwelling">Tower Dwellings</a></div>
-<div><a routerLink="inferno-dwelling">Inferno Dwellings</a></div>
-<div>
-  <a routerLink="necropolis-dwelling">Necropolis Dwellings</a>
+<div class="button-row">
+  <button
+    (click)="navigateTo('/adventure/structures/dwellings/castle-dwelling')"
+  >
+    Castle
+  </button>
+  <button
+    (click)="navigateTo('/adventure/structures/dwellings/rampart-dwelling')"
+  >
+    Rampart
+  </button>
+  <button
+    (click)="navigateTo('/adventure/structures/dwellings/tower-dwelling')"
+  >
+    Tower
+  </button>
 </div>
-<div><a routerLink="dungeon-dwelling">Dungeon Dwellings</a></div>
-<div>
-  <a routerLink="stronghold-dwelling">Stronghold Dwellings</a>
+<div class="button-row">
+  <button
+    (click)="navigateTo('/adventure/structures/dwellings/inferno-dwelling')"
+  >
+    Inferno
+  </button>
+  <button
+    (click)="navigateTo('/adventure/structures/dwellings/necropolis-dwelling')"
+  >
+    Necropolis
+  </button>
+  <button
+    (click)="navigateTo('/adventure/structures/dwellings/dungeon-dwelling')"
+  >
+    Dungeon
+  </button>
 </div>
-<div><a routerLink="fortress-dwelling">Fortress Dwellings</a></div>
-<div><a routerLink="conflux-dwelling">Conflux Dwellings</a></div>
-<div><a routerLink="neutral-dwelling">Neutral Dwellings</a></div>
+<div class="button-row">
+  <button
+    (click)="navigateTo('/adventure/structures/dwellings/stronghold-dwelling')"
+  >
+    Stronghold
+  </button>
+  <button
+    (click)="navigateTo('/adventure/structures/dwellings/fortress-dwelling')"
+  >
+    Fortress
+  </button>
+  <button
+    (click)="navigateTo('/adventure/structures/dwellings/conflux-dwelling')"
+  >
+    Conflux
+  </button>
+</div>
+<div class="button-row">
+  <button
+    (click)="navigateTo('/adventure/structures/dwellings/neutral-dwelling')"
+  >
+    Neutral
+  </button>
+</div>
+
 <router-outlet></router-outlet>
